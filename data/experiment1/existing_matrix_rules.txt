@@ -1,0 +1,27 @@
+Seq
+#
+(115)	 	Publisher
+260/264$b
+(11/10)	 	Bib. Type/Level
+ldr/6,2
+(23/7)	 	Form of Item
+008/23,1
+(2/2)	 	Place of Publication
+008/15,3
+(91/85)	 	Language
+008/35,3
+(4/2)	 	Govt. Doc.
+008/28,1
+(33/5)	 	Location
+980$-h
+(2/2)	 	Requestor
+981$n
+(3/3)	 	Date <=
+008/7,4
+(3/2)	 	BulkImp
+Output
+(89/38)	 	Folder
+Output
+(115/46)	 	Output Vendor
+Output
+(115/47)

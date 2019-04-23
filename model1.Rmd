@@ -1,0 +1,109 @@
+---
+title: "model1"
+author: "Adam Chandler"
+date: "August 29, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+# Load tidyverse and caret
+library(caret)
+library(tidyverse)
+library(janitor)
+library(stringr)
+library(forcats)
+library(yardstick)
+
+# load dataset
+df_raw <- read_delim("data/experiment1/dfready4ml.txt",
+"\t", escape_double = FALSE, trim_ws = TRUE)
+
+
+
+```
+
+```{r}
+#prepare dataset
+
+df <- df_raw %>%
+  clean_names %>%
+  mutate(vendor_code = str_to_lower(vendor_code),
+         publisher = str_to_lower(publisher)) %>%
+  mutate_if(is.character,as.factor) %>%
+  mutate(vendor_code = fct_lump(vendor_code, prop = .0005),
+         language = fct_lump(language, prop = .0005),
+         date = fct_lump(date, n = 4),
+         place = fct_lump(place, prop = .0005),
+         publisher = fct_lump(publisher, prop = .0015)) %>%
+  mutate(publisher = fct_explicit_na(publisher, na_level = "Missing"),
+         publisher = fct_recode(publisher, "Other" = "Missing"),
+         fund = fct_explicit_na(fund, na_level = "Missing"))
+
+```
+
+
+
+```{r}
+# Split dataset into training and test sets
+set.seed(1234)
+in_train <- createDataPartition(df$vendor_code, p = .80, list = FALSE)
+training <- df[in_train, ]
+testing <- df[-in_train, ]
+
+
+```
+
+
+
+```{r}
+# EDA
+
+glimpse(df)
+levels(df$place)
+
+glimpse(testing)
+
+df %>%
+  count(language, place, vendor_code) %>%
+  arrange(desc(n))
+
+```
+
+```{r}
+# upsample
+
+up_train <- upSample(x = select(training, -vendor_code),
+                     y = training$vendor_code,
+                     yname = "vendor_code") %>%
+    as_tibble()
+
+up_train %>%
+    count(vendor_code)
+
+```
+
+
+```{r}
+
+# model sandbox
+
+model_dataset <- training
+model_sandbox <- train(vendor_code ~ place + language + fund, data = model_dataset, 
+                       method = "ranger"
+               )
+
+model_sandbox
+results_sandbox <- testing %>%
+    mutate(random_forest = predict(model_sandbox, testing))
+metrics(results_sandbox, truth = vendor_code, estimate = random_forest)
+
+results_sandbox %>%
+  count(vendor_code, random_forest)
+
+```
+

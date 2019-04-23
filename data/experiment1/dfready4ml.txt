@@ -1,0 +1,2627 @@
+BIB_ID	VENDOR_CODE	bibtype	date	form	place	language	govdoc	publisher	fund	poofid
+10377634	AUX/E	am	2017	\	fr\	fre	\	Amis de Van éditions	8110	14894
+10377638	AUX/E	am	2017	\	fr\	fre	\	Éditions peuple libre	8110	14891
+10377640	AUX/E	am	2017	b	fr\	fre	\	L'Harmattan	8110	14885
+10377641	AUX/E	am	2017	b	fr\	fre	\	L'Harmattan	8110	14883
+10377651	AUX/E	am	2017	b	fr\	fre	\	Presses universitaires de Provence	8110	14878
+10362920	AUX/E	am	2018	\	fr\	fre	\	Les éditions de Paris, Max Chaleil	p2256	14730
+10362923	AUX/E	am	2017	\	fr\	fre	\	Éditions Le Manuscrit	p2256	14728
+10362924	AUX/E	am	2018	b	fr\	fre	\	Canopé éditions	p2256	14727
+10362925	AUX/E	am	2017	b	fr\	fre	\	Éditions Le Manuscrit :$bFondation pour la mémoire de la Shoah	p2256	14726
+10362928	AUX/E	am	2018	\	fr\	fre	\	Presses de la Renaissance	p2850	14716
+10362932	AUX/E	am	2017	b	fr\	fre	\	Lichma	p2256	14715
+10362934	AUX/E	am	2018	b	fr\	fre	\	Libertalia	p2256	14714
+10362939	AUX/E	am	2018	b	fr\	fre	\	Liana Levi	p2256	14712
+10362940	AUX/E	am	2018	b	fr\	fre	\	Éditions François Bourin	p2256	14711
+10362941	AUX/E	am	2015	\	fr\	fre	\	Bord de l'eau	p2256	14710
+10362943	AUX/E	am	2018	b	fr\	fre	\	Le Bord de l'eau	p2256	14709
+10362945	AUX/E	am	2017	\	fr\	fre	\	Éditions Le Petit Cercle	p2256	14708
+10362947	AUX/E	am	2018	b	fr\	fre	\	L'Archipel	p2256	14707
+10362949	AUX/E	am	2017	b	fr\	fre	\	L'Harmattan	p2256	14706
+10362952	AUX/E	am	2017	b	fr\	fre	\	L'Harmattan	8110	14696
+10362936	AUX/E	am	2008	b	fr\	fre	\	Éditions du Cerf	p2256	14713
+10385682	AUX/E	am	2012	b	fr\	fre	\	Michalon Éditions	p2156	15248
+10382914	AUX/E	am	2018	b	fr\	fre	\	L'Harmattan	p2257	15091
+10382916	AUX/E	am	2018	b	fr\	fre	\	L'Harmattan	p2257	15090
+10382917	AUX/E	am	2018	6	fr\	fre	\	Éditions Denoël	p2257	15088
+10382921	AUX/E	am	2018	b	fr\	fre	\	Lichma	p2257	15086
+10382924	AUX/E	am	2018	b	fr\	fre	\	Perrin	p2257	15085
+10382929	AUX/E	am	2017	b	fr\	fre	\	Porte-plume	p2257	15084
+10380033	AUX/E	am	2018	\	fr\	fre	\	La Martinière	8110	15015
+10377995	AUX/E	am	2017	b	fr\	fre	\	Presses universitaires de Provence	592	14945
+10377997	AUX/E	am	2017	b	fr\	fre	\	Epure. Editions et presses universita	592	14940
+10377902	AUX/E	am	2017	b	fr\	fre	\	CNRS éditions	NA	NA
+10377629	AUX/E	am	2017	b	fr\	fre	\	les Belles Lettres	p2852	14907
+10360125	AUX/E	am	2018	b	be\	eng	\	Brepols Publishers	p7156	14458
+10360127	AUX/E	am	2018	b	be\	eng	\	Brepols	p7156	14457
+9861960	AUX/E	am	2017	b	sz\	fre	\	Park Books	p6752	4563
+9861960	AUX/E	am	2017	b	sz\	fre	\	Park Books	p6752	4563
+9861960	AUX/E	am	2017	b	sz\	fre	\	Park Books	p6752	4563
+10358678	AUX/E	am	2017	b	be\	eng	\	Snoeck	8110	14319
+10358681	AUX/E	am	2011	\	fr\	fre	\	Harmattan	8110	14297
+10358685	AUX/E	am	2012	\	fr\	fre	\	Asiexpo edition	8110	14296
+10356547	AUX/E	am	2017	\	fr\	fre	\	Éditions Métailié	p8350	14189
+10356551	AUX/E	am	2017	\	fr\	fre	\	Éditions Métailié	p8350	14188
+10356552	AUX/E	am	2015	b	fr\	fre	\	L'Harmattan	p4050	14182
+10355936	AUX/E	am	2015	\	fr\	fre	\	Riveneuve éditions	7110	14170
+10353946	AUX/E	am	2017	b	fr\	fre	\	Éditions de Solesmes	7110	14052
+10354460	AUX/E	am	2017	b	fr\	fre	\	Publications de l'Université de Saint-Étienne	7110	14085
+10353949	AUX/E	am	2017	b	fr\	fre	\	Éditions MF	7110	14045
+10353953	AUX/E	am	2017	\	fr\	fre	\	Buchet-Chastel	7110	14043
+10353418	AUX/E	am	2017	b	fr\	fre	\	Palio	7110	13972
+10349699	AUX/E	am	2017	\	quc	fre	\	Les Arènes	p2662	13890
+10328452	AUX/E	am	2016	b	fr\	fre	\	Editions du puits de roulle	7110	13533
+10328454	AUX/E	am	2016	b	fr\	fre	\	Hermann Éditeurs	7110	13531
+10327065	AUX/E	am	2017	b	fr\	fre	\	L'Harmattan	7110	13393
+10327068	AUX/E	am	2017	b	fr\	fre	\	Actes sud ;$aBeyrouth :$bL'Orient des livres	p2155	13389
+10319903	AUX/E	am	2018	6	fr\	fre	\	Encre de nuit	p2155	13102
+10319904	AUX/E	am	2018	b	fr\	fre	\	Presses universitaires du Septentrion	p2553	13090
+10319208	AUX/E	am	2016	b	fr\	fre	\	Éditions Kimé	7110	13054
+10317780	AUX/E	am	2010	b	fr\	fre	\	L'Harmattan	p3153	13009
+10317778	AUX/E	am	2001	b	fr\	fre	\	Institut du monde arabe	p8352	13020
+10316030	AUX/E	am	2017	b	fr\	fre	\	L'Harmattan	7110	12959
+10317285	AUX/E	am	2016	b	mr\	fre	\	Empreintes Edition	p2155	12996
+10317294	AUX/E	am	2017	b	mr\	fre	\	En toutes lettres	p2155-olin	NA
+10316032	AUX/E	am	2017	\	fr\	fre	\	Éditions Pétra	7110	12958
+10299070	AUX/E	am	2011	\	fr\	fre	\	Gallimard	2662	12720
+10299073	AUX/E	am	2000	b	fr\	fre	\	Gallimard	2662	12719
+10299076	AUX/E	am	2018	b	fr\	fre	\	Presses universitaires de France	p2153	12710
+10298550	AUX/E	am	2017	b	be\	eng	\	Snoeck Ducaju & Zoon	p8155	12636
+10298549	AUX/E	am	2017	b	be\	eng	\	Snoeck	p8155	12637
+10296116	AUX/E	am	2014	b	fr\	fre	\	CNRS éditions	p2251	12502
+10294989	AUX/E	am	2017	b	fr\	fre	\	L'Harmattan	7110	12450
+10294991	AUX/E	am	2017	b	fr\	fre	\	Plon	7110	12448
+10295403	AUX/E	am	2015	b	fr\	fre	\	P.O.L.	2115	12458
+10294388	AUX/E	am	2016	b	fr\	fre	\	L'Artilleur	p2155	12431
+10261945	AUX/E	am	2017	b	fr\	fre	\	Gallimard ;$aCologny (Genève, Suisse) :$bFondation Martin Bodmer	592	12302
+10261949	AUX/E	am	2017	b	fr\	fre	\	Hermann	592	12301
+10249918	AUX/E	am	2016	b	be\	eng	\	La Marque Postale	p2992	12123
+10249920	AUX/E	am	2018	b	fr\	fre	\	La Découverte	p8352	12119
+10249923	AUX/E	am	2017	b	fr\	fre	\	Aedam Musicae	7110	12146
+10246326	AUX/E	am	2017	\	fr\	fre	\	Odile Jacob	2115	11858
+10245060	AUX/E	am	2016	b	fr\	fre	\	L'Harmattan	2115	11818
+10242859	AUX/E	am	2017	b	fr\	fre	\	Presses universitaires de Nancy	p2553	11766
+10232678	AUX/E	am	2017	b	be\	eng	\	Peeters	p3150	11563
+9762340	AUX/E	am	1989	b	fr\	fre	\	Slatkine Érudition;\\$3v. 1-2$aMontmorency :$bMusée Jean-Jacques Rousseau	p3525	2229
+10208085	AUX/E	am	2013	\	quc	fre	\	Bibliothèque Québécoise	p2654	11069
+10208103	AUX/E	am	2017	b	quc	fre	\	Septentrion	p2654	11024
+10208105	AUX/E	am	2015	6	quc	fre	\	Pow Pow	p2654	11022
+10208108	AUX/E	am	2017	6	quc	fre	\	Les Éditions de la Pastèque	p2654	11021
+10208110	AUX/E	am	2017	\	quc	fre	\	Éditions Pow Pow	p2654	11020
+10208088	AUX/E	am	2012	b	quc	fre	\	Septentrion	p2654	11046
+10208072	AUX/E	am	2015	\	quc	fre	\	Marchand de feuilles	p2654	11078
+10208077	AUX/E	am	2008	\	quc	fre	\	Le Quartanier	p2654	11076
+10208079	AUX/E	am	2011	\	quc	fre	\	XYZ éditeur	p2654	11071
+10208071	AUX/E	am	2017	b	fr\	fre	\	Biblieurope	p2255	11043
+10208075	AUX/E	am	2017	b	fr\	fre	\	Institut Rabbi Yécha'ya-Éditions Bakish	p2255	11041
+10208078	AUX/E	am	2017	b	fr\	fre	\	L'Harmattan	p2256	11038
+10208080	AUX/E	am	2017	b	fr\	fre	\	L'Harmattan	p2256	11037
+10208084	AUX/E	am	2017	\	fr\	fre	\	L'Harmattan	p2256	11036
+10207145	AUX/E	am	2017	\	fr\	fre	\	L'Antilope	p2255	10976
+10207149	AUX/E	am	2017	b	fr\	fre	\	Bayard	p2255	10975
+10207154	AUX/E	am	2017	b	fr\	fre	\	Presses Universitaires de Provence	p2255	10973
+10207155	AUX/E	am	2017	b	fr\	fre	\	ID l'édition	p2255	10972
+10207157	AUX/E	am	2017	b	fr\	fre	\	Auteurs du Monde	p2255	10971
+10207158	AUX/E	am	2017	\	fr\	fre	\	Libertalia	p2255	10970
+10207160	AUX/E	am	2016	b	fr\	fre	\	L'Artilleur	p2255	10969
+10207163	AUX/E	am	2017	b	fr\	fre	\	Presses universitaires François-Rabelais	p2255	10968
+10207165	AUX/E	am	2017	b	fr\	fre	\	Créaphis éditions	p2255	10967
+10206655	AUX/E	am	2017	\	fr\	fre	\	Swan éditeur ;$bDomaine de Chantilly	590	10866
+10353952	BACH	am	2017	b	bl\	por	\	EDUFBA	7110	14048
+10261946	BACH	am	2000	\	bl\	por	\	Humanitas/FFLCH	592	12295
+10407873	AMAZON	am	2013	b	no\	eng	\	Akademika Publishing	p8350	15442
+9597450	AMAZON	am	2015	b	ilu	eng	\	Human Kinetics	591	$zPOOF;poof.library.cornell.edu/node/48505
+9597450	AMAZON	am	2015	b	ilu	eng	\	Human Kinetics	591	$zPOOF;poof.library.cornell.edu/node/48505
+10407152	AMAZON	gm	2004	\	sp\	spa	\	Cameo Media	p7358	15418
+10407154	AMAZON	am	2014	b	at\	eng	\	Wadsworth	p7358	15417
+9256646	AMAZON	am	2016	b	cau	eng	\	University of California Press	1340	15423
+9256646	AMAZON	am	2016	b	cau	eng	\	University of California Press	1340	15423
+9256646	AMAZON	am	2016	b	cau	eng	\	University of California Press	1340	15423
+10406685	AMAZON	am	2017	b	enk	eng	\	Edinburgh University Press	2115	15422
+10406687	AMAZON	am	2017	b	nju	eng	\	Princeton University Press	p2858	15420
+10406637	AMAZON	am	2005	b	cau	eng	\	Read Books	1010	15409
+10361350	AMAZON	am	2018	\	ii\	eng	\	Mapin Publishing ;$aMumbai, India :$bThe HECAR Foundation	2010	14557
+10405622	AMAZON	am	2006	b	mau	eng	\	Thomson Course Technology PTR	p6756	15405
+10405638	AMAZON	am	2017	b	cau	eng	\	SAGE Publications, Inc.	p6550	15398
+10405916	AMAZON	am	2009	b	pr\	spa	\	Ediciones Callejón	p2967	15406
+10404605	AMAZON	gm	2005	\	miu	eng	\	Distributed by Anchor Bay Entertainment	p7358	15377
+10404602	AMAZON	gm	2014	\	cau	eng	\	Paramount Pictures	p7358	15379
+10404603	AMAZON	gm	2006	\	cau	eng	\	DreamWorks Home Entertainment	p7358	15378
+10404613	AMAZON	gm	2007	\	cau	eng	\	New Line Home Entertainment	p7358	15376
+10404616	AMAZON	gm	2002	\	it\	ita	\	Hardy Classic Video	p7358	15374
+10404591	AMAZON	am	2018	b	nyu	eng	\	Russell Sage Foundation	p2858	15381
+10404250	AMAZON	am	2017	b	enk	eng	\	Routledge, Taylor & Francis Group	546	15368
+9864311	AMAZON	am	2017	b	mau	eng	\	The MIT Press	p7358	15360
+9864311	AMAZON	am	2017	b	mau	eng	\	The MIT Press	p7358	15360
+10393627	AMAZON	am	2014	b	nyu	eng	\	McGraw-Hill/Irwin	p7358	15359
+10393629	AMAZON	gm	2004	\	ilu	fre	\	Home Vision Entertainment	p7358	15358
+10397231	AMAZON	am	2018	b	nyu	eng	\	Callisto Reference	1010	15365
+10393548	AMAZON	am	2018	b	ne\	eng	\	Brill	p2753	15362
+10393549	AMAZON	am	2015	b	nyu	eng	\	The Metropolitan Museum of Art	p2753	15361
+10388544	AMAZON	am	2016	\	vau	eng	\	Just World Books	p559	15318
+10388545	AMAZON	am	2013	b	enk	eng	\	Palgrave Macmillan	4310	15317
+10388546	AMAZON	am	2013	b	inu	eng	\	AuthorHouse	p2952	15316
+9929486	AMAZON	am	2007	b	sp\	eng	\	Actar D	p6793	6888
+10387890	AMAZON	am	2018	b	cau	eng	\	Stanford University Press	521	15289
+10387922	AMAZON	gm	2014	\	sp\	spa	\	Tormenta Films	NA	NA
+10387931	AMAZON	am	1992	\	nju	eng	\	Prentice Hall	p6694	15303
+10387919	AMAZON	gm	2018	\	sp\	spa	\	Sony Pictures	NA	NA
+10387931	AMAZON	am	1992	\	nju	eng	\	Prentice Hall	p6694	15303
+10387856	AMAZON	am	2017	b	enk	eng	\	Routledge	p3350	15282
+10387726	AMAZON	am	1990	b	oru	eng	\	D. Spencer Publishers	p6694	15304
+10387726	AMAZON	am	1990	b	oru	eng	\	D. Spencer Publishers	p6694	15304
+10387729	AMAZON	am	2014	b	mau	eng	\	Wadsworth, Cengage Learning	p6694	15302
+10387729	AMAZON	am	2014	b	mau	eng	\	Wadsworth, Cengage Learning	p6694	15302
+10387627	AMAZON	am	2016	\	gw\	eng	\	Hempen Verlag	p3350	15284
+10387629	AMAZON	am	2017	b	ne\	eng	\	Brill	p3350	15281
+9133189	AMAZON	am	2015	b	fr\	fre	\	Presses universitaires de France	p2851	$zPOOF;poof.library.cornell.edu/node/36940
+10385806	AMAZON	am	2014	b	enk	eng	\	Legenda, Modern Humanities Research Association and Maney Publishing	p2156	15176
+10385417	AMAZON	am	2007	b	nju	eng	\	J. Wiley	p6694	15226
+10386163	AMAZON	am	2018	b	nyu	eng	\	Russell Sage Foundation	p4555	15275
+10386162	AMAZON	am	2017	b	onc	eng	\	University of Toronto Press	p1351	15278
+10386163	AMAZON	am	2018	b	nyu	eng	\	Russell Sage Foundation	p4555	15275
+10385201	AMAZON	am	2017	b	scu	eng	\	[Createspace]	8110	15200
+10385140	AMAZON	am	2018	\	xxu	eng	\	Drawn & Quarterly	p7354	15201
+10385122	AMAZON	am	2018	b	nyu	eng	\	St. Martin's Press	p2952	15228
+10385126	AMAZON	am	2018	b	nyu	eng	\	Picador	p7291	15225
+10385138	AMAZON	am	2018	b	nyu	eng	\	Race Point Publishing	p7057	15214
+10384510	AMAZON	am	2015	\	onc	eng	\	Harper Avenue	2110	$zPOOF;poof.library.cornell.edu/node/39661
+10315449	AMAZON	am	2002	\	ja\	jpn	\	Bungeisha	8612	12937
+10383350	AMAZON	am	1989	b	nyu	eng	\	T.Y. Crowell	p7354	15151
+10377653	AMAZON	am	2015	\	nyu	eng	\	Metropolitan Books, Henry Holt and Company	p2251	14874
+10383347	AMAZON	am	2015	b	nju	eng	\	Africa World Press	p2952	15155
+10383256	AMAZON	am	2017	\	ilu	eng	\	National Restaurant Association Educational Foundation	7540	15125
+10383256	AMAZON	am	2017	\	ilu	eng	\	National Restaurant Association Educational Foundation	7540	15125
+10383256	AMAZON	am	2017	\	ilu	eng	\	National Restaurant Association Educational Foundation	7540	15125
+10383258	AMAZON	am	2017	\	ilu	eng	\	Northwestern University Press	p7358	15078
+5420777	AMAZON	am	2004	b	nyu	eng	\	Scribner	7540	15126
+5420777	AMAZON	am	2004	b	nyu	eng	\	Scribner	7540	15126
+10382088	AMAZON	am	2018	b	nyu	eng	\	Pearson	1340	8257
+5420777	AMAZON	am	2004	b	nyu	eng	\	Scribner	7540	15126
+10382107	AMAZON	am	2018	b	nju	eng	\	John Wiley & Sons, Inc.	p7350	15054
+10382088	AMAZON	am	2018	b	nyu	eng	\	Pearson	1340	8257
+10382088	AMAZON	am	2018	b	nyu	eng	\	Pearson	1340	8257
+10382088	AMAZON	am	2018	b	nyu	eng	\	Pearson	1340	8257
+10381834	AMAZON	am	2017	c	enk	eng	\	MACK	p6794	15034
+10381797	AMAZON	am	2018	\	enk	eng	\	MACK	p6794	15035
+5865540	AMAZON	am	2006	b	sg\	eng	\	Codesria	p2952	15094
+10381794	AMAZON	am	2017	b	txu	eng	\	Baylor University Press	p2860	15037
+10381515	AMAZON	am	2018	\	nyu	eng	\	McGraw-Hill Education	1341	14997
+10381515	AMAZON	am	2018	\	nyu	eng	\	McGraw-Hill Education	1341	14997
+10381515	AMAZON	am	2018	\	nyu	eng	\	McGraw-Hill Education	1341	14997
+10381515	AMAZON	am	2018	\	nyu	eng	\	McGraw-Hill Education	1341	14997
+10380804	AMAZON	am	2017	\	mau	eng	\	Houghton Mifflin Harcourt	p4350	15023
+10381381	AMAZON	am	2008	b	mau	eng	\	Focus Pub./R. Pullins	p7358	14976
+9924551	AMAZON	am	2017	b	mau	eng	\	Pearson	p6551	6691
+9924551	AMAZON	am	2017	b	mau	eng	\	Pearson	p6551	6691
+9924551	AMAZON	am	2017	b	mau	eng	\	Pearson	p6551	6691
+10380069	AMAZON	am	2018	\	cb\	eng	\	Pannasastra University of Cambodia Press	8110	15020
+10380082	AMAZON	am	2016	b	miu	eng	\	William B. Eerdmans Publishing Company	p7350	14987
+10380368	AMAZON	am	2018	b	nyu	eng	\	PublicAffairs	p7358	14995
+10380022	AMAZON	am	2017	\	nyu	eng	\	Alfred A. Knopf	2513	14994
+10380024	AMAZON	am	2013	b	miu	eng	\	William B. Eerdmans Publishing Company	p2259	14986
+10380027	AMAZON	am	2016	b	ilu	eng	\	Cambridge Business Publishers, LLC	591	14983
+10378458	AMAZON	am	2017	b	gw\	eng	\	Lit	p2952	14967
+10378456	AMAZON	am	2018	\	xx\	eng	\	OUP INDIA	2010	14969
+10377994	AMAZON	gm	2017	\	vau	eng	\	PBS Distribution	6343	14917
+10376982	AMAZON	am	2012	\	gw\	geo	\	NA	p2553	14866
+10377662	AMAZON	am	2009	b	sa\	eng	\	HSRC Press	p6390	14872
+10359200	AMAZON	am	2015	b	nyu	eng	\	Palgrave Macmillan	2161	14352
+10377657	AMAZON	am	2009	b	nyu	eng	\	Edwin Mellen Press	p6350	14905
+10377664	AMAZON	am	2008	b	sa\	eng	\	H. Wende	p2160	14869
+10377422	AMAZON	am	2010	b	no\	eng	\	Tapir Academic Press	p2755	14867
+10376984	AMAZON	am	2006	b	vtu	eng	\	Jewish Lights Pub.	p8559	14857
+10376463	AMAZON	am	1990	\	cau	eng	\	Harcourt Brace Jovanovich	p3167	14809
+10376980	AMAZON	am	2018	b	ja\	eng	\	Trans Pacific Press	2021	14868
+10354463	AMAZON	am	2016	b	sp\	spa	\	Ediciones Universidad	7110	14086
+10376400	AMAZON	am	2017	\	mf\	eng	\	Lambert Academic pub.	8110	14764
+10376295	AMAZON	am	2018	\	mau	eng	\	MIT Press	p6658	14795
+10363881	AMAZON	am	2015	b	cau	eng	\	[Prana Publishing]	p4350	14797
+10363876	AMAZON	am	2008	b	cau	eng	\	Conari	p3191	14800
+10363878	AMAZON	am	2002	b	nyu	eng	\	Ballantine Books	p3160	14799
+10363880	AMAZON	am	2017	a	pau	eng	\	Assiduity Publishing House	p4350	14798
+10363882	AMAZON	am	2017	b	enk	eng	\	BALTIC Centre for Contemporary Art ;$aMoscow :$bGarage Museum of Contemporary Art ;$aGeneva :$bMAMCO, Musée d'art moderne et contemporain ;$aEindhoven :$bVan Abbemuseum	2010	14794
+10363879	AMAZON	am	2015	b	sa\	eng	\	Jacana	p6390	14801
+10363451	AMAZON	am	2015	b	enk	eng	\	D.S. Brewer	p8350	14749
+10362987	AMAZON	am	2017	b	my\	eng	\	Natural History Publications (Borneo)	8110	14697
+10361349	AMAZON	am	2013	b	ilu	eng	\	ABA, Section of Legal Education and the Admissions Bar	1341	14594
+10362917	AMAZON	am	2017	b	pl\	pol	\	Wydawnictwo Uniwersytetu Jagiellońskiego	8110	14703
+10362915	AMAZON	am	2017	b	cou	eng	\	Sounds True, Inc.	p4350	14682
+10362916	AMAZON	am	2010	b	nyu	eng	\	Harmony Books	p4350	14681
+10361350	AMAZON	am	2018	\	ii\	eng	\	Mapin Publishing ;$aMumbai, India :$bThe HECAR Foundation	2010	14557
+10360872	AMAZON	am	2003	b	th\	tha	\	Sāakhadī	p1161-mann	NA
+10360679	AMAZON	am	2014	b	nyu	eng	\	Zone Books	2310	14484
+10360128	AMAZON	am	2018	b	nyu	eng	\	Basic Books	p6659	14459
+10360276	AMAZON	am	2008	b	cau	eng	\	[Createspace]	591	14480
+10360129	AMAZON	am	2018	\	nyu	eng	\	Little, Brown and Company	p4358	14453
+10360130	AMAZON	am	2018	\	nyu	eng	\	Flatiron Books	p4557	14452
+10360131	AMAZON	am	2016	b	xx\	eng	\	Beatdom Books	p3170	14445
+10359811	AMAZON	am	2018	b	ag\	spa	\	Editorial Universitaria de Buenos Aires	2310	14378
+10359195	AMAZON	am	2018	b	nyu	eng	\	Amistad, an imprint of HarperCollinsPublishers	2161	14336
+10359297	AMAZON	am	2015	b	ck\	spa	f	Planeta :$bUniversidad Nacional de Colombia-Sede Bogotá, Instituto de Estudios Urbanos-IEU	2310	14342
+10359323	AMAZON	am	2017	b	nyu	eng	\	Basic Books	p4350	14329
+10358680	AMAZON	am	2017	b	fr\	fre	\	CNRS Éditions	p2662	14308
+10359116	AMAZON	am	2017	b	si\	eng	\	National Gallery Singapore	8110	14318
+10358682	AMAZON	am	2017	b	sp\	cat	\	Edicions Universitat de Barcelona	p4850	14310
+10358692	AMAZON	am	2017	b	fr\	fre	\	L'Harmattan	p2662	14305
+10358694	AMAZON	am	2018	b	vra	eng	\	Cambridge University Press	1341	14302
+10358131	AMAZON	am	2017	b	gw\	eng	\	Frank & Timme	p3350	14275
+10358069	AMAZON	am	2017	\	cau	eng	\	Heyday	p3160	14274
+10356982	AMAZON	am	2017	b	ii\	eng	\	HarperCollins Publishers India	2010	14222
+10356978	AMAZON	am	2018	b	is\	eng	\	Feldheim Publishers	p8154	14238
+10356972	AMAZON	am	2016	\	ja\	eng	\	SUPER LABO	p8190	14208
+10356967	AMAZON	am	2013	b	fr\	fre	\	Librairie J. Vrin	591	14231
+10356968	AMAZON	am	2015	b	enk	eng	\	Cambridge University Press	p4350	14230
+10355263	AMAZON	gm	2017	\	enk	nep	\	Matchbox Films	2010	14089
+10355263	AMAZON	gm	2017	\	enk	nep	\	Matchbox Films	2010	14089
+9924438	AMAZON	am	2016	\	nyu	eng	\	HarperOne	2810	6693
+9924438	AMAZON	am	2016	\	nyu	eng	\	HarperOne	2810	6693
+6059482	AMAZON	gm	2006	\	nyu	eng	\	Criterion Collection	1340	14199
+6059482	AMAZON	gm	2006	\	nyu	eng	\	Criterion Collection	1340	14199
+10356550	AMAZON	am	2016	b	enk	eng	\	Books of Africa Ltd.	6310	14193
+6047914	AMAZON	gm	2003	\	cau	eng	\	Warner Home Video	1340	14198
+6047914	AMAZON	gm	2003	\	cau	eng	\	Warner Home Video	1340	14198
+10356386	AMAZON	am	2017	\	em\	por	\	Timor Editora,$c2017.;\2$aLisboa :$bLidel-Edições Técnicas	8110	14169
+10355255	AMAZON	am	2001	b	enk	eng	\	Oxford University Press	p7253	14094
+10355263	AMAZON	gm	2017	\	enk	nep	\	Matchbox Films	2010	14089
+10355263	AMAZON	gm	2017	\	enk	nep	\	Matchbox Films	2010	14089
+10355869	AMAZON	gm	2017	\	cau	eng	\	Gravitas Ventures	3111	14096
+10353947	AMAZON	am	2003	b	pau	eng	\	Institute of Physics Pub.	p7291	14031
+10353944	AMAZON	am	2018	b	ncu	eng	\	The Pragmatic Bookshelf	p6654	14034
+10353954	AMAZON	am	2016	\	nyu	eng	\	RosettaBooks	8613	14022
+10353900	AMAZON	am	2017	b	vau	eng	s	University of Virginia Press	2310	14002
+10315721	AMAZON	am	2018	b	mau	eng	\	Beacon Press	521	12839
+10353422	AMAZON	am	2016	b	sz\	eng	\	Peter Lang AG, International Academic Publishers	p3161	13976
+10353423	AMAZON	am	2017	\	nyu	eng	\	Simon & Schuster	7110	13970
+10353039	AMAZON	cm	2016	i	cau	ita	\	Passaggio Press	7110	13941
+10352716	AMAZON	am	2007	b	enk	eng	\	Intellect Books	p2662	13883
+10352894	AMAZON	am	2016	b	cau	eng	\	Libraries Unlimited	p3250	13913
+10352764	AMAZON	am	2012	b	flu	eng	\	CRC Press	p7291	13936
+10353036	AMAZON	am	2010	b	gw\	eng	\	VDM Verlag Dr. Müller	8110	13969
+10353038	AMAZON	am	2017	c	ii\	eng	\	Tulika Books	2010	13940
+10352795	AMAZON	am	2016	b	flu	eng	\	CRC Press Taylor & Francis Group	p7291	13930
+10352880	AMAZON	am	2015	b	flu	eng	\	CRC Press, Taylor & Francis Group	p7291	13932
+10352887	AMAZON	am	2003	b	enk	eng	\	IOP	p7291	13928
+10352637	AMAZON	am	2010	b	ilu	eng	\	Association of College and Research Libraries, American Library Association	p3250	13914
+10352628	AMAZON	am	2015	b	flu	eng	\	CRC Press, Taylor & Francis Group	p7291	13934
+10352629	AMAZON	am	2012	b	sz\	eng	\	EPFL Press ;$aBoca Raton, Fla. :$bCRC Press	p7291	13929
+10352631	AMAZON	am	2008	b	nyu	eng	\	Taylor & Francis	p7291	13927
+10352634	AMAZON	am	2007	b	flu	eng	\	CRC Press/Taylor & Francis	p7058	13925
+6201305	AMAZON	am	2007	\	nyu	eng	\	Kodansha International	8612	13938
+10349708	AMAZON	am	2005	c	tu\	tur	\	Halil Altindere	p6755	13868
+6201305	AMAZON	am	2007	\	nyu	eng	\	Kodansha International	8612	13938
+10352391	AMAZON	am	1991	6	fr\	fre	\	Delcourt	p2662	13893
+10347646	AMAZON	gm	2013	\	ii\	hin	\	Sony Music Entertainment India	2010	13839
+10346374	AMAZON	am	2015	b	enk	eng	\	Forgotten Books	3020	13847
+10346375	AMAZON	am	2017	b	nyu	eng	\	Spiegel & Grau	p4250	13842
+10346376	AMAZON	am	2018	c	txu	eng	\	Nasher Scupture Center	p6755	13840
+10343549	AMAZON	am	2015	\	cc\	eng	\	Farnshaw Books	p3150	13809
+10337517	AMAZON	am	2015	b	nyu	eng	\	The Modern Language Association of America	2310	13799
+10335558	AMAZON	am	2014	b	cou	eng	\	Fixed Pin Publishing	p1162	13775
+10335555	AMAZON	am	2017	b	ne\	eng	\	Brill	2616	13794
+10335556	AMAZON	am	2017	b	onc	eng	\	Canadian Filmmakers Distribution Centre	6714	13793
+10335557	AMAZON	am	2014	\	mnu	eng	\	Rick Harrison Site Design, Inc.	1010	13782
+10334939	AMAZON	am	2017	b	ilu	eng	\	American Institute of Steel Construction	p6657	13752
+10334947	AMAZON	gm	2006	\	mau	eng	\	WGBH Educational Foundation	6310	13742
+10334953	AMAZON	am	1959	\	nyu	heb	\	M. Fainshtein	p2251	13727
+10334824	AMAZON	gm	2008	\	nyu	eng	\	Crowing Rooster Arts	6310	13748
+10334826	AMAZON	gm	2007	\	vau	eng	\	PBS Home Video	6310	13744
+8911948	AMAZON	am	2009	b	sp\	spa	\	FCE	7110	13687
+10329976	AMAZON	am	2018	b	mau	eng	\	The Belknap Press of Harvard University Press	p2155	13601
+10329511	AMAZON	am	2016	b	enk	eng	\	Bloomsbury Information	591	13661
+10329518	AMAZON	am	2017	b	nyu	eng	\	Portfolio/Penguin	591	13604
+9929486	AMAZON	am	2007	b	sp\	eng	\	Actar D	p6793	6888
+10328900	AMAZON	am	2018	\	sz\	eng	\	Lars Müller Publishers	p6752	13552
+10328529	AMAZON	am	2017	b	nyu	eng	\	Bloomsbury Academic, an imprint of Bloomsbury Publishing Inc	7110	13528
+878398	AMAZON	am	1973	\	wb\	eng	\	NA	1010	13466
+878398	AMAZON	am	1973	\	wb\	eng	\	NA	1010	13466
+10325963	AMAZON	gm	2018	\	nyu	eng	\	Kino Lorber Incorporated	p3193	13256
+10327066	AMAZON	am	2014	b	ii\	eng	\	SAGE Publications	7540	13368
+10325964	AMAZON	gm	2018	\	nyu	eng	\	The Criterion Collection	p3166	13255
+10325965	AMAZON	gm	2018	\	nyu	eng	\	The Criterion Collection	p3166	13254
+10325967	AMAZON	gm	2018	\	cau	eng	\	Twentieth Century Fox Home Entertainment	p3193	13253
+10326002	AMAZON	am	2004	b	cau	eng	\	Thomson/Wadsworth	p6290	13342
+10297807	AMAZON	gm	2018	\	cau	eng	\	Lionsgate	p3193	13252
+10297807	AMAZON	gm	2018	\	cau	eng	\	Lionsgate	p3193	13252
+10315283	AMAZON	gm	2018	\	cau	eng	\	Sony Pictures Classics	p3193	13251
+10325970	AMAZON	gm	2018	\	cau	eng	\	Twentieth Century Fox Home Entertainment	p3193	13250
+10315283	AMAZON	gm	2018	\	cau	eng	\	Sony Pictures Classics	p3193	13251
+10325970	AMAZON	gm	2018	\	cau	eng	\	Twentieth Century Fox Home Entertainment	p3193	13250
+10318248	AMAZON	am	2017	\	xx\	eng	\	NA	1010	13004
+10323290	AMAZON	am	2018	\	nyu	eng	\	Simon & Schuster BYFR	p7354	13282
+10323190	AMAZON	am	2014	b	enk	eng	\	James Currey	2111	13242
+10322930	AMAZON	am	2016	\	gw\	ger	\	Hofenberg :$bContumax	p2553	13218
+10322923	AMAZON	am	2013	b	inu	eng	\	Indiana University Press	2111	13244
+6802979	AMAZON	gm	2003	\	cau	eng	\	Universal Studios	p7358	13247
+10322872	AMAZON	am	2015	\	nyu	eng	\	Kaplan Publishing	591	13215
+10322869	AMAZON	am	2014	b	fr\	fre	\	La Découverte	p2651	13220
+10322871	AMAZON	am	2017	b	dk\	eng	\	November Editions	p2553	13217
+6802979	AMAZON	gm	2003	\	cau	eng	\	Universal Studios	p7358	13247
+7146562	AMAZON	am	2011	b	nju	eng	\	Princeton University Press	p7291	13209
+10321486	AMAZON	am	2017	b	nju	eng	\	Princeton University Press	7241	13172
+7146562	AMAZON	am	2011	b	nju	eng	\	Princeton University Press	p7291	13209
+10322318	AMAZON	am	2016	b	nju	eng	\	Princeton University Press	7241	13171
+9836748	AMAZON	am	2013	\	enk	eng	\	Artifice	p6752	3883
+10320606	AMAZON	gm	2003	\	xxu	eng	\	Showtime Entertainment	6310	13125
+10320609	AMAZON	am	2017	b	onc	eng	\	Eve Publishing	p1162	13117
+10320604	AMAZON	am	2017	b	nju	eng	\	Princeton University Press	7241	13159
+10320604	AMAZON	am	2017	b	nju	eng	\	Princeton University Press	7241	13159
+10320607	AMAZON	gm	2001	\	cau	eng	\	MGM Home Entertainment	6310	13124
+10320490	AMAZON	am	2007	\	nyu	eng	\	Stewart, Tabori & Chang	6310	13100
+10320492	AMAZON	am	2006	b	enk	eng	\	Oxford University Press	p6657	13092
+10320171	AMAZON	am	2013	\	it\	ita	\	Bompiani	2662	13075
+10320173	AMAZON	am	1983	\	it\	ita	\	Garzanti	2662	13070
+10320490	AMAZON	am	2007	\	nyu	eng	\	Stewart, Tabori & Chang	6310	13100
+10320384	AMAZON	am	2009	\	nyu	eng	\	Bordighera Press	2662	13068
+10319910	AMAZON	am	2015	\	xx\	eng	\	Wordsmithy	p2251	13095
+10319913	AMAZON	am	2018	b	mdu	eng	\	Rowman & Littlefield	7540	13089
+10319909	AMAZON	am	2007	\	nyu	eng	\	Amistad, an imprint of HarperCollins Publishers	6310	13101
+10319577	AMAZON	am	2018	b	xxu	eng	\	[publisher not identified],$c[2018?];\3$aMiddletown, DE :$b[manufacturer not identified]	p7358	13063
+10319577	AMAZON	am	2018	b	xxu	eng	\	[publisher not identified],$c[2018?];\3$aMiddletown, DE :$b[manufacturer not identified]	p7358	13063
+10319205	AMAZON	am	2018	b	nyu	eng	\	HarperBusiness	p6550	13041
+10319205	AMAZON	am	2018	b	nyu	eng	\	HarperBusiness	p6550	13041
+10319206	AMAZON	am	2011	b	inu	eng	\	iUniverse	p2991	13035
+10319205	AMAZON	am	2018	b	nyu	eng	\	HarperBusiness	p6550	13041
+10319205	AMAZON	am	2018	b	nyu	eng	\	HarperBusiness	p6550	13041
+10319205	AMAZON	am	2018	b	nyu	eng	\	HarperBusiness	p6550	13041
+10319205	AMAZON	am	2018	b	nyu	eng	\	HarperBusiness	p6550	13041
+10318248	AMAZON	am	2017	\	xx\	eng	\	NA	1010	13004
+10324376	AMAZON	am	2017	b	ii\	eng	\	Cengage Learning	1010	13002
+2154301	AMAZON	am	1992	b	wau	eng	\	Good Fruit Grower	1010	13003
+2154301	AMAZON	am	1992	b	wau	eng	\	Good Fruit Grower	1010	13003
+6980197	AMAZON	am	2008	\	enk	eng	\	Good Life Press Ltd.	1010	13001
+10317255	AMAZON	am	2018	\	cau	eng	\	Chronicle Books	p7354	12995
+6980197	AMAZON	am	2008	\	enk	eng	\	Good Life Press Ltd.	1010	13001
+10317256	AMAZON	am	2017	\	cau	eng	\	Library Juice Press	p3250	12994
+10317257	AMAZON	am	2018	\	xx\	eng	\	STYLUS PUBLISHING	4110	12993
+10317258	AMAZON	am	2014	b	cau	eng	\	SAGE	4110	12992
+10317259	AMAZON	am	2018	b	enk	eng	\	Polity Press	4210	12991
+10317255	AMAZON	am	2018	\	cau	eng	\	Chronicle Books	p7354	12995
+10299518	AMAZON	am	2017	\	ph\	eng	\	National Historical Commission of the Philippines	p8154	12736
+10314744	AMAZON	gm	2018	\	cau	eng	\	Marvel Studios	p7358	11611
+7125944	AMAZON	gm	2011	\	xxu	eng	\	E1 Entertainment	2111	12814
+10313977	AMAZON	am	2016	b	mau	eng	\	Harvard University Graduate School of Design,$c[2016];\2$aNew York	p6752	12804
+7125944	AMAZON	gm	2011	\	xxu	eng	\	E1 Entertainment	2111	12814
+10313976	AMAZON	am	2018	b	ilu	eng	\	ALA Editions	p3250	12805
+10313978	AMAZON	am	2018	b	enk	eng	\	Allen Lane, an imprint of Penguin books	p8352	12802
+10300187	AMAZON	am	2006	b	sp\	spa	\	Fundación Universitaria Española	2310	12799
+10310317	AMAZON	gm	2010	\	cau	eng	\	Turner Entertainment Co. :$bWarner Bros. Entertainment Co. :$bDistributed by Warner Home Video	p7358	12801
+10299481	AMAZON	am	2017	b	enk	eng	\	Oxford University Press	p2755	12743
+10299631	AMAZON	gm	2017	\	ilu	eng	\	Music Box Films, LLC	p4558	12778
+10299599	AMAZON	gm	2017	\	nyu	eng	\	First Run Features	3111	12741
+10299208	AMAZON	am	2010	b	it\	ita	\	G. Einaudi	4820	12712
+10299064	AMAZON	am	2017	\	ctu	eng	\	World Poetry Books	2662	12721
+10298378	AMAZON	am	2017	b	enk	eng	\	Edward Elgar Publishing	p6550	12594
+10095135	AMAZON	am	2017	b	nyu	eng	\	Random House	p7358	12582
+10095135	AMAZON	am	2017	b	nyu	eng	\	Random House	p7358	12582
+10297924	AMAZON	am	2017	b	nyu	eng	\	Portfolio/Penguin	p1352	12565
+10297823	AMAZON	am	1996	b	gh\	eng	\	Freedom Publications	6310	12564
+10297728	AMAZON	am	2017	b	enk	eng	\	Cambridge University Press	7010	12560
+10297410	AMAZON	am	2017	b	enk	eng	\	Cambridge University Press	2810	12529
+10297392	AMAZON	am	2017	b	nyu	eng	\	Currency, an imprint of the Crown Publishing Group, a division of Penguin Random House LLC	4210	12561
+10297396	AMAZON	am	2013	b	nyu	eng	\	Avery	4210	12559
+10297403	AMAZON	am	2009	b	tu\	fre	\	Les Editions Isis	p2155	12557
+10297407	AMAZON	am	2018	b	be\	eng	\	Brepols	p8351	12531
+10297408	AMAZON	am	2018	b	enk	eng	\	Oxford University Press	2810	12530
+10295359	AMAZON	am	2016	b	stk	eng	\	Edinburgh University Press	p2155	12441
+10296873	AMAZON	am	2006	b	vau	eng	\	Society for the History of Technology ;$aWashington, D.C. :$bAmerican Historical Association	p2980	12519
+10296874	AMAZON	am	2017	6	mau	eng	\	The MIT Press	p2980	12518
+8865854	AMAZON	am	2009	c	gw\	ger	\	Hatje Cantz	6711	$zPOOF;poof.library.cornell.edu/node/32637
+10297108	AMAZON	am	2008	b	nyu	eng	\	Vintage Books,$c2008	p7358	12508
+10295436	AMAZON	am	2007	\	sp\	spa	\	Anaya	2616	12477
+10296115	AMAZON	am	2001	b	wiu	eng	\	Atwood Pub.	4110	12500
+10296118	AMAZON	am	2017	b	inu	eng	\	Dog Ear Publishing	4210	12498
+10296119	AMAZON	am	2015	\	inu	eng	\	Dog Ear Publishing	4210	12497
+10296544	AMAZON	am	2009	\	sp\	spa	\	Anaya	2616	12476
+10296120	AMAZON	am	2017	\	cau	eng	\	SAGE Publications	p4358	12493
+10295432	AMAZON	am	2015	\	sp\	spa	\	Edelsa Grupo Didascalia	2616	12479
+10295499	AMAZON	am	2006	\	sp\	spa	\	Anaya	2616	12475
+10295434	AMAZON	am	2015	\	sp\	spa	\	Edelsa	2616	12478
+10295406	AMAZON	am	2011	b	sp\	spa	\	SGEL	2616	12481
+10295405	AMAZON	am	2012	\	es\	spa	\	Sociedad General Española de Librería	2616	12482
+10295326	AMAZON	am	2004	\	mau	eng	\	McGraw-Hill Higher Education	p6656	11759
+10294390	AMAZON	am	2015	b	cau	eng	\	Analytics Press	p6692	12435
+10294391	AMAZON	am	1989	b	nyu	eng	\	Human Sciences Press	4210	12430
+10294392	AMAZON	am	1997	b	cau	eng	\	Sage Publications	4210	12429
+10294393	AMAZON	am	2016	b	nyu	eng	\	Prometheus Books	4210	12428
+10294394	AMAZON	am	2002	b	cau	eng	\	New Harbinger Publications ;$a[Berkeley] :$bDistributed in the USA by Publishers Groups West	4210	12427
+10294395	AMAZON	am	2017	b	mau	eng	\	Mariner Books/Houghton Mifflin Harcourt	4210	12425
+936483	AMAZON	am	1983	\	mau	eng	\	VanVactor & Goodheart	p7358	12413
+936483	AMAZON	am	1983	\	mau	eng	\	VanVactor & Goodheart	p7358	12413
+936483	AMAZON	am	1983	\	mau	eng	\	VanVactor & Goodheart	p7358	12413
+7767158	AMAZON	am	2010	b	enk	eng	\	Oxbow Books ;$aOakville, CA :$b[Distributed by] David Brown Book Company	p7358	12409
+7767158	AMAZON	am	2010	b	enk	eng	\	Oxbow Books ;$aOakville, CA :$b[Distributed by] David Brown Book Company	p7358	12409
+10292790	AMAZON	am	2018	\	mdu	eng	\	Rowman & Littlefield Publishing Group, Inc.	p3250	12358
+10292657	AMAZON	am	2016	b	nyu	eng	\	Routledge	p7358	12373
+10292394	AMAZON	gm	2012	\	azu	eng	\	Shadowline Films LLC	2010	12370
+4971052	AMAZON	am	1978	\	nyu	eng	\	Bantam Books	p7358	12376
+4971052	AMAZON	am	1978	\	nyu	eng	\	Bantam Books	p7358	12376
+10292393	AMAZON	am	2017	b	gw\	eng	\	Gerlach Press	p7367	12378
+10262331	AMAZON	am	2016	\	sp\	spa	\	NA	4210	12360
+10261990	AMAZON	am	2017	\	enk	eng	\	ARM Education Media	p6656	12264
+10262655	AMAZON	am	2017	b	enk	eng	\	Cambridge University Press	p7051	12338
+10261990	AMAZON	am	2017	\	enk	eng	\	ARM Education Media	p6656	12264
+10261944	AMAZON	am	2005	\	nyu	eng	\	HarperCollins Publishers	591	12311
+10261545	AMAZON	am	2014	b	cau	eng	\	SAGE	p6550	12257
+8288127	AMAZON	am	2013	b	quc	eng	\	Canadian Centre for Architecture ;$aBerlin :$bSternberg Press	p6752	12252
+8288127	AMAZON	am	2013	b	quc	eng	\	Canadian Centre for Architecture ;$aBerlin :$bSternberg Press	p6752	12252
+10261265	AMAZON	im	2005	\	mdu	eng	\	Landmark Audiobooks	p7358	12217
+10261296	AMAZON	am	2017	b	th\	eng	\	White Lotus Press	p8190	12229
+808138	AMAZON	am	1975	\	nyu	eng	\	Harcourt Brace Jovanovich	p7358	12218
+808138	AMAZON	am	1975	\	nyu	eng	\	Harcourt Brace Jovanovich	p7358	12218
+808138	AMAZON	am	1975	\	nyu	eng	\	Harcourt Brace Jovanovich	p7358	12218
+808138	AMAZON	am	1975	\	nyu	eng	\	Harcourt Brace Jovanovich	p7358	12218
+9838522	AMAZON	am	2010	b	nyu	eng	\	Palgrave Macmillan	8110	4028
+6711941	AMAZON	gm	2009	\	cau	spa	\	Universal Studios Home Entertainment	p7358	12213
+10260501	AMAZON	gm	2018	\	cau	eng	\	Sony Pictures Home Entertainment	p3193	12190
+10260498	AMAZON	gm	2018	\	nyu	eng	\	The Criterion Collection	3110	12192
+6711941	AMAZON	gm	2009	\	cau	spa	\	Universal Studios Home Entertainment	p7358	12213
+10260500	AMAZON	gm	2018	\	nyu	eng	\	The Criterion Collection	3110	12191
+10258852	AMAZON	am	2018	b	ne\	ara	\	Brill	p8352	12187
+10258734	AMAZON	am	2002	b	mau	eng	\	MIT	6710	12183
+10258744	AMAZON	am	2012	b	nyu	eng	\	W.H. Freeman and Co.	1010	12152
+2310548	AMAZON	am	1994	b	nyu	eng	\	W.W. Norton	p1205	12181
+2310548	AMAZON	am	1994	b	nyu	eng	\	W.W. Norton	p1205	12181
+2310548	AMAZON	am	1994	b	nyu	eng	\	W.W. Norton	p1205	12181
+2146822	AMAZON	am	1992	b	enk	lat	\	Clarendon Press ;$aOxford ;$aNew York :$bOxford University Press	p7358	12169
+10250306	AMAZON	am	2002	b	gw\	ger	\	Edition Nautilus ;$a[Berlin] ;$a[New York] :$bLukas und Sternberg	6710	12186
+10250308	AMAZON	am	2018	b	enk	eng	\	Cambridge University Press	2512	12157
+10250311	AMAZON	am	2016	b	enk	eng	\	Oxbow Books	p2755	12156
+10250263	AMAZON	am	2012	b	nyu	eng	\	McGraw-Hill Irwin	p1359	12132
+10250314	AMAZON	am	2008	b	it\	ita	\	Edizioni universitarie di lettere economia diritto	p2755	12155
+10250318	AMAZON	am	2018	b	enk	eng	\	Cambridge University Press	p2960	12153
+10250321	AMAZON	am	2017	b	stk	eng	\	Edinburgh University Press	p2155	12149
+6400421	AMAZON	am	2008	b	enk	eng	\	Cambridge University Press	p7358	12140
+6400421	AMAZON	am	2008	b	enk	eng	\	Cambridge University Press	p7358	12140
+1933563	AMAZON	am	1990	b	wau	eng	\	Bay Press	p7358	12131
+1933563	AMAZON	am	1990	b	wau	eng	\	Bay Press	p7358	12131
+1933563	AMAZON	am	1990	b	wau	eng	\	Bay Press	p7358	12131
+9628361	AMAZON	am	2016	\	mau	eng	\	Pearson	p7358	12139
+9628361	AMAZON	am	2016	\	mau	eng	\	Pearson	p7358	12139
+9324737	AMAZON	am	2015	b	nyu	eng	\	W.W. Norton & Company	p7358	12138
+9324737	AMAZON	am	2015	b	nyu	eng	\	W.W. Norton & Company	p7358	12138
+10250230	AMAZON	am	2014	b	mau	eng	\	Heinle	p7358	12136
+10250237	AMAZON	am	2015	b	flu	eng	\	CRC Press	p6656	12135
+10250240	AMAZON	am	2014	b	mau	ita	\	Pearson	p7358	12134
+2734918	AMAZON	am	1993	b	inu	eng	\	Hackett Pub. Co.	p7358	12137
+2734918	AMAZON	am	1993	b	inu	eng	\	Hackett Pub. Co.	p7358	12137
+10249917	AMAZON	am	2017	b	ag\	spa	\	Caja Negra	2310	12133
+10249922	AMAZON	am	2017	f	ne\	eng	\	3D Hubs B.V.	p6693	12122
+10246577	AMAZON	am	2013	\	at\	fre	\	Heinle Cengage Learning	p7358	11910
+10246577	AMAZON	am	2013	\	at\	fre	\	Heinle Cengage Learning	p7358	11910
+10237927	AMAZON	am	2018	b	nyu	eng	\	New York University Press	1340	12102
+10237927	AMAZON	am	2018	b	nyu	eng	\	New York University Press	1340	12102
+10249207	AMAZON	gm	2015	\	cau	eng	\	Buena Vista Home Entertainment	p7358	12068
+10249204	AMAZON	gm	2013	\	cau	eng	\	Twentieth Century Fox Home Entertainment	p7358	12069
+10249191	AMAZON	gm	2013	\	cau	eng	\	Universal Studios Home Entertainment,$c©2013;$aLexington	p7358	12087
+10249208	AMAZON	gm	2013	\	cau	eng	\	Buena Vista Home Entertainment	p7358	12067
+10249218	AMAZON	gm	2016	\	cau	eng	\	Buena Vista Home Entertainment	p7358	12066
+10249272	AMAZON	am	2008	b	enk	eng	\	Wallflower Press	p7358	12064
+10249106	AMAZON	am	2017	b	riu	eng	\	[Journal of Roman Archaeology]	p2251	12093
+10249108	AMAZON	am	2017	\	gw\	fre	\	Éditions Wartberg ;$aParis :$bDiffusion Sofédis	p8352	12057
+9718807	AMAZON	am	2017	b	iau	eng	\	McGraw-Hill Education	7540	1714
+9718807	AMAZON	am	2017	b	iau	eng	\	McGraw-Hill Education	7540	1714
+9718807	AMAZON	am	2017	b	iau	eng	\	McGraw-Hill Education	7540	1714
+9718807	AMAZON	am	2017	b	iau	eng	\	McGraw-Hill Education	7540	1714
+9945754	AMAZON	am	2017	b	nyu	eng	\	McGraw-Hill Education	p6550	7306
+9945754	AMAZON	am	2017	b	nyu	eng	\	McGraw-Hill Education	p6550	7306
+9945754	AMAZON	am	2017	b	nyu	eng	\	McGraw-Hill Education	p6550	7306
+9945754	AMAZON	am	2017	b	nyu	eng	\	McGraw-Hill Education	p6550	7306
+10248470	AMAZON	am	2015	b	gw\	eng	\	Scholar's Press	p8155	11993
+10248439	AMAZON	am	2018	b	nyu	eng	\	Routledge	6310	11975
+10247910	AMAZON	am	2012	\	gw\	eng	\	Hatje Cantz	6710	11986
+10247913	AMAZON	am	2016	b	enk	eng	\	Cambridge University Press	p7252	11985
+10247918	AMAZON	am	2017	b	nyu	eng	\	Routledge, Taylor & Francis Group	p1359	11981
+10247925	AMAZON	am	2018	b	ne\	eng	\	Brill	p2853	11947
+10242671	AMAZON	am	2014	b	nyu	eng	\	McGraw-Hill	p6656	11755
+10242671	AMAZON	am	2014	b	nyu	eng	\	McGraw-Hill	p6656	11755
+10246917	AMAZON	gm	2013	\	cau	heb	\	Sony Pictures Home Entertainment	p2251	11914
+10246904	AMAZON	am	2016	\	\\\	\\\	\	NA	2616	11932
+10246907	AMAZON	am	2003	b	tu\	tur	\	İstanbul Bilgi Üniversitesi	p2155	11918
+10246915	AMAZON	am	2011	b	enk	eng	\	Continuum	p2155	11917
+10246845	AMAZON	am	2018	\	nyu	eng	\	McGraw-Hill Education	p6650	11855
+10246537	AMAZON	am	2013	b	nyu	eng	\	Pearson Education	p7358	11911
+10246563	AMAZON	am	2014	b	enk	eng	\	Palgrave Macmillan	p6592	11864
+10246582	AMAZON	am	2014	\	mau	fre	\	Heinle, Cengage Learning	p7358	11908
+5620517	AMAZON	am	2005	b	cau	eng	\	University Science Books	p7358	11907
+5620517	AMAZON	am	2005	b	cau	eng	\	University Science Books	p7358	11907
+10246331	AMAZON	am	2017	b	nyu	eng	\	Reading Light Publications	p6592	11857
+10246334	AMAZON	am	2008	b	si\	eng	\	World Scientific	p6654	11906
+8827853	AMAZON	am	2015	b	nju	eng	\	Princeton University Press	p6592	11830
+8827853	AMAZON	am	2015	b	nju	eng	\	Princeton University Press	p6592	11830
+10245915	AMAZON	am	2013	b	nyu	eng	\	McGraw-Hill Irwin	p6592	11829
+10245819	AMAZON	am	2018	\	mau	eng	\	Houghton Mifflin Harcourt	p7360	11839
+10245915	AMAZON	am	2013	b	nyu	eng	\	McGraw-Hill Irwin	p6592	11829
+10245915	AMAZON	am	2013	b	nyu	eng	\	McGraw-Hill Irwin	p6592	11829
+10245820	AMAZON	am	2011	b	cau	eng	\	Cotsen Institute of Archaeology Press, University of California Los Angeles	p2251	11838
+10245821	AMAZON	am	2017	b	cau	eng	\	Cotsen Institute of Archaeology Press	p2251	11837
+10245612	AMAZON	am	2017	b	mau	eng	\	Pearson	p6656	11822
+10245225	AMAZON	gm	2012	\	cau	eng	\	Universal Studios Home Entertainment	p7358	11826
+10245274	AMAZON	am	2018	b	nyu	eng	\	Worth Publishers	p7358	11824
+10245587	AMAZON	am	2017	b	mau	eng	\	Pearson Education, Inc.	p7358	11823
+10245614	AMAZON	am	2015	\	nju	eng	\	Pearson	p7358	11821
+10245733	AMAZON	am	2014	b	ohu	eng	\	South-Western ;$aAustralia :$bCengage Learning	p7358	11819
+10245614	AMAZON	am	2015	\	nju	eng	\	Pearson	p7358	11821
+10245108	AMAZON	am	2015	b	onc	eng	\	Pearson	p6551	11813
+10226279	AMAZON	am	2016	b	ii\	eng	\	Speaking Tiger	2010	11395
+9295235	AMAZON	am	2013	\	ohu	eng	\	Cengage	p1157	$zPOOF;poof.library.cornell.edu/node/42853
+9295235	AMAZON	am	2013	\	ohu	eng	\	Cengage	p1157	$zPOOF;poof.library.cornell.edu/node/42853
+10243467	AMAZON	am	2017	b	nju	eng	\	Wiley	p7054	11779
+10242860	AMAZON	am	2013	b	dcu	eng	\	ASM Press	1510	11775
+10242860	AMAZON	am	2013	b	dcu	eng	\	ASM Press	1510	11775
+10242860	AMAZON	am	2013	b	dcu	eng	\	ASM Press	1510	11775
+10242208	AMAZON	gm	2012	\	cau	eng	\	Starz Media ;$aBeverly Hills, CA :$bDistributed by Anchor Bay Entertainment	NA	NA
+10242678	AMAZON	am	2008	b	nyu	eng	\	Guilford Press	4210	11722
+10242679	AMAZON	am	2016	b	mau	eng	\	Athena Scientific	p6650	11717
+10242194	AMAZON	am	2015	\	nju	eng	\	Pearson Prentice Hall	p6656	11758
+10242671	AMAZON	am	2014	b	nyu	eng	\	McGraw-Hill	p6656	11755
+10242671	AMAZON	am	2014	b	nyu	eng	\	McGraw-Hill	p6656	11755
+10242685	AMAZON	am	2016	\	ilu	eng	\	JABberwocky Literary Agency, Inc.	p7358	11752
+10241126	AMAZON	gm	2017	\	cau	eng	\	Universal Pictures Home Entertainment	p7358	11764
+5717929	AMAZON	am	2005	b	nyu	eng	\	Southeast Asia Program, Cornell University	p7358	11757
+10241124	AMAZON	gm	2016	\	nyu	fre	\	Cohen Media Group,$c[2016];\2$aPort Washington	p7358	11765
+10241129	AMAZON	gm	2007	\	nyu	eng	\	Kino International	p7358	11763
+10241133	AMAZON	gm	2008	\	cau	eng	\	Metro-Goldwyn Mayer Studios :$bDistributed by Twentieth Century Fox Home Entertainment	p7358	11762
+10241137	AMAZON	gm	2018	\	cau	eng	\	Sony Pictures Home Entertainment	p7358	11760
+10240824	AMAZON	am	1989	b	nyu	eng	\	Vintage Books,$c1989	p7358	11499
+5717929	AMAZON	am	2005	b	nyu	eng	\	Southeast Asia Program, Cornell University	p7358	11757
+10240244	AMAZON	am	2015	b	mau	eng	\	Athena Scientific	p7054	11705
+9331422	AMAZON	am	1984	b	nyu	eng	\	Dover Publications,$c[1984]	p6656	11712
+10240246	AMAZON	am	2018	b	dcu	eng	\	American Pharmacists Association	1510	11702
+9331422	AMAZON	am	1984	b	nyu	eng	\	Dover Publications,$c[1984]	p6656	11712
+7512797	AMAZON	am	2011	b	cau	eng	\	CattleDog Pub.	1510	11704
+7512797	AMAZON	am	2011	b	cau	eng	\	CattleDog Pub.	1510	11704
+7512797	AMAZON	am	2011	b	cau	eng	\	CattleDog Pub.	1510	11704
+10240136	AMAZON	am	2008	b	nyu	eng	\	Mary Ann Liebert	p7358	11711
+10239992	AMAZON	am	2010	b	kyu	eng	\	Westminster John Knox Press	p2853	11678
+10239984	AMAZON	am	2017	b	nyu	eng	\	Gregory R. Miller & Co. ;$aBerlin, Germany :$bHatje Cantz	p6753	11682
+6385200	AMAZON	am	2009	b	nyu	eng	\	Pearson Longman	p7358	11709
+6385200	AMAZON	am	2009	b	nyu	eng	\	Pearson Longman	p7358	11709
+6385200	AMAZON	am	2009	b	nyu	eng	\	Pearson Longman	p7358	11709
+6385200	AMAZON	am	2009	b	nyu	eng	\	Pearson Longman	p7358	11709
+5314507	AMAZON	am	2004	b	enk	eng	\	Thames & Hudson	p7358	11710
+5314507	AMAZON	am	2004	b	enk	eng	\	Thames & Hudson	p7358	11710
+10238223	AMAZON	gm	2010	\	cau	eng	\	Sony Pictures Home Entertainment	p7358	11672
+10237987	AMAZON	am	2018	b	nyu	eng	\	McGraw-Hill Education	p6656	11677
+10238001	AMAZON	gm	2002	\	ilu	rus	\	Facets Video	p7358	11676
+10238008	AMAZON	gm	2016	\	nyu	eng	\	The Orchard	p7358	11674
+10238028	AMAZON	gm	2014	\	cau	eng	\	Marvel,$c[2014];\2$aBurbank, California :$bDistributed by Buena Vista Home Entertainment, Inc.	p7358	11673
+10238123	AMAZON	am	2014	b	nyu	eng	\	CreateSpace Independent Publishing Platform,$c2014.;\1$a[Spencer, NY?] :$bWDR Enterprises, LLC	p6550	11664
+5454343	AMAZON	gm	2003	\	nyu	eng	\	Criterion Collection	p7358	11675
+10237927	AMAZON	am	2018	b	nyu	eng	\	New York University Press	1340	12102
+10237927	AMAZON	am	2018	b	nyu	eng	\	New York University Press	1340	12102
+5454343	AMAZON	gm	2003	\	nyu	eng	\	Criterion Collection	p7358	11675
+5454343	AMAZON	gm	2003	\	nyu	eng	\	Criterion Collection	p7358	11675
+9427368	AMAZON	am	2017	\	mau	eng	\	Pearson	p1169	$zPOOF;poof.library.cornell.edu/node/45914
+10237710	AMAZON	gm	2018	\	xxu	eng	\	The Criterion Collection	3110	11669
+10237712	AMAZON	am	2015	\	xxu	eng	\	Dreambridge Partners LLC	p6550	11663
+9427368	AMAZON	am	2017	\	mau	eng	\	Pearson	p1169	$zPOOF;poof.library.cornell.edu/node/45914
+9427368	AMAZON	am	2017	\	mau	eng	\	Pearson	p1169	$zPOOF;poof.library.cornell.edu/node/45914
+9427368	AMAZON	am	2017	\	mau	eng	\	Pearson	p1169	$zPOOF;poof.library.cornell.edu/node/45914
+3510485	AMAZON	am	1999	b	nyu	eng	\	Farrar, Straus and Giroux	1340	11632
+3510485	AMAZON	am	1999	b	nyu	eng	\	Farrar, Straus and Giroux	1340	11632
+3510485	AMAZON	am	1999	b	nyu	eng	\	Farrar, Straus and Giroux	1340	11632
+3510485	AMAZON	am	1999	b	nyu	eng	\	Farrar, Straus and Giroux	1340	11632
+10233917	AMAZON	am	2017	b	nyu	eng	\	Twelve	p7358	11600
+10101466	AMAZON	am	2013	b	gw\	eng	\	LAP Lambert Academic Publishing	8110	9905
+10236723	AMAZON	am	1991	b	enk	eng	\	B. Blackwell	2810	11618
+10234290	AMAZON	am	2017	\	mau	eng	\	Candlewick Press	p7360	11629
+10234292	AMAZON	am	2017	b	enk	eng	\	UX in Libraries	p3250	11626
+10234293	AMAZON	am	2016	b	nyu	eng	\	Random House Business Books	p6551	11620
+6962643	AMAZON	am	2010	b	ksu	eng	\	Mark Morris Institute	1510	11623
+6962643	AMAZON	am	2010	b	ksu	eng	\	Mark Morris Institute	1510	11623
+6962643	AMAZON	am	2010	b	ksu	eng	\	Mark Morris Institute	1510	11623
+6962643	AMAZON	am	2010	b	ksu	eng	\	Mark Morris Institute	1510	11623
+6962643	AMAZON	am	2010	b	ksu	eng	\	Mark Morris Institute	1510	11623
+6962643	AMAZON	am	2010	b	ksu	eng	\	Mark Morris Institute	1510	11623
+6962643	AMAZON	am	2010	b	ksu	eng	\	Mark Morris Institute	1510	11623
+6962643	AMAZON	am	2010	b	ksu	eng	\	Mark Morris Institute	1510	11623
+10233929	AMAZON	am	2010	b	enk	eng	\	Routledge	p7358	11597
+9926399	AMAZON	am	2017	b	ctu	eng	\	Yale University Press	p7358	11599
+9926399	AMAZON	am	2017	b	ctu	eng	\	Yale University Press	p7358	11599
+10233931	AMAZON	am	2017	b	ilu	eng	s	University of Illinois Press	p7358	11595
+10233882	AMAZON	am	2017	b	nyu	eng	\	Roaring Brook Press	p7360	11586
+10233882	AMAZON	am	2017	b	nyu	eng	\	Roaring Brook Press	p7360	11586
+10233895	AMAZON	am	2017	\	nyu	eng	\	Atheneum Books for Young Readers	p7360	11591
+6402089	AMAZON	am	2009	b	nju	eng	\	Princeton University Press	p7358	11598
+10233823	AMAZON	am	2007	b	cau	eng	\	University Science Books	p7291	11607
+6402089	AMAZON	am	2009	b	nju	eng	\	Princeton University Press	p7358	11598
+10233626	AMAZON	gm	2016	\	nyu	spa	\	Kino Classics	p7358	11606
+10233621	AMAZON	gm	2012	\	cau	eng	\	Buena Vista Home Entertainment	p7358	11610
+10233623	AMAZON	gm	2011	\	nyu	spa	\	Entertainment One Film USA LLC	p7358	11609
+10233635	AMAZON	gm	2005	\	cau	eng	\	Turner Entertainment :$bDistributed by Warner Home Video	p7358	11603
+10233655	AMAZON	gm	2001	\	cau	eng	\	Universal Studios	p7358	11601
+10232682	AMAZON	am	2017	\	nyu	eng	\	Farrar Straus Giroux	p7360	11593
+10232682	AMAZON	am	2017	\	nyu	eng	\	Farrar Straus Giroux	p7360	11593
+10232684	AMAZON	am	2017	b	enk	eng	\	Polity Press	2810	11592
+10232688	AMAZON	am	2017	b	cau	eng	\	Chronicle Books	p7360	11590
+10232690	AMAZON	am	2017	b	mnu	eng	\	Millbrook Press	p7360	11585
+10232691	AMAZON	am	2017	\	nyu	eng	\	Godwin Books/ Henry Holt and Company	p7360	11584
+10232692	AMAZON	am	2017	\	nyu	eng	\	Alfred A. Knopf	p7360	11583
+10232692	AMAZON	am	2017	\	nyu	eng	\	Alfred A. Knopf	p7360	11583
+10232693	AMAZON	am	2017	\	nyu	eng	\	Dial Books for Young Readers	p7360	11582
+10232694	AMAZON	am	2017	\	mau	eng	\	Candlewick Press	p7360	11581
+10232695	AMAZON	am	2017	\	mau	eng	\	Candlewick Press	p7360	11580
+10232695	AMAZON	am	2017	\	mau	eng	\	Candlewick Press	p7360	11580
+10232696	AMAZON	am	2017	\	ilu	eng	\	Bolden, An Agate imprint	p7360	11579
+10232696	AMAZON	am	2017	\	ilu	eng	\	Bolden, An Agate imprint	p7360	11579
+10232697	AMAZON	am	2017	\	nyu	eng	\	Roaring Brook Press	p7360	11577
+10232697	AMAZON	am	2017	\	nyu	eng	\	Roaring Brook Press	p7360	11577
+10232698	AMAZON	am	2017	\	nyu	eng	\	Roaring Brook Press	p7360	11575
+10232499	AMAZON	am	2017	b	nyu	eng	\	Actar :$bHarvard University Graduate School of Design	p6752	11515
+10232500	AMAZON	gm	2012	\	cau	fre	\	Vivendi Entertainment	p7358	11556
+10232279	AMAZON	am	2017	b	nju	eng	\	John Wiley & Sons, Inc.	7540	11538
+10227263	AMAZON	gm	2009	\	cau	spa	\	Strand Releasing Home Video	p7358	11492
+10227301	AMAZON	am	2018	b	nyu	eng	\	Pearson	7540	11443
+10227302	AMAZON	am	2016	b	nju	eng	\	Wiley	p1359	11442
+10227259	AMAZON	am	2005	b	nyu	eng	\	Routledge	p7358	11496
+10227260	AMAZON	am	2017	b	ilu	eng	\	Distributed by Yale University Press;\1$aChicago :$bArt Institute of Chicago ;$aNew York :$bMuseum of Modern Art	p7358	11495
+7544393	AMAZON	am	2010	b	mau	eng	\	Wiley	1340	$zPOOF;poof.library.cornell.edu/node/6181
+7544393	AMAZON	am	2010	b	mau	eng	\	Wiley	1340	$zPOOF;poof.library.cornell.edu/node/6181
+6199457	AMAZON	am	2008	b	nyu	eng	\	Routledge	p7358	11498
+10227109	AMAZON	gm	2003	\	nyu	kur	\	Wellspring Media	p7358	11422
+10227112	AMAZON	gm	2015	\	cau	arm	\	Strand Releasing Home Video	p7358	11419
+10227136	AMAZON	am	2018	b	onc	eng	\	University of Toronto Press	p7358	11343
+10227107	AMAZON	am	2012	b	enk	eng	\	Routledge :$bImprint of Taylor & Francis Group	6310	11361
+6199457	AMAZON	am	2008	b	nyu	eng	\	Routledge	p7358	11498
+10227136	AMAZON	am	2018	b	onc	eng	\	University of Toronto Press	p7358	11343
+10226265	AMAZON	am	2010	6	ag\	spa	\	La Editorial Común	2616	11376
+7551038	AMAZON	am	2011	b	nyu	eng	\	Back Bay Books	1340	$zPOOF;poof.library.cornell.edu/node/6217
+7551038	AMAZON	am	2011	b	nyu	eng	\	Back Bay Books	1340	$zPOOF;poof.library.cornell.edu/node/6217
+6216697	AMAZON	am	2008	b	ctu	eng	\	Yale University Press	p1157	$zPOOF;poof.library.cornell.edu/node/32164
+10226268	AMAZON	am	2013	6	sp\	spa	\	Edicions de Ponent	2616	11375
+10226270	AMAZON	am	2011	\	enk	spa	\	Scholastic	2616	11374
+10226272	AMAZON	am	2011	6	sp\	spa	\	Difusión	2616	11373
+6216697	AMAZON	am	2008	b	ctu	eng	\	Yale University Press	p1157	$zPOOF;poof.library.cornell.edu/node/32164
+6216697	AMAZON	am	2008	b	ctu	eng	\	Yale University Press	p1157	$zPOOF;poof.library.cornell.edu/node/32164
+10226823	AMAZON	am	2015	6	sp\	spa	\	Astiberri Ediciones	2616	11369
+10226274	AMAZON	am	2014	6	sp\	spa	\	Astiberri	2616	11372
+10226276	AMAZON	am	2011	6	sp\	spa	\	Astiberri	2616	11371
+10226278	AMAZON	am	2014	6	sp\	spa	\	Astiberri	2616	11370
+10226280	AMAZON	am	2009	\	sp\	spa	\	Astiberri	2616	11368
+10226282	AMAZON	am	2010	6	sp\	spa	\	Astiberri	2616	11365
+10226283	AMAZON	am	2009	\	sp\	spa	\	Astiberri	2616	11364
+10226259	AMAZON	am	2016	\	ii\	eng	\	Speaking Tiger Books 	2010	11403
+10225662	AMAZON	am	1997	\	iau	eng	\	Kendall/Hunt	7540	11352
+10225662	AMAZON	am	1997	\	iau	eng	\	Kendall/Hunt	7540	11352
+8928417	AMAZON	am	2015	b	enk	eng	\	Zed Books	p7358	11340
+8928417	AMAZON	am	2015	b	enk	eng	\	Zed Books	p7358	11340
+4125554	AMAZON	am	2001	b	nju	eng	\	Princeton University Press	p7358	11339
+4125554	AMAZON	am	2001	b	nju	eng	\	Princeton University Press	p7358	11339
+7199560	AMAZON	am	2011	b	nyu	eng	\	Cornell University Press	p7358	11338
+7199560	AMAZON	am	2011	b	nyu	eng	\	Cornell University Press	p7358	11338
+5980631	AMAZON	am	2003	b	nyu	eng	\	Simon & Schuster	p7358	11337
+5980631	AMAZON	am	2003	b	nyu	eng	\	Simon & Schuster	p7358	11337
+5997802	AMAZON	am	2007	b	mdu	eng	\	Rowman & Littlefield Publishers	p7358	11336
+10225699	AMAZON	am	2015	b	enk	eng	\	Oxford University Press	p7358	11335
+5997802	AMAZON	am	2007	b	mdu	eng	\	Rowman & Littlefield Publishers	p7358	11336
+7935815	AMAZON	am	2013	b	miu	eng	\	American Hotel & Lodging Educational Institute	7540	11326
+8918627	AMAZON	am	2011	b	cau	eng	\	McSweeneys Books	8144	$zPOOF;poof.library.cornell.edu/node/35244
+7935815	AMAZON	am	2013	b	miu	eng	\	American Hotel & Lodging Educational Institute	7540	11326
+7935815	AMAZON	am	2013	b	miu	eng	\	American Hotel & Lodging Educational Institute	7540	11326
+8918627	AMAZON	am	2011	b	cau	eng	\	McSweeneys Books	8144	$zPOOF;poof.library.cornell.edu/node/35244
+10215494	AMAZON	gm	2017	\	cau	eng	\	Twentieth Century Fox Home Entertainment LLC	3110	11348
+10215487	AMAZON	gm	2018	\	cau	eng	\	[Warner Bros. Entertainment],$c[2018];\2$aBurbank, CA :$bDistributed by Warner Bros. Home Entertainment	3110	11351
+10215488	AMAZON	gm	2018	\	cau	eng	\	Sony Pictures Home Entertainment	3110	11350
+10215491	AMAZON	gm	2018	\	cau	eng	\	Sony Pictures Home Entertainment	3110	11349
+10215494	AMAZON	gm	2017	\	cau	eng	\	Twentieth Century Fox Home Entertainment LLC	3110	11348
+10215454	AMAZON	am	2017	b	ne\	fre	\	Brill	p8352	11345
+10215453	AMAZON	am	2017	b	nyu	eng	\	Matthew Marks Gallery,$c[2017];\2$aNew Haven ;$aLondon :$bDistributed by Yale University Press	p6794	11346
+10215444	AMAZON	am	2018	b	sz\	eng	\	Lars Müller Publishers	6713	11355
+10215446	AMAZON	am	2017	b	dcu	eng	\	Island Press	6712	11353
+10215380	AMAZON	am	2009	b	enk	eng	\	Ashgate	2111	11315
+10215127	AMAZON	am	2018	\	flu	eng	\	CRC PRESS	1510	11312
+10215106	AMAZON	gm	2017	\	xxu	eng	\	The Criterion Collection	3110	11266
+10215179	AMAZON	am	2016	b	nju	eng	\	John Wiley & Sons, Inc.	1340	11314
+10215184	AMAZON	am	2017	b	sz\	eng	\	Springer	1340	11313
+10215407	AMAZON	am	2017	b	nju	eng	\	Wiley	1340	11310
+10215417	AMAZON	am	1976	b	sp\	spa	\	Ediciones Cátedra	p7358	11320
+10215127	AMAZON	am	2018	\	flu	eng	\	CRC PRESS	1510	11312
+10215104	AMAZON	gm	2017	\	cau	eng	\	Sony Pictures Home Entertainment	3110	11269
+10215105	AMAZON	gm	2017	\	cau	eng	\	Shout! Factory	3110	11267
+10215107	AMAZON	gm	2017	\	nyu	eng	\	IFC Films	3110	11265
+10215108	AMAZON	gm	2018	\	cau	eng	\	Magnolia Home Entertainment	3110	11262
+10215109	AMAZON	gm	2017	\	cau	eng	\	Paramount Home Entertainment	3110	11261
+10215110	AMAZON	gm	2017	\	cau	eng	\	Twentieth Century Fox Home Entertainment	p3193	11259
+10215113	AMAZON	gm	2017	\	cau	eng	\	Universal Pictures Home Entertainment	p3193	11258
+10215079	AMAZON	am	2017	b	enk	eng	\	CABI	7540	11252
+10215076	AMAZON	am	2012	b	flu	eng	\	University Press of Florida	1340	11264
+10214992	AMAZON	am	2017	b	si\	eng	\	Springer	8110	11279
+10214800	AMAZON	gm	2015	\	nyu	ita	\	Film Movement	p7358	11277
+6654585	AMAZON	am	2009	b	nyu	eng	\	Metropolitan Books	1340	11263
+6654585	AMAZON	am	2009	b	nyu	eng	\	Metropolitan Books	1340	11263
+6654585	AMAZON	am	2009	b	nyu	eng	\	Metropolitan Books	1340	11263
+6654585	AMAZON	am	2009	b	nyu	eng	\	Metropolitan Books	1340	11263
+8074653	AMAZON	am	2015	\	nyu	eng	\	Visual Arts of the Americas	6711	$zPOOF;poof.library.cornell.edu/node/15998
+10214768	AMAZON	am	2017	b	be\	eng	\	Peeters	p2755	11250
+8074653	AMAZON	am	2015	\	nyu	eng	\	Visual Arts of the Americas	6711	$zPOOF;poof.library.cornell.edu/node/15998
+10214770	AMAZON	am	2017	b	gau	eng	\	SBL Press	p2755	11249
+10214392	AMAZON	am	2017	b	nyu	eng	\	Harper, an imprint of HarperCollinsPublishers	p7357	11224
+10213971	AMAZON	am	1986	b	nyu	eng	\	Schocken Books,$c1986	p7358	11203
+10213974	AMAZON	gm	2006	\	mx\	spa	\	Quality Films	NA	NA
+10213976	AMAZON	am	2012	b	pau	eng	\	Paul Dry Books	p7358	11202
+7117357	AMAZON	am	2011	\	enk	eng	\	Garland Science	p7358	11211
+7117357	AMAZON	am	2011	\	enk	eng	\	Garland Science	p7358	11211
+10213596	AMAZON	am	2016	b	pau	eng	\	PENN, University of Pennsylvania Press	p2853	11206
+10213599	AMAZON	am	2017	b	nyu	eng	\	Peter Lang	p2153	11191
+10213570	AMAZON	am	2017	b	nyu	eng	\	W.W. Norton & Company	p7358	11143
+10213569	AMAZON	am	2010	b	nyu	eng	\	HarperBusiness	p6550	11148
+10213555	AMAZON	am	2016	b	sz\	eng	\	EPFL Press	p6756	11161
+10213558	AMAZON	am	2014	b	nyu	eng	\	Plume	p6550	11149
+10213571	AMAZON	am	2017	b	nyu	eng	\	Teachers College Press, Columbia University	p7358	11139
+10213573	AMAZON	gm	2012	\	cau	eng	\	Metro-Goldwyn Mayer Stuios Inc.,$c[2012];\2$a[Beverly Hills, California] :$bDistributed by Twentieth Century Fox Home Entertainment	NA	NA
+10213570	AMAZON	am	2017	b	nyu	eng	\	W.W. Norton & Company	p7358	11143
+10213537	AMAZON	gm	2009	\	cau	swe	\	Magnolia Home Entertainment	p7358	11185
+10213535	AMAZON	gm	2012	\	ilu	eng	\	MPI Home Video	p7358	11186
+10213544	AMAZON	gm	2004	\	xxu	eng	\	Turner Entertainment Co. ;$aBurbank, CA :$bDistributed by Warner Home Video	p7358	11184
+10213546	AMAZON	gm	2001	\	cau	eng	\	Universal Studios	p7358	11183
+10213549	AMAZON	am	2012	\	nyu	eng	\	Samuel French	p7358	11169
+10213553	AMAZON	am	2000	b	nyu	eng	\	Penguin Books	p7358	11168
+10213409	AMAZON	am	2017	\	ncu	eng	\	[CreateSpace Independent Publishing Platform]	2010	11167
+9790597	AMAZON	am	2017	b	nyu	eng	\	Simon & Schuster	521	3040
+9790597	AMAZON	am	2017	b	nyu	eng	\	Simon & Schuster	521	3040
+8767009	AMAZON	am	2015	\	nju	eng	\	Princeton University Press	p7358-uris	$zPOOF;poof.library.cornell.edu/node/36591;Cornell;\\$
+9790597	AMAZON	am	2017	b	nyu	eng	\	Simon & Schuster	521	3040
+8767009	AMAZON	am	2015	\	nju	eng	\	Princeton University Press	p7358-uris	$zPOOF;poof.library.cornell.edu/node/36591;Cornell;\\$
+8767009	AMAZON	am	2015	\	nju	eng	\	Princeton University Press	p7358-uris	$zPOOF;poof.library.cornell.edu/node/36591;Cornell;\\$
+8767009	AMAZON	am	2015	\	nju	eng	\	Princeton University Press	p7358-uris	$zPOOF;poof.library.cornell.edu/node/36591;Cornell;\\$
+8767009	AMAZON	am	2015	\	nju	eng	\	Princeton University Press	p7358-uris	$zPOOF;poof.library.cornell.edu/node/36591;Cornell;\\$
+10213278	AMAZON	am	2013	b	ii\	eng	\	Documentation & Publication Department Men-Tsee-Khang Tibetan Medical & Astro. Institute	2010	11176
+10213280	AMAZON	am	2003	\	ce\	eng	\	Visidunu Publication	2010	11158
+10213353	AMAZON	am	2017	b	enk	eng	\	Seagull Books	p2553	11182
+10213084	AMAZON	am	2017	\	nju	eng	\	John Wiley & Sons, Inc.	7540	11086
+10208275	AMAZON	gm	2009	\	gw\	ger	\	Indigo :$bNeue Visionen Medien :$bgood!movies	2511	11113
+10208171	AMAZON	gm	2017	\	ilu	fre	\	MPI Media Group,$c[2017];\2$aNew York, NY :$bSundance Selects	p7358	11018
+10208221	AMAZON	am	2013	\	quc	eng	\	Linda Leith Pub.	p2654	11079
+10208152	AMAZON	am	2008	\	inu	eng	\	Action Books	2310	11029
+10208154	AMAZON	am	1996	\	\\\	\\\	\	NA	p2065	11045
+10208156	AMAZON	gm	2015	\	sp\	spa	\	Avalon Distribución Audiovisual S.L.	NA	NA
+685817	AMAZON	am	1980	b	nju	eng	\	Prentice-Hall	p6656	11044
+10208093	AMAZON	am	2017	b	enk	eng	\	Liverpool University Press	2616	11032
+685817	AMAZON	am	1980	b	nju	eng	\	Prentice-Hall	p6656	11044
+685817	AMAZON	am	1980	b	nju	eng	\	Prentice-Hall	p6656	11044
+10208096	AMAZON	am	2007	\	nyu	eng	\	Blaze Vox Books	2310	11030
+10208097	AMAZON	am	2010	\	inu	eng	\	Action Books	2310	11028
+10208099	AMAZON	am	2015	\	inu	eng	\	Action Books	2310	11027
+10208102	AMAZON	am	2016	\	ilu	eng	\	Distributed to the trade by Small Press Distribution;\1$aNormal, Illinois :$bCo-Im-Press	2310	11026
+10207967	AMAZON	am	2018	b	nyu	eng	\	Oxford University Press	p1207	10989
+10207638	AMAZON	am	2017	b	pau	eng	\	Rodale	4210	11010
+10207640	AMAZON	am	2014	b	nyu	eng	\	Plume,$c2014	4210	11009
+10207647	AMAZON	am	2017	\	fr\	\\\	\	Études Books	6711	10985
+10207644	AMAZON	am	2012	b	ncu	eng	\	New Rise Press	4210	11008
+10207610	AMAZON	am	2018	\	nyu	eng	\	McGraw-Hill Education	p6656	10941
+10207612	AMAZON	am	2012	b	gw\	eng	\	Wiley-VCH	p6656	10940
+10207613	AMAZON	am	2016	b	si\	eng	\	Cengage Learning Asia Pte Ltd	p6656	10939
+10207616	AMAZON	am	2017	b	cau	eng	\	SAGE	p7358	10938
+10103946	AMAZON	am	2003	e	ii\	eng	\	Encyclopaedia Britannica (India)	2010-asia,ref	NA
+10207291	AMAZON	am	2017	b	ne\	eng	\	Brill	1340	10978
+10207287	AMAZON	am	2018	b	enk	eng	\	Oxford University Press	1340	10979
+9717169	AMAZON	am	2013	b	nyu	eng	\	The Overlook Press	6710	1673
+10207563	AMAZON	am	2016	\	wau	eng	\	Urban Land Institute	7540	10956
+10207563	AMAZON	am	2016	\	wau	eng	\	Urban Land Institute	7540	10956
+10207563	AMAZON	am	2016	\	wau	eng	\	Urban Land Institute	7540	10956
+10207563	AMAZON	am	2016	\	wau	eng	\	Urban Land Institute	7540	10956
+8210498	AMAZON	am	2013	\	nyu	eng	\	[publisher not identified]	1340	$zPOOF;poof.library.cornell.edu/node/16203
+10207252	AMAZON	am	2018	b	cau	eng	\	Ten Speed Press	591	10944
+10207247	AMAZON	am	2017	b	ph\	eng	\	National Historical Commission of the Philippines	p8155	10954
+10207143	AMAZON	am	2017	b	fr\	fre	\	Zones	p4558	10964
+10171249	AMAZON	am	2018	b	sz\	eng	\	Palgrave Macmillan	p7367	10568
+8210498	AMAZON	am	2013	\	nyu	eng	\	[publisher not identified]	1340	$zPOOF;poof.library.cornell.edu/node/16203
+8210498	AMAZON	am	2013	\	nyu	eng	\	[publisher not identified]	1340	$zPOOF;poof.library.cornell.edu/node/16203
+10206881	AMAZON	am	2013	b	enk	eng	\	Oxbow Books	p2755	10874
+10206877	AMAZON	am	2017	\	ne\	eng	\	Brill	p2755	10879
+10206671	AMAZON	am	2009	b	it\	ita	\	LED	p2755	10877
+10206652	AMAZON	am	2018	b	nyu	eng	\	Liveright Publishing Corporation, a division of W.W. Norton & Company	6310	10892
+10206659	AMAZON	am	2017	b	nyu	eng	\	Hachette Books	6310	10889
+10206665	AMAZON	am	2017	b	nyu	eng	\	Crown	p2967	10887
+10206666	AMAZON	am	2017	b	nyu	eng	\	St. Martin's Press	p2996	10886
+10206668	AMAZON	am	2015	b	be\	eng	\	Brepols	p3257	10884
+10206669	AMAZON	am	2017	b	gw\	ger	\	Franz Steiner Verlag	p2755	10882
+10206670	AMAZON	am	2016	b	gw\	ger	\	Franz Steiner Verlag	p2755	10881
+10206672	AMAZON	am	2011	b	enk	eng	\	Oxford University Press	p2755	10876
+10207599	BNABOOKS	am	2017	b	ilu	eng	\	Committee on Union Administration and Procedure, Section of Labor & Employment Law, American Bar Association ;$aArlington	p1354	15040
+10207599	BNABOOKS	am	2017	b	ilu	eng	\	Committee on Union Administration and Procedure, Section of Labor & Employment Law, American Bar Association ;$aArlington	p1354	15040
+9215975	BNABOOKS	am	2015	b	vau	eng	\	Bloomberg BNA	p1359	$zPOOF;poof.library.cornell.edu/node/39791
+10407855	BOKSTUD	am	2017	\	ic\	ice	\	Veröld	p8350	15433
+7486593	BNABOOKS	am	2011	b	vau	eng	\	BNA Books	p1359	$zPOOF;poof.library.cornell.edu/node/4845
+10405649	BOKSTUD	am	2016	\	ic\	ice	\	Veröld	p8350	15401
+10405662	BOKSTUD	am	2012	\	ic\	ice	\	NA	p8350	15399
+10356549	BOKSTUD	am	2018	\	dk\	dan	\	Lindhardt og Ringhof	2513	14187
+10387278	BOKSTUD	am	2012	b	ic\	ice	\	Sögufélag	p8350	15277
+10356549	BOKSTUD	am	2018	\	dk\	dan	\	Lindhardt og Ringhof	2513	14187
+10356549	BOKSTUD	am	2018	\	dk\	dan	\	Lindhardt og Ringhof	2513	14187
+10356549	BOKSTUD	am	2018	\	dk\	dan	\	Lindhardt og Ringhof	2513	14187
+10297395	BREPOLS	am	2000	b	be\	eng	\	Brepols	592	12554
+10297398	BREPOLS	am	1998	b	be\	eng	\	Brepols	592	12552
+10297400	BREPOLS	am	1995	b	be\	eng	\	Brepols	592	12534
+10297393	BREPOLS	am	1997	b	be\	fre	\	Brepols	592	12551
+10206673	BREPOLS	am	2016	\	be\	fre	\	Brepols Publishers	p2755	10875
+10406189	BULLFROG	gm	200u	\	pau	eng	\	Bullfrog Films	1010	15380
+10316479	CALNEWS	gm	2017	\	cau	eng	\	California Newsreel	6310	12972
+10232410	BEREN	am	2017	b	cl\	spa	\	LOM ediciones	2310	11540
+10380026	CASALINI/E	am	2017	b	sp\	spa	\	Ediciones del Genal	p8154	15002
+10377645	CASALINI/E	am	2017	b	sp\	spa	\	Catarata	8110	14890
+10377648	CASALINI/E	am	2017	\	it\	ita	\	Rizzoli	8110	14876
+10385684	CASALINI/E	am	2017	\	it\	ita	\	Elemento 115	8110	15261
+10382109	CASALINI/E	am	2017	b	it\	ita	\	Edizioni di storia e letteratura	8110	15066
+10360677	CASALINI/E	am	2017	b	it\	eng	\	Food and Agriculture Organization of the United Nations	8110	14517
+10356100	CASALINI/E	am	2015	b	sp\	cat	\	Cossetània Edicions	7110	14171
+10355937	CASALINI/E	am	2015	b	sp\	spa	\	Contra	7110	14172
+10358679	CASALINI/E	am	2016	b	it\	ita	\	Skira	p4850	14314
+10354463	CASALINI/E	am	2016	b	sp\	spa	\	Ediciones Universidad	7110	14086
+10354465	CASALINI/E	am	2016	\	sp\	spa	\	Libargo	7110	14082
+10354466	CASALINI/E	am	2016	b	sp\	spa	\	Editorial Alpuerto	7110	14081
+10353945	CASALINI/E	am	2017	b	it\	ita	\	Zecchini editore	7110	14046
+10353948	CASALINI/E	am	2015	b	it\	eng	\	Mimesis International	7110	14042
+10353426	CASALINI/E	am	2017	b	it\	ita	\	EDT	7110	13974
+10353427	CASALINI/E	am	2017	\	it\	ita	\	Libreria Musicale Italiana	7110	13971
+10352630	CASALINI/E	am	2017	b	it\	ita	\	Edizioni dal Sud	7110	13909
+10328447	CASALINI/E	am	2016	b	it\	fre	\	Libreria musicale italiana	7110	13532
+10328214	CASALINI/E	am	2016	b	it\	ita	\	Carocci editore	p2651	13431
+10327867	CASALINI/E	am	2016	b	it\	ita	\	Agorà & Co.	p2651	13437
+10327870	CASALINI/E	am	2018	b	it\	ita	\	Salani editore	4820	13436
+10327871	CASALINI/E	am	2018	b	it\	ita	\	Aracne editrice	4820	13434
+10327875	CASALINI/E	am	2018	b	it\	ita	\	Mauro Pagliai editore	p2651	13433
+10327877	CASALINI/E	am	2018	\	sp\	spa	\	Entrepueblos	4820	13428
+10327884	CASALINI/E	am	2018	\	sp\	cat	\	Editorial Base	4820	13425
+10327885	CASALINI/E	am	2018	\	sp\	spa	\	Catarata	4820	13423
+10327887	CASALINI/E	am	2018	\	sp\	spa	\	Catarata	4820	13422
+10327890	CASALINI/E	am	2017	b	sp\	cat	\	Viena Edicions :$bIEFC, Insitut d'Estudis Fotogràfics de Catalunya :$bAjuntament de Barcelona	4820	13419
+10327891	CASALINI/E	am	2017	\	sp\	cat	\	Publicacions de la Abadia de Montserrat	4820	13417
+10323293	CASALINI/E	am	2017	b	it\	ita	\	FrancoAngeli	7110	13336
+10323297	CASALINI/E	am	2017	b	it\	ita	\	Marsilio	7110	13332
+10323300	CASALINI/E	am	2017	b	sp\	spa	\	Edicions Bellaterra :$bCentro de Investigación sobre Asia Oriental, Universitat Autònoma de Barcelona	p8155	13285
+10328902	CASALINI/E	am	2017	\	sp\	spa	\	La Oveja Roja	1341	13561
+10322870	CASALINI/E	am	2015	b	it\	ita	\	Bompiani	p2155	13216
+10319214	CASALINI/E	am	2017	b	it\	ita	\	Libreria Musicale Italiana	7110	13062
+10319218	CASALINI/E	am	2017	b	it\	ita	\	Castelvecchi	7110	13057
+10319219	CASALINI/E	am	2016	b	it\	ita	\	Carocci editore	7110	13053
+10319220	CASALINI/E	am	2016	b	it\	ita	\	Editrice Clinamen	7110	13052
+10316035	CASALINI/E	am	2017	\	sp\	spa	\	Acantilado	7110	12961
+10319901	CASALINI/E	am	2017	b	it\	ita	\	Giuntina	p2657	13105
+10319906	CASALINI/E	am	2004	\	it\	ita	\	Ananke	2662	13083
+10316029	CASALINI/E	am	2017	b	it\	ita	\	Edizioni Unicopli	7110	12965
+10316033	CASALINI/E	am	2017	b	it\	ita	\	Pendragon	7110	12964
+10316034	CASALINI/E	am	2017	b	it\	ita	\	CLEUP editrice	7110	12962
+10316036	CASALINI/E	am	2017	\	it\	ita	\	Libreria Musicale Italiana	7110	12960
+10297394	CASALINI/E	am	2014	b	it\	ita	\	EDT	p4850	12553
+10297397	CASALINI/E	am	2007	b	it\	ita	\	Bollati Boringhieri	p4850	12547
+10297402	CASALINI/E	am	2000	b	it\	ita	\	Bollati Boringhieri	p4850	12545
+10297404	CASALINI/E	am	2009	\	it\	ita	\	Einaudi	p4850	12544
+10297406	CASALINI/E	am	2002	b	it\	ita	\	Bollati Boringhieri	p4850	12543
+10297409	CASALINI/E	am	2010	b	it\	ita	\	G. Einaudi	p4850	12542
+10297412	CASALINI/E	am	2012	b	it\	ita	\	Einaudi	p4850	12540
+10297414	CASALINI/E	am	2004	b	it\	ita	\	G. Einaudi	p4850	12538
+10297415	CASALINI/E	am	1999	\	it\	ita	\	Bollati Boringhieri	p4850	12537
+10297416	CASALINI/E	am	2002	b	it\	ita	\	Einaudi	p4850	12536
+10297418	CASALINI/E	am	2008	b	it\	ita	\	G. Einaudi	p4850	12533
+10297419	CASALINI/E	am	1997	b	it\	ita	\	Zanichelli	p4850	12532
+10294988	CASALINI/E	am	2017	b	it\	ita	\	Libreria Musicale Italiana	7110	12454
+10294990	CASALINI/E	am	2017	k	it\	ita	\	De Ferrari	p7153	12452
+10292396	CASALINI/E	am	2017	b	it\	ita	\	Accademia University Press	7110	12403
+10245813	CASALINI/E	am	2008	b	it\	ita	\	BeccoGiallo	2620	11836
+10245814	CASALINI/E	am	2014	6	it\	ita	\	Coconino Press	2620	11832
+10245816	CASALINI/E	am	2016	\	it\	ita	\	Coconino Press :$bFandango	2620	11831
+10207146	CASALINI/E	am	2017	b	sp\	spa	\	Ediciones Polifemo	p8154	10962
+8827944	PROQUEST/E	am	2007	b	mdu	eng	\	AltaMira Press	p7361	$zPOOF;poof.library.cornell.edu/node/31725
+9215427	PROQUEST/E	am	2013	b	cau	eng	\	O'Reilly Media	p6550	$zPOOF;poof.library.cornell.edu/node/39631
+10380034	DKA	am	2017	\	ii\	hin	\	Vāṇī Prakāśana	8110	14998
+10376480	DKA	am	2018	\	xx\	eng	\	Oxford uniersity press	2010	14814
+10360752	DKA	am	2017	b	ii\	eng	\	Aarti Prakashan	8110	14532
+10360688	DKA	am	2017	b	ii\	eng	\	Pentagon Press	8110	14546
+10360690	DKA	am	2017	\	ii\	eng	\	Biotech Books	8110	14530
+10360691	DKA	am	2017	\	ii\	eng	\	Indian Institute of Advanced Study	8110	14526
+10360695	DKA	am	2017	b	ii\	eng	\	Aryan Books International in association with Indian Institute of Technology, Gandhinagar	8110	14523
+10360696	DKA	am	2017	b	ii\	eng	\	Authorspress	8110	14518
+10355941	DKA	am	2015	b	ii\	eng	\	Rupa	7110	14174
+10352386	DKA	am	2005	\	ii\	eng	\	Rupa & Co.	2010	13871
+10376451	DKA	am	2018	b	ii\	eng	\	Oxford University Press	2010	14816
+10376459	DKA	am	2018	b	ii\	eng	\	Oxford University Press	2010	14815
+10359741	DKA	am	2017	b	ii\	eng	\	Oxford University Press	8110	14374
+10354461	DKA	am	2016	b	ii\	eng	\	SANDHI, The Science & Heritage Initiative, Indian Institute of Technology Kharagpur	6711	14080
+10298570	DKA	am	2017	\	ii\	eng	\	Indian Institute of Advanced Study	p8155	12700
+10247857	DKA	am	2015	\	ii\	eng	\	Aleph Book Company	2010	11920
+10323294	DKA	am	2017	b	ii\	eng	\	Research India Press	8110	13292
+10246911	DKA	am	1997	\	ii\	eng	\	Sterling Newpapers ;$aChennai :$bDistributors, EastWest Books (Madras)	2010	11919
+10244216	DKA	am	1991	\	ii\	san	\	Rāṣṭriyasaṃskr̥tasaṃsthānam	2010	11810
+10226267	DKA	am	2016	\	ce\	sin	\	Grāphikeyā	2010	11405
+10226266	DKA	am	2016	\	ii\	eng	\	Speaking Tiger	2010	11401
+10226271	DKA	am	2016	\	ii\	eng	\	Speaking Tiger	2010	11400
+10226273	DKA	am	2017	b	ii\	eng	\	Speaking Tiger	2010	11398
+10226275	DKA	am	2016	\	ii\	eng	\	Speaking Tiger	2010	11397
+10226277	DKA	am	2016	b	ii\	eng	\	Speaking Tiger	2010	11396
+10226279	DKA	am	2016	b	ii\	eng	\	Speaking Tiger	2010	11395
+10226262	DKA	am	2016	\	ii\	eng	\	Speaking Tiger	2010	11404
+10213592	DKA	am	2017	q	ii\	eng	\	HarperCollins Publishers India	2010	11204
+10406751	CUL/PC	gm	2002	\	nju	eng	\	Films for the Humanities	NA	NA
+10406565	CUL/PC	am	1993	\	quc	eng	\	Signal Editions	p3150	15410
+10404592	CUL/PC	am	2018	\	ii\	eng	\	Oxford University Press	p2053	15373
+10352764	CUL/PC	am	2012	b	flu	eng	\	CRC Press	p7291	13936
+10387994	CUL/PC	gm	2017	\	xxu	eng	\	NA	p7367	15309
+10386161	CUL/PC	am	1990	b	fr\	fre	\	Sindbad	p2156	15276
+10385134	CUL/PC	am	2009	b	dcu	eng	\	North American Association for Environmental Education	1010	15221
+10385144	CUL/PC	am	2018	\	xx\	eng	\	GERLACH PRESS	p2156	15167
+10385127	CUL/PC	am	2009	b	gw\	ger	\	Mohr Siebeck	p2553	15224
+10385123	CUL/PC	am	2018	b	pau	eng	\	Eisenbrauns	p2257	15227
+10385173	CUL/PC	am	2018	\	sz\	eng	\	NA	p6756	15168
+10383294	CUL/PC	gm	2018	\	nyu	ara	\	Film Sprout	p2156	15082
+10382915	CUL/PC	am	2015	b	enk	eng	\	Anarres Editions	591	15080
+8856739	CUL/PC	am	2006	\	ne\	dut	\	KIT Publishers	8140	$zPOOF;poof.library.cornell.edu/node/32120
+10380025	CUL/PC	am	2017	b	gw\	eng	\	Hempen Verlag	592	14985
+8595043	CUL/PC	am	2013	b	gw\	eng	\	Universitätsverlag	8110	15032
+10377646	CUL/PC	am	2012	b	nyu	eng	\	Edwin Mellen Press	p2952	14911
+10377649	CUL/PC	am	2002	b	nyu	eng	\	Edwin Mellen Press	p2952	14910
+10376982	CUL/PC	am	2012	\	gw\	geo	\	NA	p2553	14866
+10377636	CUL/PC	am	2015	b	sz\	fre	\	Librairie Droz S.A.	p2655	14915
+10377642	CUL/PC	am	2016	b	onc	eng	\	Open Studio	p6794	14880
+10376309	CUL/PC	am	2017	6	my\	chi	\	Hong qing ting chu ban you xian gong si	8110	14790
+10376314	CUL/PC	am	2017	\	si\	chi	\	Xu Yongshun gong zuo ting	8110	14788
+10363875	CUL/PC	am	2018	\	wiu	eng	\	Rethinking Schools	p2160	14805
+10363576	CUL/PC	gm	2006	\	ilu	eng	\	International Historic Films	6343	14744
+10363618	CUL/PC	gm	2008	\	xxu	eng	\	Screen Edge ;$aOaks, PA :$bDistributed by MVD Visual	6343	14742
+10363678	CUL/PC	gm	2018	\	nyu	eng	\	The Orchard	6343	14736
+10363671	CUL/PC	gm	2006	\	ilu	eng	\	International Historic Films	6343	14741
+10363111	CUL/PC	gm	2015	\	vau	eng	\	PBS Distribution	6343	14695
+10363112	CUL/PC	gm	2015	\	enk	eng	\	Distributed by PBS Distribution,$c[2015];\1$a[London] :$bWall to Wall Media Limited	6343	14693
+10363023	CUL/PC	gm	2014	\	vau	eng	\	PBS,$c[2014];\2$a[Arlington, VA] :$bPBS Distribution	6343	14698
+10360954	CUL/PC	gm	2016	\	ag\	spa	\	Cine Argentino	2310	14486
+10360949	CUL/PC	am	2017	b	fr\	fre	\	[Société linnéenne de Lyon?]	p1183	14509
+10360126	CUL/PC	am	2017	b	it\	ita	\	Giuffrè	2620	14474
+10359092	CUL/PC	am	1991	b	onc	eng	\	Lugus	p2255	14291
+9836748	CUL/PC	am	2013	\	enk	eng	\	Artifice	p6752	3883
+10356971	CUL/PC	am	2018	\	enk	eng	\	Evro Publishing	p4355	14202
+10356969	CUL/PC	am	2015	b	nz\	eng	\	Potton & Burton	7540	14215
+10357337	CUL/PC	am	2017	f	nyu	eng	\	Union Communication Services, The Worker Institute at Cornell ILR	NA	NA
+10355865	CUL/PC	gm	2014	\	pau	eng	\	Bullfrog Films	p1359	14099
+10354462	CUL/PC	am	2018	\	ilu	eng	\	ALA Editions	p3250	14067
+10353421	CUL/PC	am	2016	b	it\	ita	\	Società editrice il Mulino	2616	14003
+10355259	CUL/PC	gm	2009	\	mdu	eng	\	Athena :$bDistributed exclusively by Acorn Media U.S.	p4050	14092
+10352903	CUL/PC	cm	2008	\	gw\	zxx	\	Schott	7110	13905
+10352396	CUL/PC	am	2017	\	fr\	fre	\	Dargaud-Le Lombard	p2662-olin	NA
+10352387	CUL/PC	am	2016	6	fr\	fre	\	Casterman	p2662	13898
+10349707	CUL/PC	am	2016	6	fr\	fre	\	Gallimard bande desinée	p2662	13884
+10349709	CUL/PC	am	1975	b	dk\	eng	\	Dangaroo Press	549	13867
+10349701	CUL/PC	am	2015	6	fr\	fre	\	Gallimard	p2662	13897
+10250316	CUL/PC	am	1994	b	mtu	eng	\	Bozeman Fork Pub.	p2959	12154
+10333880	CUL/PC	am	2012	\	gw\	eng	\	AV Akademikerverlag	8140	13723
+10335552	CUL/PC	am	1991	b	sp\	lat	\	Fundación Sánchez-Albornoz	2712	13801
+10335437	CUL/PC	am	\\\\	\	\\\	\\\	\	NA	NA	NA
+8548175	CUL/PC	gm	2008	\	nyu	wol	\	New Yorker Video	p7358-uris	NA
+10334817	CUL/PC	am	2018	|	onc	eng	\	NA	p6753	13758
+10334841	CUL/PC	am	2016	c	sz\	eng	\	Nieves	p6753	13757
+10334819	CUL/PC	am	2017	c	nyu	eng	\	Mitchell-Innes & Nash	p6753	13756
+10334820	CUL/PC	am	2016	\	li\	eng	\	Noroutinebooks	p6753	13755
+8548175	CUL/PC	gm	2008	\	nyu	wol	\	New Yorker Video	p7358-uris	NA
+10334821	CUL/PC	am	1969	\	nyu	und	\	Siegelaub, Seth	p6753	13754
+8911948	CUL/PC	am	2009	b	sp\	spa	\	FCE	7110	13687
+10329521	CUL/PC	am	2018	\	gw\	ger	\	NA	p2551	13602
+10329514	CUL/PC	am	2018	b	fr\	fre	\	Presses universitaires de Rennes	p2255	13606
+10327864	CUL/PC	am	2017	b	sp\	spa	\	Fundación SGAE	4820	13418
+10327102	CUL/PC	as	2015	\	onc	eng	\	Peeps Publishing	p4050	13369
+9864857	CUL/PC	am	2013	m	sw\	eng	\	Department of Sociology	p8153	4907
+10325854	CUL/PC	am	2017	b	br\	eng	\	Ling's Family Publication	p8155	13326
+10325852	CUL/PC	am	2017	\	th\	eng	\	Institute of Asian Studies, Chulalongkorn University	8110	13325
+9917465	CUL/PC	am	2015	b	nyu	eng	\	Linus Learning	p1557	6469
+9917465	CUL/PC	am	2015	b	nyu	eng	\	Linus Learning	p1557	6469
+9917465	CUL/PC	am	2015	b	nyu	eng	\	Linus Learning	p1557	6469
+9917465	CUL/PC	am	2015	b	nyu	eng	\	Linus Learning	p1557	6469
+9917465	CUL/PC	am	2015	b	nyu	eng	\	Linus Learning	p1557	6469
+9907089	CUL/PC	am	2006	b	gw\	ger	\	Abera	8140	6268
+10313976	CUL/PC	am	2018	b	ilu	eng	\	ALA Editions	p3250	12805
+9836758	CUL/PC	am	2016	\	xx\	eng	\	Artifice Inc	p6752	3880
+10054521	CUL/PC	am	2017	b	enk	eng	\	Neil Harvey	8110	8739
+10321484	CUL/PC	am	2017	f	enk	eng	\	AND Studio	p6794	13173
+10319919	CUL/PC	am	2017	\	cau	eng	\	TBW Books	p6794	13079
+10320518	CUL/PC	gm	2006	\	wau	eng	\	Stourwater Pictures	8612	12954
+10320517	CUL/PC	gm	2008	\	wau	eng	\	Stourwater Pictures	8612	12952
+10320516	CUL/PC	gm	2009	\	nyu	eng	\	Islandwood ;$a[Washington, D.C.] :$b[National Geographic Education Foundation]	8612	12950
+9846192	CUL/PC	am	2014	c	enk	eng	\	The Vinyl Factory	p6752	4364
+10319918	CUL/PC	am	2009	b	nyu	eng	\	Visual Studies Workshop Press	p6794	13069
+10319917	CUL/PC	am	2017	\	iau	eng	\	Engine and Well	p6794	13081
+10319920	CUL/PC	am	2015	\	nyu	eng	\	Printed and hand sewn in Brooklyn, N.Y., Kayrock Screenprinting	p6794	13076
+10319921	CUL/PC	am	2015	\	nju	eng	\	Conveyor Editions	p6794	13073
+10319922	CUL/PC	am	2015	\	bcc	eng	\	New Documents	p6794	13072
+10320466	CUL/PC	am	2017	\	pau	eng	\	Paradigm Publishing	p6794	13082
+10320468	CUL/PC	am	2017	\	cc\	eng	\	Dreamer FTY	p6794	13071
+10319907	CUL/PC	am	2007	\	nyu	eng	\	Women's Studio Workshop	p6794	13087
+10319912	CUL/PC	am	1990	\	nyu	eng	\	Women's Studio Workshop	p6794	13086
+10319914	CUL/PC	am	2007	\	nyu	eng	\	Women's Studio Workshop	p6794	13085
+10319916	CUL/PC	am	2009	\	nyu	eng	\	[Women's Studio Workshop?]	p6794	13084
+9651511	CUL/PC	am	2016	\	nyu	eng	\	Crown	p6550	$zPOOF2;http://poof2.library.cornell.edu/orders/514
+10316477	CUL/PC	am	2014	b	gw\	ger	\	Aufbau	p2553	12982
+9651511	CUL/PC	am	2016	\	nyu	eng	\	Crown	p6550	$zPOOF2;http://poof2.library.cornell.edu/orders/514
+9651511	CUL/PC	am	2016	\	nyu	eng	\	Crown	p6550	$zPOOF2;http://poof2.library.cornell.edu/orders/514
+10314747	CUL/PC	gm	2007	\	mau	eng	\	Zipporah Films	NA	NA
+10314168	CUL/PC	gm	2016	\	txu	eng	\	[Tugg Inc.]	6714-fine	NA
+10314781	CUL/PC	am	1960	\	mg\	fre	\	Impr. catholique	8110	12835
+10300188	CUL/PC	am	1979	\	azu	eng	\	Ironwood Press ;$aKensington, Calif. :$b[Distributed by] SBD	p3163	12789
+9421334	CUL/PC	am	2016	\	it\	ita	\	Nuova Stampa	p2251	$zPOOF;poof.library.cornell.edu/node/45810
+10297925	CUL/PC	am	2015	b	gw\	ger	\	Vandenhoeck & Ruprecht	p8155	12572
+10298548	CUL/PC	am	2015	b	sz\	ger	\	Schwabe Verlag	p2155	12674
+10301773	CUL/PC	am	2008	b	inu	eng	\	Purdue University Press	2310	12798
+10297913	CUL/PC	am	2016	b	gw\	eng	\	Edition Ruprecht	p8155	12570
+10296868	CUL/PC	am	1997	b	enk	eng	\	Scolar Press ;$aBrookfield, Vt., USA :$bAshgate Pub. Co	p2980	12524
+10296800	CUL/PC	gm	2014	\	cu\	spa	\	Ministerio de Cultura :$bICAIC	p7358	12492
+10295934	CUL/PC	am	2016	\	azu	eng	\	WorldatWork	1340	12469
+10295934	CUL/PC	am	2016	\	azu	eng	\	WorldatWork	1340	12469
+10294462	CUL/PC	gm	2015	\	nyu	eng	\	Friends of Ganondagan	p7358	12437
+10294075	CUL/PC	am	1968	\	ae\	fre	\	NA	p2155	12416
+10207287	CUL/PC	am	2018	b	enk	eng	\	Oxford University Press	1340	10979
+10293092	CUL/PC	gm	2017	\	quc	eng	\	Ciné Fête	p8352	12411
+9792654	CUL/PC	am	2013	\	sz\	ger	\	Universal Frame	p8145	3161
+10262584	CUL/PC	gm	2016	\	xx\	eng	\	Fango Produktion	p7358	12367
+10262172	CUL/PC	am	2016	\	ti\	fre	\	Elyzad	p2155	12258
+10261942	CUL/PC	am	2017	b	fr\	fre	\	Assimil	p8350	12289
+10258851	CUL/PC	am	2016	b	be\	ita	\	Brepols	p2755	12203
+10250273	CUL/PC	gm	2017	\	wau	eng	\	Stourwater Pictures	8612	12112
+10250208	CUL/PC	am	2013	\	mc\	fre	\	Musée des Timbres et des Monnaies de Monaco	p2992	12125
+10248465	CUL/PC	am	1885	\	stk	eng	\	Johnston	p6794	12020
+9871022	CUL/PC	am	2016	b	po\	por	\	Scribe	2616	5307
+10246325	CUL/PC	am	2017	\	gw\	mul	\	Björn Wergen :$bSchwarzwälder Pilzlehrschau	1010	11879
+10098777	CUL/PC	am	2016	\	sz\	eng	\	Quart	6710	11871
+10245061	CUL/PC	am	2002	\	gw\	ger	u	Beck	p2155	11814
+10245811	CUL/PC	am	2009	b	pl\	pol	\	Wydawn. Uniwersytetu Rzeszowskiego	p8350	11841
+10101458	CUL/PC	am	2017	\	mnu	eng	\	Minnesota State University, Mankato Foundation	p8153	9808
+10240505	CUL/PC	gm	2017	\	cau	eng	\	Ginzberg Productions	1355	11700
+10243577	CUL/PC	am	2018	\	flu	eng	\	American Association of Avian Pathologists,$c[2018];\3$aMadison	1510-vet	11776;Cornell;\\$
+10240205	CUL/PC	gm	2016	\	txu	eng	\	Tugg Edu	1355	11699
+10239989	CUL/PC	am	2017	\	hiu	eng	\	Honolulu Biennial Foundation	p6753	11680
+10243577	CUL/PC	am	2018	\	flu	eng	\	American Association of Avian Pathologists,$c[2018];\3$aMadison	1510-vet	11776;Cornell;\\$
+10243577	CUL/PC	am	2018	\	flu	eng	\	American Association of Avian Pathologists,$c[2018];\3$aMadison	1510-vet	11776;Cornell;\\$
+10232068	CUL/PC	gm	2010	\	cau	eng	\	Shout! Factory [Distributor]	p3193	11517
+10232700	CUL/PC	am	2017	\	si\	eng	\	Ethos Books	8144	11564
+10232699	CUL/PC	am	2016	\	enk	eng	\	SPBH Editions	p6794	11566
+10232680	CUL/PC	am	2017	b	gw\	eng	\	Academia Verlag	2810	11594
+9754373	CUL/PC	am	2016	b	inu	eng	\	Eisenbrauns	p2256	1938
+10215128	CUL/PC	am	2017	\	fr\	fre	\	JC Lattès	p2153	11306
+10214375	CUL/PC	gm	2014	\	txu	eng	\	Issue TV ;$a[United States] :$bDistributed by Vision Maker Media	p7358	11226
+10213593	CUL/PC	am	2018	b	si\	eng	\	Ethos Books	p8152	11208
+10213556	CUL/PC	gm	2017	\	sz\	ara	\	trigon-film	p8352	10435
+10213279	CUL/PC	am	2007	b	enk	eng	\	Riba Publishing	p6752	11159
+10213597	CUL/PC	am	2015	\	wyu	eng	\	Crazy Woman Creek Press	p2290	11207
+10213595	CUL/PC	am	2000	b	wyu	eng	\	Crazy Woman Creek Press	p2290	11209
+10172248	CUL/PC	am	2017	b	be\	eng	\	Primedia sprl	8110	10767
+10213276	CUL/PC	am	2017	b	gw\	eng	\	Kassel University Press	p6752	11160
+9864246	CUL/PC	am	2013	b	gw\	ger	\	Scientia Bonnensis	p8145	4794
+10333881	FRONT	cm	2018	\	it\	ita	\	Ricordi	7110	13708
+10316031	FRONT	cm	2017	\	wiu	zxx	\	Hal Leonard	7110	12963
+263884	CUL/PC	am	1978	b	ne\	eng	\	Brill	8144	10942
+263884	CUL/PC	am	1978	b	ne\	eng	\	Brill	8144	10942
+10407846	HARRASS/E	am	2015	b	no\	nor	\	Hertervig Akademisk	p8350	15443
+10393488	HARRASS/E	am	2015	b	gw\	eng	\	LAP LAMBERT Academic Publishing	1010	15330
+10387625	HARRASS/E	am	2016	b	au\	fre	\	Innsbrucker Beiträge zur Sprachwissenschaft	p3350	15286
+10387993	HARRASS/E	am	2018	b	gw\	eng	\	Gerlach Press	p7367	15312
+10387626	HARRASS/E	am	2016	b	fi\	fin	\	Suomalais-Ugrilainen Seura	p3350	15285
+10387628	HARRASS/E	am	2017	b	gw\	ger	\	Baar	p3350	15283
+10387630	HARRASS/E	am	2017	b	au\	eng	\	Institut für Sprachen und Literatur der Universität Innsbruck, Bereich Sprachwissenschaft	p3350	15280
+10385156	HARRASS/E	am	2012	b	gw\	ger	\	Av Akademikerverlag	8110	15238
+10385158	HARRASS/E	am	2017	b	gw\	ger	\	AV Akademikerverlag	8110	15237
+10385161	HARRASS/E	am	2014	b	gw\	ger	\	AV Akademikerverlag	8110	15236
+10385163	HARRASS/E	am	2014	b	gw\	ger	\	AV Akademikerverlag	8110	15235
+10385164	HARRASS/E	am	2014	b	gw\	ger	\	AV Akademikerverlag	8110	15234
+10385166	HARRASS/E	am	2014	b	gw\	ger	\	AV Akademikerverlag	8110	15233
+10385168	HARRASS/E	am	2017	m	gw\	ger	\	Kassel University Press	8110	15173
+10385170	HARRASS/E	am	2017	\	sz\	fre	\	Éditions Slatkine	8110	15171
+10385171	HARRASS/E	am	2017	b	gw\	ger	\	Zambon	8110	15170
+10382931	HARRASS/E	am	2010	b	gw\	fre	\	Frank & Timme	p3350	15109
+10382919	HARRASS/E	am	2017	\	gw\	eng	\	August von Goethe Literaturverlag	8110	15123
+10382922	HARRASS/E	am	2014	b	gw\	fre	\	Frank & Timme, Verlag für wissenschaftliche Literatur	p3350	15111
+10382927	HARRASS/E	am	2012	b	gw\	fre	\	Frank & Timme, Verlag für wissenschaftliche Literatur	p3350	15110
+10382933	HARRASS/E	am	2009	b	gw\	fre	\	Frank & Timme	p3350	15108
+10382935	HARRASS/E	am	2018	b	gw\	ger	\	Frank & Timme, Verlag für wissenschaftliche Literatur	p3350	15107
+10382937	HARRASS/E	am	2017	b	gw\	ger	\	Frank & Timme	p3350	15106
+10382940	HARRASS/E	am	2018	b	gw\	ger	\	Frank & Timme, Verlag für wissenschaftliche Literatur	p3350	15097
+10382942	HARRASS/E	am	2018	b	gw\	ger	\	Frank & Timme, Verlag für Wissenschaftliche Literatur	p3350	15096
+10382944	HARRASS/E	am	2017	b	gw\	ger	\	Frank & Timme	p3350	15095
+10382946	HARRASS/E	am	2018	b	gw\	ger	\	Frank & Timme, Verlag für Wissenschaftliche Literatur	p3350	15093
+10382115	HARRASS/E	am	2018	\	gw\	ger	\	Laudatio	8110	15051
+10382110	HARRASS/E	am	2018	b	gw\	ger	\	Klöpfer & Meyer	8110	15073
+10382111	HARRASS/E	am	2017	\	sz\	fre	\	Ed. d'en bas	8110	15060
+10382112	HARRASS/E	am	2015	b	gw\	eng	\	LAP Lambert Academic Publishing	8110	15052
+10378007	HARRASS/E	am	2017	\	gw\	ger	\	traveldiary Verlag	8110	14949
+10378008	HARRASS/E	am	2017	b	gw\	eng	\	Walter de Gruyter GmbH	8110	14925
+10377637	HARRASS/E	am	2017	\	gw\	ger	\	Mitteldeutscher Verlag	8110	14893
+10376454	HARRASS/E	am	2017	c	gw\	eng	\	Spector Books	8110	14843
+10376456	HARRASS/E	am	2017	b	gw\	eng	\	Edizioni Aacademiche italiane	8110	14842
+10363455	HARRASS/E	am	2017	\	gw\	ger	\	Books on Demand	8110	14786
+10360676	HARRASS/E	am	2017	b	gw\	ger	\	Rheinisches Landesmuseum Trier	6711	14531
+10360747	HARRASS/E	am	2017	b	mf\	eng	\	LAP LAMBERT Academic Publishing	8110	14537
+10362931	HARRASS/E	am	2017	\	gw\	ger	\	Books on Demand	8110	14699
+10358684	HARRASS/E	am	2013	\	gw\	ger	\	Grin Verlag	8110	14301
+10358683	HARRASS/E	am	2010	\	gw\	ger	\	NA	8110	14316
+10358686	HARRASS/E	am	2012	b	gw\	ger	\	AV Akademikerverlag	8110	14315
+10358688	HARRASS/E	am	2018	m	gw\	ger	\	Lit	8110	14313
+10358691	HARRASS/E	am	2011	m	gw\	ger	\	[Epubli]$c2011	8110	14309
+10358693	HARRASS/E	am	2016	b	gw\	ger	\	Lit	8110	14307
+10358695	HARRASS/E	am	2013	b	gw\	ger	\	Diplomica Verlag Gmbh	8110	14300
+10358696	HARRASS/E	am	2015	\	gw\	ger	\	SEVERUS Verlag	8110	14298
+10358699	HARRASS/E	am	2016	d	gw\	eng	\	Regiospectra	8110	14294
+10358702	HARRASS/E	am	2017	m	gw\	ger	\	Regiospectra	8140	14290
+10358703	HARRASS/E	am	2017	b	gw\	ger	\	Regiospectra	8140	14289
+10356981	HARRASS/E	am	2018	b	gw\	eng	\	Galda Verlag	p8154	14239
+10353950	HARRASS/E	am	2017	b	gw\	ger	\	V&R Unipress	7110	14051
+10353956	HARRASS/E	am	2017	\	au\	ger	\	Böhlau Verlag	7110	14049
+10353040	HARRASS/E	am	2015	b	gw\	eng	\	Verlag Dr. Kovac	591	13963
+10353041	HARRASS/E	am	2016	b	gw\	eng	\	Logos Verlag Berlin	591	13957
+10329510	HARRASS/E	am	2015	b	gw\	ger	\	Rombach Verlag	7110	13611
+10327882	HARRASS/E	am	2018	b	gw\	eng	\	Gerlach Press	p8352	13396
+10324377	HARRASS/E	am	2017	b	sz\	fre	\	Infolio	p2755	13355
+10323296	HARRASS/E	am	2017	b	au\	ger	\	Hollitzer	7110	13337
+10323299	HARRASS/E	am	2017	\	gw\	ger	\	Georg Olms Verlag	7110	13335
+10323302	HARRASS/E	am	2017	\	gw\	ger	\	Schott	7110	13334
+10323304	HARRASS/E	am	2017	b	gw\	ger	\	Königshausen & Neumann	7110	13333
+10323306	HARRASS/E	am	2017	\	gw\	eng	\	Tredition	8110	13322
+10323308	HARRASS/E	am	2017	b	gw\	ger	\	Hanns-Seidel-Stiftung e.V.	8110	13313
+10323310	HARRASS/E	am	2017	b	gw\	ger	\	Regiospectra	p8155	13308
+10323311	HARRASS/E	am	2017	\	gw\	eng	\	Steidl	p8155	13289
+10323314	HARRASS/E	am	2017	\	gw\	eng	\	Books on Demand	p8155	13266
+10319207	HARRASS/E	am	2017	d	gw\	ger	\	Bärenreiter :$aStuttgart :$bMetzler	p7152	13061
+10319209	HARRASS/E	am	2017	\	gw\	eng	\	Carus Verlag	7110	13060
+10319210	HARRASS/E	am	2017	m	gw\	ger	\	PL Academic Research, an imprint of Peter Lang GmbH	p7152	13059
+10319212	HARRASS/E	am	2017	b	gw\	ger	\	Georg Olms Verlag	p7152	13058
+10319213	HARRASS/E	am	2017	\	gw\	ger	\	Von Bockel Verlag	7110	13056
+10319217	HARRASS/E	am	2017	\	gw\	ger	\	Et+k, Edition Text + Kritik, im Richard Boorberg Verlag	p7150	13055
+10316476	HARRASS/E	am	2009	b	gw\	ger	\	Éd. S. Limon	p8352	12971
+10299069	HARRASS/E	am	2017	b	gw\	eng	\	Galda Verlag	p8154	12740
+10299072	HARRASS/E	am	2017	b	au\	ger	\	Mymorawa	8110	12739
+10299074	HARRASS/E	am	2017	b	gw\	eng	\	Galda Verlag	8110	12737
+10299077	HARRASS/E	am	2017	b	gw\	eng	\	Deutsches Institut für Entwicklungspolitik	p8154	12735
+10299078	HARRASS/E	am	2017	b	gw\	eng	\	Galda Verlag	p8154	12733
+10298038	HARRASS/E	am	2017	\	cb\	eng	\	APSA e.V. Publishing House	p8155	12616
+10297920	HARRASS/E	am	2017	m	gw\	ger	\	PL Academic Research	p8155	12573
+10297925	HARRASS/E	am	2015	b	gw\	ger	\	Vandenhoeck & Ruprecht	p8155	12572
+8865854	HARRASS/E	am	2009	c	gw\	ger	\	Hatje Cantz	6711	$zPOOF;poof.library.cornell.edu/node/32637
+10292398	HARRASS/E	am	2017	b	au\	ger	\	New Academic Press	7110	12407
+10294992	HARRASS/E	am	2017	\	gw\	ger	\	Transcript	7110	12451
+10294993	HARRASS/E	am	2017	b	gw\	ger	\	PL Academic Research	7110	12449
+10292401	HARRASS/E	am	2017	b	gw\	ger	\	Böhlau Verlag	7110	12406
+10292402	HARRASS/E	am	2017	b	gw\	ger	\	Rombach Verlag	7110	12405
+10292405	HARRASS/E	am	2017	b	gw\	ger	\	S. Fischer	7110	12404
+10292407	HARRASS/E	am	2017	\	gw\	ger	\	Baerenreiter	p7153	12402
+10292408	HARRASS/E	am	2017	\	gw\	ger	\	TWENTYSIX, Der Self-Publishing-Verlag	8110	12399
+10249928	HARRASS/E	am	2017	b	au\	ger	\	Hollitzer	7110	12147
+10249930	HARRASS/E	am	2017	\	gw\	ger	\	Georg Olms Verlag	7110	12145
+10249931	HARRASS/E	am	2016	b	gw\	ger	\	Ortus Musikverlag	7110	12144
+10249932	HARRASS/E	am	2017	\	gw\	ger	\	Tectum Verlag	7110	12143
+10249933	HARRASS/E	am	2017	m	gw\	ger	\	J.B. Metzler	7110	12142
+10248468	HARRASS/E	am	2015	\	gw\	eng	\	Scholar's Press	8610	12051
+10248472	HARRASS/E	am	2015	b	gw\	eng	\	Scholar's Press	8610	12050
+10248475	HARRASS/E	am	2016	b	gw\	eng	\	Scholars' Press	8610	12049
+10248477	HARRASS/E	am	2015	b	gw\	eng	\	Scholars' Press	p8155	12033
+10247903	HARRASS/E	am	2017	6	gw\	ger	\	Avant-Verlag	2512	11980
+10245818	HARRASS/E	am	2017	b	gw\	ger	\	Nomos	p2553	11840
+10240546	HARRASS/E	am	2017	m	xx\	ger	u	NA	p2853	11612
+10242861	HARRASS/E	am	2018	b	gw\	ger	\	Verlag Karl-Heinz Rüttimann	p8352	11773
+10234294	HARRASS/E	am	2017	b	gw\	ger	\	Edition Lumière	p2755	11619
+10234291	HARRASS/E	am	2018	b	gw\	eng	\	Gerlach Press	p2155	11616
+10232679	HARRASS/E	am	2017	b	gw\	ger	\	Aschendorff Verlag	p2853	11614
+10232681	HARRASS/E	am	2017	b	gw\	ger	\	Aschendorff Verlag	p2853	11608
+10232683	HARRASS/E	am	2018	m	gw\	ger	\	Aschendorff Verlag	p2853	11605
+10232686	HARRASS/E	am	2017	b	gw\	lat	\	In aedibus Aschendorff	p2853	11604
+10232687	HARRASS/E	am	2017	b	gw\	ger	\	Aschendorff Verlag	p2853	11602
+10232065	HARRASS/E	am	1997	b	gw\	ger	\	MusikTexte	7110	11554
+10232069	HARRASS/E	am	2006	b	gw\	ger	\	Pfau	7110	11553
+10232071	HARRASS/E	am	2016	\	gw\	ger	\	MusikTexte	7110	11552
+5184629	HARRASS/E	am	2004	b	gw\	spa	\	Edition Reichenberger	2616	11377
+10208089	HARRASS/E	am	2016	b	gw\	eng	\	LAP LAMBERT Academic Publishing	8110	11035
+10207698	HARRASS/E	am	2017	b	mv\	eng	\	LAP LAMBERT Academic Publishing	8110	10995
+10208081	HARRASS/E	am	2016	b	gw\	eng	\	LAP LAMBERT Academic Publishing	8110	11040
+10207637	HARRASS/E	am	2017	\	gw\	eng	\	Galda Verlag	p8154	10992
+10171549	HARRASS/E	am	2011	m	gw\	eng	\	Verlag Dr. Hut	8110	10669
+10207144	HARRASS/E	am	2017	b	gw\	eng	\	Galda Verlag	p8154	10963
+10207150	HARRASS/E	am	2017	b	gw\	eng	\	Distanz	p8155	10948
+10206663	HARRASS/E	am	2009	b	au\	ger	\	Verlag der Österreichischen Akademie der Wissenschaften	p2755	10880
+10345495	JAPUBTRA	am	2017	b	ja\	jpn	\	Rikka Shuppan	8612	13815
+10360678	JAPUBTRA	am	2017	b	ja\	eng	o	Center for Integrated Area Studies (CIAS), Kyoto University	8110	14536
+8466368	JAPUBTRA	am	2013	\	ja\	jpn	\	Gendai Shiryō Shuppan	8612	$zPOOF;poof.library.cornell.edu/node/23335
+10343545	JAPUBTRA	am	2014	b	ja\	jpn	\	Rikka Shuppan	8612	13816
+10343547	JAPUBTRA	am	2016	b	ja\	jpn	\	Rikka Shuppan	8612	13814
+10343550	JAPUBTRA	am	2016	b	ja\	jpn	\	Rikka Shuppan	8612	13812
+10356384	LINARDI	am	2015	b	uy\	spa	\	Tradinco S.A.,$c2015.;\1$a[Uruguay?] :$b[publisher not identified]	7110	14178
+10329512	KINOKUNIYA	am	2016	\	ja\	jpn	\	NA	8612	13674
+10329513	KINOKUNIYA	am	2016	\	ja\	jpn	\	Ōzorasha	8612	13673
+10329517	KINOKUNIYA	am	2016	\	ja\	jpn	\	Ozorasha	8612	13669
+10329520	KINOKUNIYA	am	2016	\	ja\	jpn	\	Ōzorasha	8612	13668
+10329523	KINOKUNIYA	am	2016	\	ja\	jpn	\	Ōzorasha	8612	13663
+10329524	KINOKUNIYA	am	2016	\	ja\	jpn	\	Ōzorasha	8612	13662
+10329525	KINOKUNIYA	am	2016	\	ja\	jpn	\	Ōzorasha	8612	13660
+10328904	KINOKUNIYA	am	1997	\	ja\	jpn	\	Ōzorasha	8612	13593
+10328906	KINOKUNIYA	am	1996	\	ja\	jpn	\	Ōzorasha	8612	13592
+10328909	KINOKUNIYA	am	1997	\	ja\	jpn	\	Ōzorasha	8612	13591
+10328910	KINOKUNIYA	am	1997	\	ja\	jpn	\	Ōzorasha	8612	13590
+10328934	KINOKUNIYA	am	2017	\	ja\	jpn	\	Kuresu Shuppan	8612	13573
+10328939	KINOKUNIYA	am	2010	\	ja\	jpn	\	Kashiwa Shobō	8612	13551
+10328941	KINOKUNIYA	am	2017	\	ja\	jpn	\	Yumani Shobō	8612	13545
+10328448	KINOKUNIYA	am	2017	c	ja\	jpn	\	Yumani Shobō	8612	13506
+10328449	KINOKUNIYA	am	2016	b	ja\	jpn	\	Yumani Shobō	8612	13498
+10329458	KINOKUNIYA	as	1888	\	ja\	jpn	\	Kashiwa Shobō	8612	13566
+10329460	KINOKUNIYA	as	1913	\	ja\	jpn	\	Yumani Shobō	8612	13547
+10329471	KINOKUNIYA	am	2017	c	ja\	jpn	\	Yumani Shobō	8612	13501
+10329472	KINOKUNIYA	am	2017	c	ja\	jpn	\	Yumani Shobō	8612	13503
+10327866	KINOKUNIYA	am	2005	b	ja\	jpn	\	Yoshikawa Kōbunkan	8612	13412
+10327873	KINOKUNIYA	am	2001	\	ja\	jpn	\	Yoshikawa Kōbunkan	8612	13411
+10327876	KINOKUNIYA	am	2011	b	ja\	jpn	\	Kabushiki Kaisha Yoshikawa Kōbunkan	8612	13410
+10327878	KINOKUNIYA	am	2016	b	ja\	jpn	\	Yoshikawa Kōbunkan	8612	13409
+10327880	KINOKUNIYA	am	2010	b	ja\	jpn	\	Yoshikawa Kōbunkan	8612	13408
+10327883	KINOKUNIYA	am	2014	\	ja\	jpn	\	Yoshikawa Kōbunkan	8612	13406
+10327886	KINOKUNIYA	am	2012	\	ja\	jpn	\	Yoshikawa Kōbunkan	8612	13405
+10328017	KINOKUNIYA	am	1999	b	ja\	jpn	\	Yoshikawa Kōbunkan	8612	13407
+10315476	KINOKUNIYA	am	2017	b	ja\	jpn	\	Bensei Shuppan	8612	12848
+10315478	KINOKUNIYA	am	2017	b	ja\	jpn	\	Bensei Shuppan	8612	12847
+10315482	KINOKUNIYA	am	2017	b	ja\	jpn	\	Bensei Shuppan	8612	12846
+10315486	KINOKUNIYA	am	2017	\	ja\	jpn	\	NA	8612	12845
+10315489	KINOKUNIYA	am	2015	\	ja\	jpn	\	Bensei Shuppan	8612	12844
+10315493	KINOKUNIYA	am	2017	b	ja\	jpn	\	Bensei Shuppan	8612	12843
+10315497	KINOKUNIYA	am	2018	\	ja\	jpn	\	Perikansha	8612	12842
+10315502	KINOKUNIYA	am	2017	b	ja\	jpn	\	Perikansha	8612	12840
+10315471	KINOKUNIYA	am	2017	b	ja\	jpn	\	Kabushiki Kaisha Yagi Shoten Kosho Shuppanbu	8612	12884
+10315904	KINOKUNIYA	am	2017	b	ja\	jpn	\	Perikansha	8612	12891
+10315475	KINOKUNIYA	am	2017	b	ja\	jpn	\	Kabushiki Kaisha Furaingu Bokkusu	8612	12883
+10315480	KINOKUNIYA	am	2017	b	ja\	jpn	\	Hōzōkan	8612	12882
+10315485	KINOKUNIYA	am	2017	c	ja\	jpn	\	Kabushiki Kaisha Bunsei Shoin	8612	12881
+10315492	KINOKUNIYA	am	2017	b	ja\	jpn	\	Keibunsha	8612	12880
+10315496	KINOKUNIYA	am	2017	b	ja\	jpn	\	Tōkyō Daigaku Shuppankai	8612	12878
+10315501	KINOKUNIYA	am	2017	b	ja\	jpn	\	Sairyūsha	8612	12877
+10315505	KINOKUNIYA	am	2017	b	ja\	jpn	\	Perikansha	8612	12876
+10315508	KINOKUNIYA	am	2017	b	ja\	jpn	\	Miyaobi Shuppansha	8612	12875
+10315511	KINOKUNIYA	am	2017	b	ja\	jpn	\	Shinwasha	8612	12874
+10315514	KINOKUNIYA	am	2017	\	ja\	jpn	\	Sairyūsha	8612	12873
+10315517	KINOKUNIYA	am	2017	b	ja\	jpn	\	Kyūko Shoin	8612	12872
+10315520	KINOKUNIYA	am	2018	\	ja\	jpn	\	Yoshikawakōbunkan	8612	12871
+10315522	KINOKUNIYA	tm	2017	b	ja\	jpn	\	Yoshikawa Kōbunkan	8612	12870
+10315524	KINOKUNIYA	am	2017	b	ja\	jpn	\	Yoshikawa Kōbunkan	8612	12869
+10315525	KINOKUNIYA	am	2017	b	ja\	jpn	\	Yoshikawa Kōbunkan	8612	12868
+10315526	KINOKUNIYA	am	2017	b	ja\	jpn	\	Yoshikawa Kōbunkan	8612	12867
+10315527	KINOKUNIYA	am	2017	b	ja\	jpn	\	Yoshikawa Kōbunkan	8612	12866
+10315528	KINOKUNIYA	am	2017	b	ja\	jpn	\	Keisō Shobō	8612	12865
+10315529	KINOKUNIYA	am	2017	b	ja\	jpn	\	Tōkyō Daigaku Shuppankai	8612	12863
+10315530	KINOKUNIYA	am	2017	b	ja\	jpn	\	Hanawa Shobō	8612	12862
+10315531	KINOKUNIYA	am	2017	b	ja\	jpn	\	Kōyō Shobō	8612	12861
+10315532	KINOKUNIYA	am	2017	b	ja\	jpn	\	Tōkyō Daigaku Shuppankai	8612	12860
+10315460	KINOKUNIYA	am	2017	b	ja\	jpn	\	Tōkyō Daigaku Shuppankai	8612	12930
+10315463	KINOKUNIYA	am	2012	b	ja\	jpn	\	Seikyūsha	8612	12928
+10315468	KINOKUNIYA	am	2017	b	ja\	jpn	\	Kasama Shoin	8612	12926
+10315473	KINOKUNIYA	am	2017	b	ja\	jpn	\	Kasama Shoin	8612	12925
+10315477	KINOKUNIYA	am	2018	b	ja\	jpn	\	Kasama Shoin	8612	12924
+10315481	KINOKUNIYA	am	2018	b	ja\	jpn	\	Kasama Shoin	8612	12923
+10315484	KINOKUNIYA	am	2018	b	ja\	jpn	\	Kasama Shoin	8612	12922
+10315487	KINOKUNIYA	am	2017	b	ja\	jpn	\	Kasama Shoin	8612	12921
+10315490	KINOKUNIYA	am	2015	b	ja\	jpn	\	Miyai Shoten	8612	12920
+10315494	KINOKUNIYA	am	2017	b	ja\	jpn	\	Kasama Shoin	8612	12919
+10315500	KINOKUNIYA	am	2005	b	ja\	jpn	\	Kawade Shobō Shinsha	8612	12918
+10315504	KINOKUNIYA	am	1999	b	ja\	jpn	\	Fūbaisha	8612	12917
+10315507	KINOKUNIYA	am	2016	b	ja\	jpn	\	Kazama Shobō	8612	12916
+10315510	KINOKUNIYA	am	2017	\	ja\	jpn	\	Kadokawa	8612	12915
+10315513	KINOKUNIYA	am	2017	\	ja\	jpn	\	Kabushiki Kaisha Rokuichi Shobō	8612	12914
+10315515	KINOKUNIYA	am	2017	b	ja\	jpn	\	Hitsuji Shobō	8612	12912
+10315518	KINOKUNIYA	am	2017	b	ja\	jpn	\	Jinbun Shoin	8612	12911
+10315458	KINOKUNIYA	am	2017	b	ja\	jpn	\	Kokusho Kankōkai	8612	12907
+10315452	KINOKUNIYA	am	2017	b	ja\	jpn	\	Tōkyōdō Shuppan	8612	12910
+10315456	KINOKUNIYA	am	2017	b	ja\	jpn	\	Chūō Kōron Bijutsu Shuppan	8612	12908
+10315462	KINOKUNIYA	am	2017	b	ja\	jpn	\	Kuroshio Shuppan	8612	12906
+10315465	KINOKUNIYA	am	2017	b	ja\	jpn	\	Bensei Shuppan	8612	12905
+10315469	KINOKUNIYA	am	2017	\	ja\	jpn	\	Ibunsha	8612	12904
+10315474	KINOKUNIYA	am	2017	b	ja\	jpn	\	Tōkyō Daigaku Shuppankai	8612	12903
+10315479	KINOKUNIYA	am	2017	b	ja\	jpn	\	Tōkyō Daigaku Shuppankai	8612	12902
+10315483	KINOKUNIYA	am	2017	b	ja\	jpn	\	Shinsensha	8612	12901
+10315488	KINOKUNIYA	am	2017	b	ja\	jpn	\	Tōkyō Daigaku Shuppankai	8612	12900
+10315491	KINOKUNIYA	am	2017	b	ja\	jpn	\	Nichigai Asoshiētsu	8612	12899
+10315495	KINOKUNIYA	am	2017	b	ja\	jpn	\	Tōkyō Daigaku Shuppankai	8612	12898
+10315503	KINOKUNIYA	am	2017	b	ja\	jpn	\	Hōzōkan	8612	12896
+10315506	KINOKUNIYA	am	2017	a	ja\	jpn	\	Genki Shobō	8612	12895
+10315509	KINOKUNIYA	am	2017	d	ja\	jpn	\	Chūgoku Shoten	8612	12894
+10315512	KINOKUNIYA	am	2018	\	ja\	jpn	\	Pōraorubisuhōrudingusupōrabunkakenkyūjo	8612	12893
+10315516	KINOKUNIYA	am	2018	\	ja\	jpn	\	Seigensha Puromōshon	8612	12892
+10315519	KINOKUNIYA	am	2017	b	ja\	jpn	\	Bensei Shuppan	8612	12890
+10315521	KINOKUNIYA	am	2017	b	ja\	jpn	\	Bensei Shuppan	8612	12889
+10315523	KINOKUNIYA	am	2017	b	ja\	jpn	\	Kōbunken	8612	12888
+10315454	KINOKUNIYA	am	2018	b	ja\	jpn	\	Yoshikawa Kōbunkan	8612	12856
+10315445	KINOKUNIYA	am	2017	b	ja\	jpn	\	Heibonsha	8612	12859
+10315447	KINOKUNIYA	am	2016	b	ja\	jpn	\	Tōkyōdō Shuppan	8612	12858
+10315450	KINOKUNIYA	am	2018	b	ja\	jpn	\	Bensei Shuppan	8612	12857
+10315457	KINOKUNIYA	am	2018	\	ja\	jpn	\	Kokushokankōkai	8612	12855
+10315459	KINOKUNIYA	am	2018	\	ja\	jpn	\	Bensei Shuppan	8612	12854
+10315461	KINOKUNIYA	am	2018	\	ja\	jpn	\	Bensei Shuppan	8612	12853
+10315464	KINOKUNIYA	am	2018	b	ja\	jpn	\	Bensei Shuppan	8612	12852
+10315467	KINOKUNIYA	am	2018	b	ja\	jpn	\	Bensei Shuppan	8612	12851
+10315470	KINOKUNIYA	am	2018	b	ja\	jpn	\	Bensei Shuppan	8612	12850
+10315446	KINOKUNIYA	am	1976	\	ja\	jpn	\	Daviddosha	8612	12939
+10315449	KINOKUNIYA	am	2002	\	ja\	jpn	\	Bungeisha	8612	12937
+10347681	MASS	am	2012	b	is\	eng	\	Israel Exploration Society	p2261	13822
+10360964	MASS	am	2018	\	is\	eng	\	NA	p2251	14508
+10360966	MASS	am	2018	\	is\	eng	\	Israel Exploration Society ;$bBiblical Archaeology Society	p2251	14505
+10377652	MELLEN	am	2008	b	nyu	eng	\	Edwin Mellen Press	p2952	14909
+10377655	MELLEN	am	2005	b	nyu	eng	\	Edwin Mellen Press	p6350	14908
+10377656	MELLEN	am	2013	b	nyu	eng	\	Edwin Mellen Press	p6350	14906
+10377658	MELLEN	am	2008	b	nyu	eng	\	Edwin Mellen Press	p6350	14904
+10377660	MELLEN	am	2006	b	nyu	eng	\	Edwin Mellen Press	p6350	14900
+10377663	MELLEN	am	2005	\	sa\	eng	\	Porcupine Press	p6390	14871
+10406686	MIDWEST	am	2010	\	nyu	eng	\	Picador,$c[2010]	p8350	15424
+10407849	MIDWEST	am	2011	b	no\	eng	\	Tapir Academic Press	p8350	15441
+10405220	MIDWEST	am	2012	b	nyu	eng	\	Modern Language Association of America	p3150	15391
+10405223	MIDWEST	am	2013	b	nyu	eng	\	The Modern Language Association of America	p3151	15389
+10405310	MIDWEST	am	2012	b	nyu	eng	\	Modern Language Association of America	p3150	15387
+10405225	MIDWEST	am	2009	b	nyu	eng	\	Modern Language Association of America	p3155	15388
+10405226	MIDWEST	am	2009	b	nyu	eng	\	Modern Language Association of America	p3166	15386
+10405227	MIDWEST	am	2009	b	nyu	eng	\	Modern Language Association of America	p3166	15385
+10405228	MIDWEST	am	1989	b	nyu	eng	\	Modern Language Association of America	p3166	15384
+10405229	MIDWEST	am	2007	b	nyu	eng	\	Modern Language Association of America	p3166	15383
+10385681	MIDWEST	am	2011	\	xna	eng	\	Allen & Unwin	8110	15271
+10385133	MIDWEST	am	2010	\	at\	eng	\	Big Sky Publishing Pty, Limited.;\1$aNewport, New South Wales :$bBig Sky Publishing	8110	15196
+10385125	MIDWEST	am	2005	b	su\	eng	\	International Islamic Publishing House	p2156	15231
+10385128	MIDWEST	am	2010	b	ne\	eng	\	Brill ;$aBiggleswade :$bExtenza Turpin [distributor]	p3350	15230
+10385130	MIDWEST	am	2012	f	qea	eng	\	[Diethelm F. Ryschka]/Xlibris	8110	15209
+10382912	MIDWEST	am	1995	b	ne\	eng	\	KIT - Tropenmuseum	8110	15114
+10382918	MIDWEST	am	2013	b	ne\	eng	\	KIT Publishers	8110	15099
+10377911	MIDWEST	am	2011	b	msu	eng	\	University Press of Mississippi	p2160	14873
+10380030	MIDWEST	am	2014	b	vau	eng	\	Just World Books	p2156	14993
+10380032	MIDWEST	am	2008	b	onc	eng	\	Compass Books	p2156	14992
+10376494	MIDWEST	am	2014	b	my\	eng	\	Natural History Publications (Borneo)	8110	14856
+10376496	MIDWEST	am	2014	b	enk	eng	\	Bloomsbury	592	14833
+10376981	MIDWEST	am	2009	b	enk	eng	\	Continuum	592	14862
+10376985	MIDWEST	am	2011	b	enk	eng	\	Continuum	592	14861
+10376987	MIDWEST	am	1998	b	vtu	eng	\	Jewish Lights Pub.	p8559	14859
+10376380	MIDWEST	am	2013	b	cou	eng	\	Lynne Rienner Publishers, Inc.	p2160	14802
+10363460	MIDWEST	am	2013	b	vau	eng	\	Kumarian Press	6343	14740
+10363465	MIDWEST	am	2014	b	mdu	eng	\	Rowman & Lttlefield	6343	14737
+10363467	MIDWEST	am	2003	b	gau	eng	\	M.A.A.T. [Mbongi Association for Afrikan Transformation]	6343	14734
+10362929	MIDWEST	am	2008	b	nju	eng	\	Africa World Press	6343	14683
+10363877	MIDWEST	am	2013	\	cou	eng	\	Lynne Rienner Publishers	p2160	14803
+10362927	MIDWEST	am	2010	b	aca	eng	\	Heart Books	8110	14717
+10362012	MIDWEST	am	2003	b	nyu	eng	\	Penguin Books	6343	14658
+10361354	MIDWEST	am	2014	b	nyu	eng	\	Penguin Books	6343	14662
+10361361	MIDWEST	am	2012	b	enk	eng	\	Palgrave Macmillan	592	14577
+10360932	MIDWEST	am	2017	b	ph\	eng	i	Asian Development Bank	8110	14519
+10360682	MIDWEST	am	1972	\	utu	eng	\	[Deseret Test Center]	p1161	14529
+10359887	MIDWEST	am	2012	b	miu	eng	\	Greenhaven Press	1341	14382
+10359939	MIDWEST	am	1972	\	ilu	eng	\	Third World Press	p2163	14412
+10359751	MIDWEST	am	2015	b	ilu	eng	\	Third World Press	6310	14426
+10359754	MIDWEST	am	2012	\	ilu	eng	\	Third World Press	6310	14424
+10359755	MIDWEST	am	2010	\	ilu	eng	\	Third World Press	p2163	14423
+4033926	MIDWEST	am	2011	b	ilu	eng	\	Third World Press	p2163	14400
+10359758	MIDWEST	am	2008	b	ilu	eng	\	Third World Press	p2163	14421
+10359761	MIDWEST	am	2009	\	ilu	eng	\	Third World Press	p2163	14420
+10359762	MIDWEST	am	2009	b	ilu	eng	\	Third World Press	p2163	14419
+10359765	MIDWEST	am	2008	\	ilu	eng	\	Third World Press	p2163	14418
+10359766	MIDWEST	am	2010	b	ilu	eng	\	Third World Press	p2163	14417
+10359771	MIDWEST	am	2007	b	ilu	eng	\	Third World Press	p2163	14416
+10359772	MIDWEST	am	2008	b	ilu	eng	\	Third World Press	p2163	14415
+10359775	MIDWEST	am	2007	b	ilu	eng	\	Third World Press	p2163	14414
+10359776	MIDWEST	am	2014	b	ilu	eng	\	Third World Press	p2163	14411
+10359778	MIDWEST	am	2012	b	ilu	eng	\	TWP Third World Press	p2163	14410
+10359780	MIDWEST	am	2010	b	ilu	eng	\	Third World Press	p2163	14409
+10359782	MIDWEST	am	2013	b	ilu	eng	\	Third World Press	p2163	14408
+10359783	MIDWEST	am	2012	\	ilu	eng	\	Third World Press	p2163	14406
+10359784	MIDWEST	am	2009	b	ilu	eng	\	Third World Press	p2163	14405
+10359785	MIDWEST	tm	2013	b	ilu	eng	\	Third World Press	p2163	14404
+10359786	MIDWEST	am	2011	b	ilu	eng	\	Third World Press	p2163	14402
+10359196	MIDWEST	am	2011	\	nyu	eng	\	Akashic Books	2161	14350
+10359199	MIDWEST	am	2014	\	nyu	eng	\	Strebor Books	2161	14348
+10359204	MIDWEST	am	2015	b	mau	eng	\	Da Capo Press, a member of Perseus Books Group	2161	14347
+10359205	MIDWEST	am	2013	b	nyu	eng	\	Sheep Meadow Press	2161	14345
+10359207	MIDWEST	am	2015	\	nyu	eng	\	Vintage Books a division of Random House LLC	2161	14343
+10358687	MIDWEST	am	2014	\	au\	eng	\	Edition Aufbruch	8110	14299
+10358690	MIDWEST	am	2000	\	ce\	eng	\	Rajah & Sundram Publishers	2010	14287
+10294780	MIDWEST	am	1999	b	mau	eng	\	Shambhala	4210	12433
+10294780	MIDWEST	am	1999	b	mau	eng	\	Shambhala	4210	12433
+10356974	MIDWEST	am	2011	b	gw\	eng	\	LAP LAMBERT Academic Publishing	8110	14234
+10356975	MIDWEST	am	2009	\	gw\	eng	\	NA	p8190	14210
+10356977	MIDWEST	am	2014	\	ja\	eng	\	Flick Studio	8110	14206
+10356979	MIDWEST	am	2013	b	enk	eng	\	Pen and Sword Military	8110	14205
+10355942	MIDWEST	am	2013	b	mdu	eng	\	The Scarecrow Press, Inc.	p2064	14144
+10353042	MIDWEST	am	2012	b	nyu	eng	\	Cambria Press	p8655	13968
+10353043	MIDWEST	am	2011	\	gw\	eng	\	LAP Lambert Academic Publishing	591	13964
+10353044	MIDWEST	am	2010	b	gw\	eng	\	VDM Verlag Dr. Müller	591	13962
+10353045	MIDWEST	am	2008	b	gw\	eng	\	VDM Verlag Dr. Müller	591	13961
+10353046	MIDWEST	am	2008	b	gw\	eng	\	VDM Verlag Dr. Müller	591	13959
+10353047	MIDWEST	am	2009	b	gw\	eng	\	VDM Verlag Dr. Müller	591	13958
+10353048	MIDWEST	am	2009	b	gw\	eng	\	VDM, Verlag Dr. Müller	591	13956
+10353049	MIDWEST	am	2009	\	gw\	eng	\	VDM Verlag Dr.Müller	591	13953
+10353050	MIDWEST	am	2009	b	gw\	eng	\	VDM Verlag Dr. Müller	591	13952
+10353051	MIDWEST	am	2009	b	gw\	eng	\	VDM Verlag Dr. Müller	591	13951
+10353052	MIDWEST	am	2009	b	gw\	eng	\	VDM Verlag	591	13950
+10353053	MIDWEST	am	2010	b	gw\	eng	\	VDM Verlag Dr. Muller	591	13949
+10353054	MIDWEST	am	2008	b	gw\	eng	\	VDM Verlag Dr. Mul̈ler	591	13948
+10353055	MIDWEST	am	2008	b	gw\	eng	\	VDM Verlag Dr. Müller	591	13947
+10353056	MIDWEST	am	2009	b	gw\	eng	\	VDM Verlag Dr. Müller	591	13946
+10353057	MIDWEST	am	2006	b	fi\	eng	\	Finnish Oriental Society	591	13945
+10353058	MIDWEST	am	2011	b	gw\	eng	\	VDM Verlag Dr. Müller	591	13944
+10353059	MIDWEST	am	2008	\	nyu	eng	\	Other Press	p2153	13939
+10352632	MIDWEST	am	2013	b	nyu	eng	\	Cambria Press	2010	13920
+10352635	MIDWEST	am	2007	b	ii\	eng	\	Published by Radhika Sabavala for Marg Publications on behalf of the National Centre for the Performing Arts	2010	13911
+10333880	MIDWEST	am	2012	\	gw\	eng	\	AV Akademikerverlag	8140	13723
+10329516	MIDWEST	am	2009	b	gw\	eng	\	VDM Verlag Dr. Müller	8140	13627
+10329519	MIDWEST	am	2008	b	gw\	eng	\	VDM	2115	13610
+10329522	MIDWEST	am	2010	b	gw\	eng	\	VDM Verlag Dr. Muller	8140	13609
+10328907	MIDWEST	am	2008	b	gw\	eng	\	VDM Verlag Dr. Müller	p8190	13597
+10328908	MIDWEST	am	2009	b	gw\	eng	\	VDM Verlag Dr. Muller	p8190	13596
+10328911	MIDWEST	am	2008	\	gw\	eng	\	VDM Verlag Dr. Muller	p8190	13595
+10328913	MIDWEST	am	2010	b	gw\	eng	\	VDM	8110	13594
+10328915	MIDWEST	am	2010	b	gw\	eng	\	VDM Verlag Dr. Müller	8110	13583
+10328917	MIDWEST	am	2010	b	gw\	eng	\	VDM Verlag Dr. Müller	8140	13577
+10335553	MIDWEST	am	2014	\	ii\	eng	\	ADARG and Marg Foundation	2010	13773
+10328919	MIDWEST	am	2010	b	gw\	eng	\	VDM Verlag Dr. Müller	p8154	13575
+10328920	MIDWEST	am	2010	b	gw\	eng	\	VDM Verlag Dr. Müller	8110	13572
+10328922	MIDWEST	am	2010	b	gw\	eng	\	VDM Verlag Dr. Müller	8140	13569
+10328925	MIDWEST	am	2010	b	gw\	eng	\	VDM Verlag Dr. Müller	8140	13568
+10328926	MIDWEST	am	2010	b	gw\	eng	\	VDM Verlag Dr. Müller	8140	13567
+10328929	MIDWEST	am	2010	b	gw\	eng	\	VDM Verlag Dr. Müller	8140	13565
+10328931	MIDWEST	am	2010	b	gw\	eng	\	VDM Verlag Dr. Müller	8140	13564
+10328933	MIDWEST	am	2011	b	gw\	eng	\	VDM, Verlag Dr. Müller	8110	13563
+10328935	MIDWEST	am	2011	b	dk\	eng	\	VDM Verlag	8110	13562
+10328938	MIDWEST	am	2011	b	gw\	eng	\	VDM Verlag Dr. Müfller	8110	13560
+10328940	MIDWEST	am	2011	b	gw\	eng	\	VDM Verlag Dr. Müller	8140	13559
+10328942	MIDWEST	am	2011	\	gw\	eng	\	VDM Verlag Dr. Muller GmbH	p8190	13558
+10328943	MIDWEST	am	2011	b	gw\	eng	\	VDM Verlag Dr Müller	8140	13557
+10328450	MIDWEST	am	2007	b	pau	eng	\	Casemate	8140	13487
+10328451	MIDWEST	am	2013	b	mdu	eng	\	Naval Institute Press	8110	13482
+10327863	MIDWEST	am	2014	\	vau	eng	\	Just World Books	p8352	13398
+10323283	MIDWEST	am	2012	b	mau	eng	\	Harvard Business Review Press	591	13279
+10232067	MIDWEST	am	2012	\	pr\	spa	\	Colección Maravilla	2310	11537
+10299485	MIDWEST	am	1996	b	enk	eng	\	Bloodaxe Books ;$aChester Springs, PA :$bDistributed in North America by Dufour Editions	2662	12724
+10299518	MIDWEST	am	2017	\	ph\	eng	\	National Historical Commission of the Philippines	p8154	12736
+10299071	MIDWEST	am	2014	b	gw\	eng	\	Scholars' Press	2010	12718
+10321483	MIDWEST	am	1994	\	enk	eng	\	Islamic Foundation	p8352	13170
+10316478	MIDWEST	am	2007	\	vtu	eng	\	Harbor Mountain Press	p8352	12970
+10299066	MIDWEST	am	1971	b	nyu	eng	\	Harper & Row, Publishers,$c1971	2662	12726
+10299075	MIDWEST	am	2013	b	gw\	eng	\	Scholars' Press	2010	12716
+10298582	MIDWEST	am	2004	b	miu	eng	\	Center for Japanese Studies, University of Michigan	8612	12626
+2182216	MIDWEST	am	1992	b	miu	eng	\	Center for Japanese Studies, University of Michigan	8612	12628
+10297934	MIDWEST	am	2010	b	ne\	eng	\	Hotei Publishing	8612	12603
+2182216	MIDWEST	am	1992	b	miu	eng	\	Center for Japanese Studies, University of Michigan	8612	12628
+10298033	MIDWEST	am	2013	b	ne\	eng	\	Hotei Publishing	8612	12600
+10297914	MIDWEST	am	2011	b	ne\	eng	\	Brill	8612	12610
+10297918	MIDWEST	am	2006	b	ne\	eng	\	Hotei ;$aClaremont, Calif. :$bScripps College	8612	12607
+10297923	MIDWEST	am	2007	b	ne\	eng	\	Hotei Pub.	8612	12606
+10297926	MIDWEST	am	2007	b	ne\	eng	\	Hotei	8612	12605
+10297930	MIDWEST	am	2007	b	ne\	eng	\	Hotei Publishing	8612	12604
+10298583	MIDWEST	am	2014	b	miu	eng	\	Center for Japanese Studies, The University of Michigan	8612	12624
+10297936	MIDWEST	am	2011	b	ne\	eng	\	Hotei	8612	12602
+10297938	MIDWEST	am	2012	b	cau	eng	\	Scripps College in association with Hotei Publishing	8612	12601
+10297789	MIDWEST	am	1996	b	it\	ita	\	Brepols	592	12539
+10292392	MIDWEST	am	1995	b	sp\	cat	o	Generalitat de Catalunya, Departament de Benestar Social :$bADIGSA	2616	12388
+10292471	MIDWEST	am	2012	\	flu	eng	\	HardPress Publishing	8110	12387
+10292475	MIDWEST	am	2017	\	th\	eng	\	White Lotus Press	p8155	12396
+10292492	MIDWEST	am	2017	\	th\	eng	\	NA	p8190	12379
+10292388	MIDWEST	am	2013	\	qea	eng	\	[Ken Park]	8110	12392
+10292389	MIDWEST	am	2014	b	vra	eng	\	Penguin Books	8110	12391
+10261943	MIDWEST	am	2013	d	hiu	eng	\	Iwalani Press	8110	12269
+10250316	MIDWEST	am	1994	b	mtu	eng	\	Bozeman Fork Pub.	p2959	12154
+10250310	MIDWEST	am	2016	\	dk\	dan	\	Lindhardt og Ringhof	2513	12174
+10250304	MIDWEST	am	2014	\	cau	eng	\	Two Lines	2513	12173
+10250309	MIDWEST	am	2001	\	ie\	eng	\	Dedalus Press	2513	12163
+10250312	MIDWEST	am	2000	\	enk	eng	\	Harvill	2513	12162
+10250305	MIDWEST	am	2017	b	dk\	dan	\	Gyldendal	2513	12177
+10250307	MIDWEST	am	2012	\	dk\	dan	\	Gyldendal	2513	12175
+10250313	MIDWEST	am	2005	\	dk\	dan	\	Gyldendal	2513	12172
+10250315	MIDWEST	am	1995	\	dk\	dan	\	Gyldendal	2513	12171
+10250317	MIDWEST	am	1995	\	dk\	dan	\	Gyldendal	2513	12170
+10250319	MIDWEST	am	1998	\	dk\	dan	\	Munksgaard Rosinante	2513	12167
+10250320	MIDWEST	am	1996	\	dk\	dan	\	Munksgaard/Rosinante	2513	12166
+10250322	MIDWEST	am	1991	\	dk\	dan	\	Brøndum	2513	12164
+10250323	MIDWEST	am	1976	\	dk\	dan	\	Brøndum	2513	12160
+10250324	MIDWEST	am	1982	\	dk\	dan	\	Gyldendal,$c1982	2513	12159
+10258754	MIDWEST	am	2002	\	nyu	eng	\	Harcourt	2513	12168
+10248473	MIDWEST	am	2014	b	gw\	eng	\	Scholar's Press	8110	12055
+10248474	MIDWEST	am	2013	b	gw\	eng	\	Scholar's Press	8610	12054
+10248476	MIDWEST	am	2013	b	gw\	eng	\	Scholars' Press	8610	12053
+10248478	MIDWEST	am	2013	b	gw\	eng	\	Scholar's Press	8610	12052
+10248479	MIDWEST	am	2013	b	gw\	eng	\	Scholar's Press	8610	12048
+10248480	MIDWEST	am	2013	b	gw\	eng	\	Scholars' Press	8610	12047
+10248481	MIDWEST	am	2014	b	gw\	eng	\	Scholar's Press	p8155	12035
+10248482	MIDWEST	am	2014	b	gw\	eng	\	Scholar's Press	8110	12034
+10248483	MIDWEST	am	2014	b	gw\	eng	\	Scholar's Press	8110	12001
+10248484	MIDWEST	am	2013	b	gw\	eng	\	Scholar's Press	8110	11999
+10248485	MIDWEST	am	2014	b	gw\	eng	\	Scholar's Press	p8155	11995
+10248486	MIDWEST	am	2014	b	gw\	eng	\	Scholars' Press	p8190	11994
+10247861	MIDWEST	am	2003	\	ii\	eng	\	Penguin Books	2010	11922
+10246373	MIDWEST	am	2011	\	lu\	eng	i	EUR-OP	4820	11844
+10239982	MIDWEST	am	2014	\	enk	eng	\	Darf Publishers	2115	11690
+10239986	MIDWEST	am	2014	\	enk	eng	\	Darf Publishers	2115	11685
+10239988	MIDWEST	am	2014	\	enk	eng	\	Darf Publishers	2115	11684
+10232066	MIDWEST	am	2005	b	flu	eng	\	Health Communications, Inc.	4210	11534
+10232070	MIDWEST	am	1998	b	gw\	eng	\	MusikTexte	7110	11555
+10226263	MIDWEST	am	2008	\	cb\	eng	\	Documentation Center of Cambodia	8110	11408
+10227230	MIDWEST	am	2014	b	enk	eng	\	CentreHouse Press	p2091	11468
+10215450	MIDWEST	am	2011	b	nyu	eng	\	Palgrave Macmillan	p2155	11325
+10214775	MIDWEST	am	2013	b	ilu	eng	\	Haymarket Books	p559	11253
+10215443	MIDWEST	am	2007	\	cau	eng	\	City Lights	p2153	11330
+10215448	MIDWEST	am	2014	b	nyu	eng	\	Palgrave Macmillan	p2153	11328
+10214771	MIDWEST	am	2014	b	be\	eng	\	P.I.E. Peter Lang	2021	11278
+10214773	MIDWEST	am	2001	b	nyu	eng	\	Peter Lang	2021	11273
+10214774	MIDWEST	am	2013	b	nyu	eng	\	Palgrave Macmillan	p559	11254
+10214319	MIDWEST	am	2011	b	gw\	eng	\	LAP LAMBERT Academic Publishing	8110	11228
+10214322	MIDWEST	am	2012	b	nyu	eng	\	Palgrave Macmillan	p2154	11218
+10213272	MIDWEST	am	2012	b	gw\	eng	\	LAP LAMBERT Academic Publishing	8110	11190
+10213275	MIDWEST	am	2011	b	gw\	eng	\	LAP Lambert Academic Pub.	8110	11189
+10213277	MIDWEST	am	2014	b	ua\	eng	\	The American University in Cairo Press	2115	11178
+10206664	MIDWEST	am	2001	b	enk	eng	\	Don Baker Memorial Fund :$bDistributed by Archetype Publications	p2155	10868
+10206662	MIDWEST	am	2012	b	mau	eng	\	Harvard Business Review Press	p1352	10869
+10206658	MIDWEST	am	2013	b	nyu	eng	\	McGraw-Hill Education	p1352	10872
+10206660	MIDWEST	am	2012	b	nyu	eng	\	Business Expert Press	p1352	10871
+10206661	MIDWEST	am	2009	b	cau	eng	\	TalentSmart	1341	10870
+10393564	NHBS	am	1974	b	nyu	eng	\	Queens College ;$aBucks :$bInternational Bee Research Association	1010	15340
+10393563	NHBS	am	2012	b	oru	eng	\	Beargrass Press	1010	15341
+10393686	NHBS	am	2018	\	my\	eng	\	Natural History Publications Borneo	1010	15346
+10393687	NHBS	am	2018	b	fi\	fin	\	Kirjapaino Bookwell Oy	p1182	15334
+10393553	NHBS	am	2016	\	xx\	chi	\	Science Press	1010	15342
+10393554	NHBS	am	2018	b	cc\	chi	u	Science Press	1010	15339
+10393551	NHBS	am	2018	b	ii\	eng	\	Birdwing Publishers	1010	15345
+10393556	NHBS	am	2018	b	ii\	eng	f	Zoological Survey of India,$cApril	1010	15338
+10393558	NHBS	am	2018	b	ii\	eng	f	Zoological Survey of India,$cJanuary	1010	15337
+10393561	NHBS	am	2018	\	ii\	eng	\	Zoological Survey of India,$cMarch	1010	15336
+10388543	NHBS	am	2015	\	xna	eng	s	Department of Primary Industries	1010	15329
+10393140	NHBS	am	2018	b	enk	eng	\	Edmonds Publishing	1010	15323
+10377944	NIBO	am	2017	b	th\	tha	\	Matichon	8110	14897
+10376650	NIBO	am	2017	\	th\	eng	\	White Lotus Press	8110	14841
+10393679	PEMBERLEY	am	2016	b	flu	eng	\	International Biodiversity Foundation	1010	15357
+10393683	PEMBERLEY	am	2018	b	cc\	eng	f	Xing zheng yuan nong ye wei yuan hui lin wu ju,$cminguo 107 nian [2018];\1$aTaipei shi :$bCouncil of Agriculture Executive Yuan, Forestry Bureau	1010	15350
+10393560	PEMBERLEY	am	2014	b	flu	eng	\	The Florida Biodiversity Foundation	1010	15356
+10393552	PEMBERLEY	am	2018	b	gw\	ger	\	Kleinsteuber Books	1010	15348
+10393555	PEMBERLEY	am	2018	b	gw\	ger	\	Wolfgang H. Rücker Selbstverlag	1010	15347
+10393557	PEMBERLEY	am	2018	b	enk	eng	\	FSC Publications	1010	15354
+10393559	PEMBERLEY	am	2014	b	enk	eng	\	John Beaufoy Publishing	1010	15352
+10393562	PEMBERLEY	am	2018	\	enk	eng	\	FSC Publications	p1182	15335
+10393547	PEMBERLEY	am	2018	b	bu\	eng	\	Pensoft	1010	15353
+10362992	PEMBERLEY	am	2017	b	gw\	ger	\	Bernhard Klausnitzer	p1182	14687
+10362996	PEMBERLEY	am	2018	b	enk	eng	\	British Entomological and Natural History Society	p1182	14685
+10363013	PEMBERLEY	am	2018	b	gw\	eng	\	International Dragonfly Fund ;$aRuppichteroth :$bVerlag Natur in Buch und Kunst, Dieter Prestel	p1182	14684
+10353866	PEMBERLEY	am	2018	b	au\	eng	\	Prof. Maximilian Schwarz	p1166-mann	NA
+10353926	PEMBERLEY	am	2017	b	sa\	eng	\	SANBI	1010	13986
+10393550	PEMBERLEY	am	2015	\	flu	eng	\	International Biodiversity Foundation	1010	15355
+10353930	PEMBERLEY	am	2018	b	xxk	\\\	\	Ocelli	p1166	13985
+10353933	PEMBERLEY	am	2018	b	enk	eng	\	British Entomological and Natural History Society	1010	13980
+10353425	PEMBERLEY	am	2018	b	au\	eng	\	Maximilian Schwarz	1010	13983
+10207247	SOLIDAR	am	2017	b	ph\	eng	\	National Historical Commission of the Philippines	p8155	10954
+10380075	SELECT	am	2018	b	si\	eng	\	ISEAS	8110	15014
+9266746	PEMBERLEY	am	2015	b	hu\	eng	\	Pars Ltd	1010	13988
+3655781	PEMBERLEY	am	1999	b	it\	eng	\	Omnes Artes	1010-mann	NA
+10378249	SELECT	am	2017	b	my\	eng	\	Entrepot Publishing Sdn. Bhd.	8110	14921
+10376551	SELECT	am	2017	\	my\	chi	\	Ce lüe zi xun yan jiu zhong xin	8110	14854
+10376553	SELECT	am	2017	\	my\	chi	\	Da jiang chu ban she	8110	14853
+10376554	SELECT	am	2017	\	my\	chi	\	Xin xiang tai yang ju fang	8110	14849
+10376555	SELECT	am	2017	b	my\	chi	\	San san chu ban she	8110	14848
+10376556	SELECT	am	2017	b	my\	chi	\	Xinshan Hua zu li shi wen wu guan	8110	14847
+10376557	SELECT	am	2017	\	si\	chi	\	Xinjiapo yi lin tang	8110	14846
+10376326	SELECT	am	2017	b	my\	chi	\	Ce lüe zi xun yan jiu zhong xin ;$aHong Kong :$bYa ji shu yuan	8110	14784
+10376310	SELECT	am	2017	\	my\	chi	\	Wen yun qi ye	8110	14789
+10382503	SELECT	am	2018	b	si\	eng	\	National Museum of Singapore	8110	15050
+10376393	SELECT	am	2017	b	my\	eng	\	MEPSB Enterprise	8110	14768
+10376419	SELECT	am	2017	b	my\	eng	a	Penerbit Universiti Malaysia Sabah	8110	14753
+10356435	SELECT	am	2017	b	my\	eng	\	pVm Communications Sdn. Bhd.	8140	14161
+10356439	SELECT	am	2017	\	my\	eng	\	Dewan Bahasa dan Pustaka	8140	14160
+10356440	SELECT	am	2017	\	my\	eng	\	Universiti Putra Malaysia Press	8110	14159
+10356441	SELECT	am	2017	\	si\	eng	\	Canopy, an imprint of the Select Centre	8110	14158
+10356450	SELECT	am	2017	\	my\	eng	\	Karamoja Press	8140	14153
+10356456	SELECT	am	2017	b	my\	eng	f	Dewan Bahasa dan Pustaka	8140	14151
+10355832	SELECT	am	2017	\	si\	eng	\	Ethos Books	8140	14120
+10355827	SELECT	am	2017	b	my\	eng	\	Strategic Information and Research Development Centre	8140	14127
+10355839	SELECT	am	2017	\	si\	eng	\	Marshall Cavendish Editions	8140	14113
+10355826	SELECT	am	2017	b	my\	eng	\	Entrepot Publishing	8140	14130
+10355828	SELECT	am	2017	b	my\	eng	\	Areca Books	8140	14126
+10355836	SELECT	am	2017	b	si\	eng	\	The Malay Heritage Foundation :$bSelect Publishing	8140	14116
+10292491	SELECT	am	2017	\	my\	eng	\	Gerakbudaya Enterprise	8110	12383
+10207960	SELECT	am	2017	b	si\	eng	\	ISEAS Yusof Ishak Institute	8110	11001
+10359607	TAYLORFRAN	am	2018	b	flu	eng	\	CRC Press, Taylor & Francis Group	7040	14201
+10356548	icarusfilm	gm	2017	\	nyu	kin	\	Icarus Films	6310	14195
+10213271	VIDEODATA	gm	1997	\	ilu	eng	\	Video Data Bank	6714	11147
+10323068	Igarashi	as	1918	\	ja\	jpn	\	Hara Shobō	8612	13205
+10322053	Igarashi	am	2009	\	ja\	jpn	\	Matsuno Shoten	8612	13201
+10322456	Igarashi	am	1978	\	ja\	jpn	\	Hatsubai Kabushiki Kaisha Yūshōdō Shoten,$c[between 1978 and 2012];\1$6880-04$a[Japan] :$b[publisher not identified]	8612	13192
+10321489	Igarashi	am	1985	b	ja\	jpn	f	Kokuritsu Kōbunshokan	8612	13198
+10321485	Igarashi	am	1969	b	ja\	jpn	\	Meiji Shoin	8612	13204
+10321487	Igarashi	am	1994	b	ja\	jpn	\	Shintensha	8612	13202
+10321488	Igarashi	am	1998	i	ja\	jpn	\	Ōzorasha	8612	13199
+10321490	Igarashi	am	2006	\	ja\	jpn	\	Nishōgakusha Daigaku 21-seiki COE Puroguramu	8612	13197
+10321491	Igarashi	am	1989	b	ja\	jpn	\	Shibunkaku Shuppan	8612	13194
+10321492	Igarashi	am	1978	\	ja\	jpn	\	Hatsubai Kabushiki Kaisha Yūshōdō Shoten,$c[between 1978 and 2012];\1$6880-02$a[Japan] :$b[publisher not identified]	8612	13191
+10321493	Igarashi	am	1979	\	ja\	jpn	\	Hatsubai Kabushiki Kaisha Yūshōdō Shoten,$c[between 1979 and 2012];\1$6880-02$a[Japan] :$b[publisher not identified]	8612	13190
+10320603	Igarashi	am	1998	\	ja\	jpn	\	Rinsen Shoten	8612	13157
+10320598	Igarashi	as	1925	\	ja\	jpn	\	Ōzorasha	8612	13139
+10320601	Igarashi	as	1946	\	ja\	jpn	\	Ōzorasha	8612	13151
+10320602	Igarashi	am	1989	\	ja\	jpn	\	Heibonsha	8612	13142
+10320611	Igarashi	am	1991	\	ja\	jpn	\	Ōzorasha	NA	NA
+10320555	Igarashi	am	1999	\	ja\	jpn	\	Bunka Shoin	8612	13166
+10320558	Igarashi	am	1991	\	ja\	jpn	\	Ōzorasha	8612	13165
+10320559	Igarashi	am	1972	b	ja\	jpn	\	Tōkai Daigaku Shuppankai	8612	13163
+10320560	Igarashi	am	1972	b	ja\	jpn	\	NA	8612	13162
+10320561	Igarashi	am	1901	\	ja\	jpn	\	Rikugōkan$cMeiji 34 [1901]	8612	13161
+10320562	Igarashi	am	2005	\	ja\	jpn	\	Hōzōkan	8612	13160
+10320563	Igarashi	am	1998	b	ja\	jpn	\	Rinsen Shoten	8612	13158
+10320567	Igarashi	am	1997	b	ja\	jpn	\	Shin Jinbutsu Ōraisha	8612	13153
+10320568	Igarashi	am	1980	\	ja\	jpn	\	Yūshōdō Shoten	8612	13152
+10320569	Igarashi	am	1927	\	ja\	jpn	\	Katō Shinjirō	8612	13150
+10320571	Igarashi	am	1999	b	ja\	jpn	\	Rinsen Shoten	8612	13143
+10320572	Igarashi	am	1984	l	ja\	jpn	\	Tōkyō Hōrei Shuppan	8612	13141
+10320573	Igarashi	am	1964	\	ja\	jpn	\	Kōdansha	8612	13140
+10320574	Igarashi	am	1990	b	ja\	jpn	\	Okinawa-ken Kankōchō Rōdōsha Kyōsaikai	8612	13136
+10298553	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā	8612	12670
+10298581	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā	8612	12686
+10298997	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha	8612	12669
+10298999	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā	8612	12668
+10299000	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā kikaku	8612	12667
+10299001	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā kikaku	8612	12666
+10299002	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā kikaku	8612	12665
+10299003	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā kikaku	8612	12664
+10299004	Igarashi	am	2000	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā	8612	12671
+10299012	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā	8612	12672
+10299014	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā	8612	12673
+10299016	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā kikaku	8612	12675
+10299017	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā kikaku	8612	12676
+10299018	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā	8612	12677
+10299019	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā	8612	12678
+10299020	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā kikaku	8612	12679
+10299021	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Sentā kikaku	8612	12680
+10299023	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Sentā kikaku	8612	12681
+10299024	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā	8612	12682
+10299025	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā kikaku	8612	12683
+10299027	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā kikaku	8612	12684
+10299030	Igarashi	am	1999	\	ja\	jpn	\	Ōzorasha :$bNada Shuppan Sentā kikaku	8612	12685
+10298561	Igarashi	am	1996	\	ja\	jpn	\	Ōzorasha	8612	12696
+10298564	Igarashi	am	1996	b	ja\	jpn	\	Ōzorasha	8612	12695
+10298567	Igarashi	am	1996	b	ja\	jpn	\	Ōzorasha	8612	12694
+10298568	Igarashi	am	1996	\	ja\	jpn	\	Ōzorasha	8612	12693
+10298572	Igarashi	am	1996	\	ja\	jpn	\	Ōzorasha	8612	12692
+10298575	Igarashi	am	1996	\	ja\	jpn	\	Ōzorasha	8612	12690
+10298577	Igarashi	am	1996	\	ja\	jpn	\	Ōzorasha	8612	12689
+10298578	Igarashi	am	1996	\	ja\	jpn	\	Ōzorasha	8612	12688
+10298580	Igarashi	am	1996	\	ja\	jpn	\	Ōzorasha	8612	12687
+10298579	Igarashi	am	1996	\	ja\	eng	\	Ōzorasha	8612	12691
+10298562	Igarashi	am	1999	d	ja\	jpn	\	Ōzorasha	8612	12661
+10298566	Igarashi	am	1998	d	ja\	jpn	\	Ōzorasha	8612	12657
+10298569	Igarashi	am	1995	\	ja\	jpn	\	Ōzorasha	8612	12656
+10298573	Igarashi	am	1998	d	ja\	jpn	\	Ōzorasha	8612	12655
+10298576	Igarashi	am	2013	\	ja\	jpn	\	Ōzorasha	8612	12653
+10206654	Barlovento	am	2015	b	jm\	eng	\	Ian Randle Publishers	6310	10890
+10360694	BIBLIAIMP	am	2017	b	ii\	eng	\	Dr Mrs Nawaz B Mody for the K R Cama Oriental Institute	8110	14525
+10352633	BIBLIAIMP	am	2011	b	ii\	hin	\	Rājasthānī Śodha Saṃsthāna :$bMahārājā Mānasiṃha Pustaka Prakāśa Śodha Kendra,$c2011.;\2$6880-03$aJodhapura :$bEkamātra vitaraka	2010	13910
+10247939	BIBLIAIMP	am	2017	b	ii\	eng	\	Oxford University Press	2010	11961
+10247901	BIBLIAIMP	am	2017	\	ii\	eng	\	The Energy and Resources Institute	2010	11974
+10247909	BIBLIAIMP	am	2017	b	ii\	eng	\	Oxford University Press	2010	11957
+10247912	BIBLIAIMP	am	2017	b	ii\	eng	\	Oxford University Press	2010	11952
+10247902	BIBLIAIMP	am	2017	\	ii\	eng	\	Speaking Tiger	2010	11973
+10247907	BIBLIAIMP	am	2016	b	ii\	eng	\	The Energy and Resources Institute	2010	11972
+10247914	BIBLIAIMP	am	2017	b	ii\	eng	\	Daya Publishing House, a division of Astral International Pvt. Ltd.	2010	11971
+10247916	BIBLIAIMP	am	2016	b	ii\	eng	\	The Energy and Resources Institute (TERI)	2010	11970
+10247919	BIBLIAIMP	am	2017	\	ii\	eng	\	Penguin Books	2010	11969
+10247921	BIBLIAIMP	am	2017	\	ii\	eng	\	Penguin Random House India	2010	11968
+10247923	BIBLIAIMP	am	2017	b	ii\	eng	\	Scholars World	2010	11967
+10247926	BIBLIAIMP	am	2017	b	ii\	eng	\	Hachette India	2010	11966
+10247905	BIBLIAIMP	am	2011	b	ii\	eng	\	Oxford University Press	2010	11963
+10247928	BIBLIAIMP	am	2017	\	ii\	eng	\	Hachette India	2010	11965
+10247930	BIBLIAIMP	am	2017	b	ii\	eng	\	Juggernaut	2010	11964
+10247931	BIBLIAIMP	am	2018	b	ii\	eng	\	Oxford University Press	2010	11962
+10247932	BIBLIAIMP	am	2017	b	ii\	eng	\	Oxford University Press	2010	11959
+10247933	BIBLIAIMP	am	2017	b	ii\	eng	\	Oxford University Press	2010	11955
+10247934	BIBLIAIMP	am	2017	\	ii\	eng	\	Oxford University Press	2010	11953
+10247935	BIBLIAIMP	am	2017	b	ii\	eng	\	Oxford University Press	2010	11950
+10227229	BIBLIAIMP	am	2016	b	ii\	eng	\	Exclusively distributed by Manohar Publishers & Distributors;\1$aLondon :$bRoutledge, Taylor & Francis Group	2010	11459
+10227233	BIBLIAIMP	am	2016	b	ii\	eng	\	Routledge	2010	11451
+10227231	BIBLIAIMP	am	2016	b	ii\	eng	\	Routledge	2010	11462
+10227225	BIBLIAIMP	am	2017	b	enk	eng	\	Routledge Taylor & Francis Group	2010	11464
+10227228	BIBLIAIMP	am	2016	b	enk	eng	\	Routledge Taylor & Francis Group,$c2016.;\2$aNew Delhi	2010	11463
+10227232	BIBLIAIMP	am	2017	b	enk	eng	\	Routledge Taylor & Francis Group	2010	11461
+10227234	BIBLIAIMP	am	2016	b	enk	eng	\	Routledge	2010	11455
+10227235	BIBLIAIMP	am	2016	b	enk	eng	\	Manohar Publishers & Distributors;\1$aAbingdon, Oxon :$bRoutledge	2010	11452
+10227236	BIBLIAIMP	am	2017	b	enk	eng	\	Routledge, Taylor & Francis Group,$c2017.;\2$aNew Delhi	2010	11449
+10160958	BIBLIAIMP	am	2016	b	ii\	eng	\	Routledge, Taylor & Francis Group$c2016;\2$aNew Delhi	2010	9919
+10160953	BIBLIAIMP	am	2016	\	ii\	eng	\	Penguin Books	2010	9925
+10160954	BIBLIAIMP	am	2017	b	xxu	eng	\	Lifetree Media Ltd	2010	9924
+10160957	BIBLIAIMP	am	2016	\	ii\	eng	\	Speaking Tiger	2010	9920
+10213414	BIBLIAIMP	am	2012	\	\\\	\\\	\	NA	2010	11154
+10213527	BIBLIAIMP	am	2017	\	ce\	eng	\	Sarasavi Publishers	2010	11151
+10213281	BIBLIAIMP	am	2003	\	ce\	eng	\	Vijitha Yapa Publications	2010	11157
+10213282	BIBLIAIMP	am	2009	\	ce\	eng	\	Popsicle Books	2010	11155
+10213274	BIBLIAIMP	am	2015	\	ce\	eng	\	Paw Print Publishing	2010	11152
+10208087	BIBLIAIMP	am	2016	b	enk	eng	\	Routledge, Taylor & Francis Group	2010	11047
+10249727	WMM	gm	1988	\	nyu	eng	\	Distributed by Women Make Movies	p7358	12063
+10249729	WMM	gm	1999	\	nyu	eng	\	Distributed by Women Make Movies	p7358	12061
+10376716	XUNHAS	am	2017	\	vm\	eng	\	Metro Writers,$c[2017];\3$aRaleigh, NC :$bLulu Press	8110	14845
+10404251	YANKEE/E	am	2017	\	vra	eng	\	The Text Publishing Company	p2251	15369
+10387624	YANKEE/E	am	2018	\	vra	eng	\	Scribe Publications Pty Ltd	p8154	15290
+10376460	YANKEE/E	am	2008	b	qea	eng	\	Post Pressed	6714	14812
+10362918	YANKEE/E	am	2018	\	qea	eng	\	Gordon Smith]	8110	14723
+10362919	YANKEE/E	am	2017	b	vra	eng	\	Heart Books	8110	14718
+10385145	YANKEE/E	am	2016	b	xna	eng	\	Allen & Unwin	8110	15187
+10380028	YANKEE/E	am	2018	\	vra	eng	\	Sid Harta Publishers	8110	15018
+10380029	YANKEE/E	am	2018	\	at\	eng	\	Connor Court	8110	15016
+10360927	YANKEE/E	am	2017	b	xna	eng	\	Penguin Random House Australia	8110	14549
+10355940	YANKEE/E	am	2017	b	at\	eng	\	Charles Darwin University Art Gallery	8110	14167
+10355943	YANKEE/E	am	2017	b	xna	eng	\	NewSouth Publishing	8140	14156
+10355261	YANKEE/E	am	2017	b	vra	eng	\	Crammond Media	8110	14121
+10360680	YANKEE/E	am	2017	b	aca	eng	\	Australian Strategic Policy Institute	8110	14528
+10323285	YANKEE/E	am	2017	\	vra	eng	\	CDP Press	8110	13316
+10323288	YANKEE/E	am	2017	\	nz\	eng	\	McKenzie Publishing	p8155	13286
+10298565	YANKEE/E	am	2017	b	vra	eng	\	Monash University Publishing	p8155	12631
+10343548	YANKEE/E	am	2017	\	xna	eng	\	Vintage Books	p2155	13811
+10246335	YANKEE/E	am	2018	b	vra	eng	\	Monash University Publishing	p8155	11896
+10207142	YANKEE/E	am	2016	\	vra	eng	\	Michael Joseph an imprint of Penguin Books	p8155	10952
+10378215	MARTINBOOK	am	2017	\	ch\	chi	\	Cheng bang wen hua shi ye gu fen you xian gong si :$bMai hao si chu ban	8110	14950
+10378227	MARTINBOOK	am	2017	b	ch\	chi	\	Chun hui chu ban she	8110	14937
+10376661	MARTINBOOK	am	2017	\	vm\	eng	\	Knowledge Publishing House	8110	14840
+10376320	MARTINBOOK	am	2017	\	my\	chi	\	Suara Initiatif Sdn Bhd	8110	14787
+10376332	MARTINBOOK	am	2017	\	my\	chi	\	Kiong Chung Trading Co.	8110	14782
+10376335	MARTINBOOK	am	2017	b	my\	chi	\	Ce lüe zi xun yan jiu zhong xin	8110	14781
+10376338	MARTINBOOK	am	2017	b	my\	chi	\	Nan fang da xue xue yuan chu ban she	8110	14780
+10376383	MARTINBOOK	am	2017	\	my\	eng	\	Penerbit Wawasan Nusa (M) Sdn. Bhd	8110	14772
+10376384	MARTINBOOK	am	2017	\	my\	eng	\	Trishaw Press Sdn. Bhd.	8110	14771
+10376385	MARTINBOOK	am	2017	b	my\	eng	\	Natural History Publications (Borneo) Sdn. Bhd.	8110	14770
+10376387	MARTINBOOK	am	2017	b	si\	eng	f	Asian Civilisations Museum for the Peranakan Museum	8110	14769
+9844746	MARTINBOOK	am	2017	b	si\	chi	\	Xinjiapo dang dai li shi yan jiu she	8110	14779
+10376395	MARTINBOOK	am	2017	\	my\	eng	\	IIUM Press	8110	14767
+10376397	MARTINBOOK	am	2017	\	si\	eng	\	DM Books (Singapore)	8110	14766
+10376399	MARTINBOOK	am	2017	b	my\	eng	\	Dewan Bahasa dan Pustaka	8110	14765
+10376406	MARTINBOOK	am	2017	\	my\	eng	\	Sweet & Maxwell/Thomson Reuter	8110	14762
+10376407	MARTINBOOK	am	2017	b	my\	eng	a	University of Malaya Press	8110	14761
+10376408	MARTINBOOK	am	2017	\	my\	eng	\	Wildman Communications Sdn. Bhd.	8110	14760
+10376409	MARTINBOOK	am	2017	\	my\	eng	\	George Town World Heritage Incorporated	8110	14759
+10376410	MARTINBOOK	am	2017	\	my\	eng	\	Galeri Petronas	8110	14757
+10376415	MARTINBOOK	am	2016	b	my\	eng	\	Areca Books	8110	14755
+10376417	MARTINBOOK	am	2017	b	my\	eng	f	Areca Books	8110	14754
+10376420	MARTINBOOK	am	2017	\	my\	eng	\	Tokobuku Zaulin	8110	14752
+10376423	MARTINBOOK	am	2017	b	my\	eng	\	PNB Research Institute Sdn. Berhad	8110	14751
+10376424	MARTINBOOK	am	2017	\	my\	eng	\	MPH Distributors Sdn. Bhd. ;$aSingapore :$bMPH Distributors (S) Pte. Ltd.;\1$aPetaling Jaya, Selangor, Malaysia :$bMPH Publishing	8110	14750
+10376427	MARTINBOOK	em	2017	\	my\	eng	\	Think City Sdn. Bhd.	8110	14747
+10362986	MARTINBOOK	am	2017	\	bx\	eng	\	Haji Mohd Rozan bin Dato Paduka Haji Mohd Yunos	8110	14700
+10360746	MARTINBOOK	am	2017	b	io\	eng	\	PolGov	8110	14538
+10356387	MARTINBOOK	am	2017	\	my\	eng	\	MPH Group Publishing	8110	14162
+10356447	MARTINBOOK	am	2017	b	my\	eng	\	Strategic Information and Research Development Centre	8140	14154
+10356445	MARTINBOOK	am	2017	b	my\	eng	\	ZI Publications Sdn. Bhd.	8140	14155
+10356454	MARTINBOOK	am	2017	\	my\	eng	\	Dewan Bahasa dan Pustaka	8110	14152
+10355949	MARTINBOOK	am	2017	b	bx\	may	f	Pusat Sejarah Brunei, Kementerian Kebudayaan, Belia dan Sukan	8110	14164
+10355829	MARTINBOOK	am	2017	b	my\	eng	\	Pelanduk Publications	8140	14125
+10355830	MARTINBOOK	am	2017	\	my\	eng	\	Kala Publishers Sdn. Bhd.	8140	14124
+10355831	MARTINBOOK	am	2017	b	my\	eng	\	August Publishing Sdn. Bhd.	8140	14123
+10355837	MARTINBOOK	am	2017	b	my\	eng	\	Strategic Information and Research Development Centre	8140	14115
+10355841	MARTINBOOK	am	2017	b	my\	eng	\	Strategic Information and Research Development Centre ;$aSingapore$bISEAS Publishing	8140	14109
+10355842	MARTINBOOK	am	2017	b	si\	eng	\	Institute of Policy Studies :$bStraits Times Press Pte Ltd	8140	14108
+10355835	MARTINBOOK	am	2017	b	my\	eng	\	Silverfish Pro	8140	14117
+10325851	MARTINBOOK	am	2017	\	br\	eng	\	W.H.J. Reiss	8110	13317
+10298750	MARTINBOOK	am	2017	b	my\	eng	\	University of Malaya Press	p8155	12699
+10355257	MARTINBOOK	am	2017	\	ce\	eng	\	S. Godage & Brothers (Pvt) Ltd.	8110	14122
+8827944	COUTTS/EBK	am	2007	b	mdu	eng	\	AltaMira Press	p7361	$zPOOF;poof.library.cornell.edu/node/31725
+9431574	COUTTS/EBK	am	2015	b	nyu	eng	\	Nova Science Publishers	p1204	$zPOOF;poof.library.cornell.edu/node/46343
+8915723	COUTTS/EBK	am	1985	b	nju	eng	\	Princeton University Press	p1166	$zPOOF;poof.library.cornell.edu/node/34863
+8915605	COUTTS/EBK	am	2010	b	nju	eng	\	Princeton University Press	p1166	$zPOOF;poof.library.cornell.edu/node/34846
+8916966	COUTTS/EBK	am	2009	b	nju	eng	\	Wiley	1042	$zPOOF;poof.library.cornell.edu/node/34978
+10261184	COUTTS/EBK	am	2018	b	ilu	eng	\	ALA Editions, an imprint of the American Library Association	p3250	12216
+10377632	STATELIB	am	2017	b	ru\	rus	\	ROSSPĖN	8110	14895
+10376656	STATELIB	am	2017	\	ru\	rus	\	Izdatelʹskiĭ dom Meshcheri︠a︡kova	8110	14851
+10355938	STATELIB	am	2015	b	ru\	rus	\	Moskovskai︠a︡ gosudarstvennai︠a︡ konservatorii︠a︡ imeni P.I. Chaĭkovskogo	7110	14179
+10376461	BALI	am	2018	b	tu\	tur	\	Siyasi Şeyler	2115	14810
+10380806	QingYin	am	2013	\	cc\	chi	\	Zhong xin chu ban she	8110	15026
+10380031	QingYin	am	2017	\	cc\	chi	\	Hua cheng chu ban she	8110	14999
+10377999	QingYin	am	2017	\	cc\	chi	\	Zhongguo lao dong she hui bao zhang chu ban she	8110	14948
+10378003	QingYin	am	2017	\	cc\	chi	\	Chen yi ming ji tuan	8110	14946
+10378006	QingYin	am	2017	b	cc\	chi	\	Fu dan da xue chu ban she you xian gong si	8110	14944
+10378010	QingYin	am	2017	\	cc\	chi	\	Guangxi shi fan da xue chu ban she	8110	14943
+10378012	QingYin	am	2017	\	cc\	chi	\	Wen hua yi shu chu ban she	8110	14942
+10378015	QingYin	am	2017	b	cc\	chi	\	She hui ke xue wen xian chu ban she, Dang dai shi jie chu ban fen she	8110	14939
+10378017	QingYin	am	2017	\	cc\	chi	\	Zhongguo she hui ke xue chu ban she	8110	14933
+10385137	QingYin	am	2017	b	cc\	chi	\	Yunnan da xue chu ban she	8110	15220
+10385141	QingYin	am	2015	\	cc\	chi	\	Xi nan shi fan da xue chu ban she	8110	15174
+10377630	QingYin	am	2017	\	cc\	chi	\	Yunnan min zu chu ban she	8110	14899
+10362921	QingYin	am	2017	b	cc\	chi	\	Shi jie tu shu chu ban Guangdong you xian gong si	8110	14694
+10376465	QingYin	am	2017	\	cc\	chi	\	Hua cheng chu ban she	8110	14852
+10376468	QingYin	am	2017	\	cc\	chi	\	Sheng tai jiao yu ji zi yuan zhong xin	8110	14850
+10363456	QingYin	am	2017	b	cc\	chi	\	Xianggang cheng shi da xue chu ban she	8110	14785
+10363461	QingYin	am	2017	\	cc\	chi	\	Ji nan da xue chu ban she	8110	14783
+10363464	QingYin	am	2017	b	cc\	chi	\	Shi jie zhi shi chu ban she	8110	14778
+10363466	QingYin	am	2017	b	cc\	chi	\	Hai xia wen yi chu ban she	8110	14777
+10363468	QingYin	am	2017	b	cc\	chi	\	Zhongguo she hui ke xue chu ban she	8110	14776
+10363469	QingYin	am	2017	b	cc\	chi	\	Zhongguo she hui ke xue chu ban she	8110	14775
+10323291	QingYin	am	2017	b	cc\	chi	\	Jing ji ke xue chu ban she	8110	13323
+10323292	QingYin	am	2017	b	cc\	chi	\	Hong chu ban (Qing sen wen hua)	8110	13312
+10298556	QingYin	am	2017	b	cc\	chi	\	Hua zhong shi fan da xue chu ban she	p8155	12701
+10299065	QingYin	am	2017	\	cc\	chi	\	Zhongguo fang zhi chu ban she	8110	12727
+10385685	ERASMUS	am	2018	m	ne\	eng	\	LOT	p2156	15247
+10406296	ERASMUS	am	2016	b	ne\	eng	\	Wakkaman	p2091	15408
+10383345	ERASMUS	am	2017	m	ne\	eng	\	Wageningen University	8110	15161
+10385154	ERASMUS	am	2018	b	ne\	dut	\	LM Publishers	8110	15218
+7731814	ERASMUS	am	2004	b	ne\	dut	\	KIT Publishers	p8145	$zPOOF;poof.library.cornell.edu/node/31460
+10382920	ERASMUS	am	2008	\	ne\	dut	\	KIT Publishers	8110	15102
+10382925	ERASMUS	am	2014	b	ne\	dut	\	LM Publishers	8110	15101
+10382118	ERASMUS	am	2018	m	ne\	dut	\	Verloren	8110	15072
+8813841	ERASMUS	am	2010	b	ne\	dut	\	KIT Publishers	p8155	$zPOOF;poof.library.cornell.edu/node/31181
+10382116	ERASMUS	am	2018	\	ne\	dut	\	NA	8110	15075
+10382117	ERASMUS	am	2018	b	ne\	dut	\	Uitgeverij Kleine Uil	8110	15074
+8812607	ERASMUS	am	2010	\	ne\	dut	\	KIT	p8145	$zPOOF;poof.library.cornell.edu/node/31133
+10382122	ERASMUS	am	2018	b	ne\	dut	\	LM Publishers	8110	15070
+10382124	ERASMUS	am	2017	\	ne\	dut	\	Cecilia Odé Publicaties	8110	15069
+10382125	ERASMUS	am	2017	\	ne\	dut	\	Bronbeek Koninklijk Tehuis voor Oud-Militairen en Museum	8110	15065
+10382126	ERASMUS	am	2018	b	ne\	dut	\	LM Publishers	8110	15063
+10382128	ERASMUS	am	2017	b	ne\	dut	\	WalburgPers	8110	15058
+10250313	ERASMUS	am	2005	\	dk\	dan	\	Gyldendal	2513	12172
+10380036	ERASMUS	am	2018	b	ne\	eng	\	Brill	8110	15007
+10361351	ERASMUS	am	2017	b	ne\	eng	\	John Benjamins Publishing Company	592	14602
+10361353	ERASMUS	am	2016	b	ne\	eng	\	John Benjamins Publishing Company	592	14601
+10361355	ERASMUS	am	2015	b	ne\	eng	\	John Benjamins Publishing Company	592	14599
+10361357	ERASMUS	am	2018	b	ne\	eng	\	John Benjamins Publishing Company	592	14574
+10361358	ERASMUS	am	2018	b	ne\	eng	\	John Benjamins Publishing Company	592	14567
+10361359	ERASMUS	am	2018	b	ne\	eng	\	John Benjamins Publishing Company	592	14563
+10361360	ERASMUS	am	2018	b	ne\	eng	\	John Benjamins Publishing Company	592	14561
+10359742	ERASMUS	am	2017	b	na\	eng	\	Brill	8110	14384
+10299081	ERASMUS	am	2017	b	ne\	eng	\	CRC Press/Balkema	p8155	12734
+10317253	ERASMUS	am	2016	b	ne\	eng	\	Amrit Publishers	p2155	12999
+10298585	ERASMUS	am	2017	b	ne\	dut	\	NA	8110	12645
+10298586	ERASMUS	am	2017	b	ne\	dut	\	W.L.P. (Wolf Legal Publishers)	p8155	12641
+10297922	ERASMUS	am	2015	b	ne\	eng	\	Hotei Publishing	8612	12599
+10297915	ERASMUS	am	2016	b	ne\	eng	\	Brill	8612	12609
+10297917	ERASMUS	am	2016	b	ne\	eng	\	Brill	8612	12608
+10297928	ERASMUS	am	2016	b	ne\	eng	\	Hotei Publishing	8612	12598
+10297931	ERASMUS	am	2017	b	ne\	eng	\	Hotei Publishing	8612	12597
+10297933	ERASMUS	am	2016	b	ne\	eng	\	Eburon	p8155	12576
+10297935	ERASMUS	am	2015	m	ne\	eng	\	[Uitgever niet vastgesteld]	8110	12575
+10297937	ERASMUS	am	2018	b	ne\	eng	\	NA	p8155	12574
+10261948	ERASMUS	am	2018	b	ne\	eng	\	Brill	2021	12267
+10247924	ERASMUS	am	2017	b	ne\	dut	\	Uitgeverij Atlas Contact	2512	11951
+10246906	ERASMUS	am	2012	\	ne\	dut	\	Cossee	2512	11929
+10292387	ERASMUS	am	2018	b	ne\	eng	\	Amsterdam University Press	8110	12384
+10246910	ERASMUS	am	2011	\	ne\	dut	\	De Bezige Bij	2512	11926
+10213267	ERASMUS	am	2018	b	ne\	eng	\	Koninklijke Brill	2115	11174
+10213269	ERASMUS	am	2018	b	ne\	eng	\	Brill	p2155	11173
+10377996	ISIS/LTD	am	2014	\	tu\	eng	f	Republic of Turkey, Ministry of Culture and Tourism	p2156	14919
+10327063	ISIS/LTD	am	2017	\	tu\	eng	\	[Hilaneh Mahmoudi],$c2017.;\3$aSeyrantepe, Kaǧithane	p2155	13390
+10324381	ISIS/LTD	am	2018	b	tu\	eng	\	Libra Kitapçilik ve Yayincilik	p2260	13347
+10206657	ERASMUS	am	2017	b	ne\	eng	\	Brill Rodopi	6310	10891
+10298574	ISIS/LTD	am	2017	b	tu\	tur	\	Hitay	p2155	12662
+10207162	ISIS/LTD	am	2006	b	tu\	tur	\	İnsan yayınları	p2155	10943
+10296869	ISIS/LTD	am	2016	b	tu\	tur	\	Doğan Kitap	p2153	12516
+10296871	ISIS/LTD	am	2016	b	tu\	tur	\	İletişim Yayınları	p2153	12515
+10296872	ISIS/LTD	am	2015	b	tu\	tur	\	İletişim Yayınları	p2153	12514
+10407896	YANKEE/EBK	am	2018	b	mau	eng	\	The Belknap Press of Harvard University Press	p2951	15434
+10406491	YANKEE/EBK	am	2016	\	flu	eng	\	CRC Press	1010	15414
+10406492	YANKEE/EBK	am	2018	b	enk	eng	\	Routledge	1010	15413
+10406495	YANKEE/EBK	am	2014	b	enk	eng	\	Edward Elgar	p1359	15407
+10406490	YANKEE/EBK	am	2018	b	enk	eng	\	Routledge, Taylor & Francis Group	1010	15415
+10406493	YANKEE/EBK	am	2016	\	xx\	eng	\	Wiley	1010	15412
+10406494	YANKEE/EBK	am	2018	\	xx\	eng	\	Apple Academic Press	1010	15411
+10393720	YANKEE/EBK	am	2016	\	enk	eng	\	John Wiley & Sons, Ltd.	p1550	15363
+10406085	YANKEE/EBK	am	2017	b	enk	eng	\	Routledge	p6756	15395
+10405314	YANKEE/EBK	am	2017	b	enk	eng	\	Routledge, Taylor & Francis Group	546	15393
+10387635	YANKEE/EBK	am	2018	\	cc\	eng	\	Hong Kong University Press	2021	15307
+10393506	YANKEE/EBK	am	2013	b	oru	eng	\	Polebridge Press	p2553	15223
+10393455	YANKEE/EBK	am	2018	b	enk	eng	\	Routledge	1010	15332
+10387545	YANKEE/EBK	am	2018	b	nju	eng	\	John Wiley & Sons	p1550	15273
+10385620	YANKEE/EBK	am	2014	b	enk	eng	\	Legenda, Modern Humanities Research Association and Maney Publishing	p2156	15175
+10383923	YANKEE/EBK	am	2018	b	nyu	eng	\	Bloomsbury Publishing	1010	15164
+10384135	YANKEE/EBK	am	2017	b	cc\	eng	\	Hong Kong University Press	2021	15156
+10381485	YANKEE/EBK	am	2013	b	enk	eng	\	Oxford University Press	1010	15029
+10380350	YANKEE/EBK	am	2018	b	enk	eng	\	Wiley	p7254	14981
+10380359	YANKEE/EBK	am	2017	b	nyu	eng	\	Nova Biomedical	p1550	15000
+10380364	YANKEE/EBK	am	2018	b	nju	eng	\	Wiley	p1550	15010
+10380365	YANKEE/EBK	am	2018	b	nju	eng	\	Wiley	p1550	15012
+10380376	YANKEE/EBK	am	2018	b	sz\	eng	\	Springer	p1550	15001
+10379940	YANKEE/EBK	am	2016	\	enk	eng	\	Hackett Publishing Company, Inc.	p7358	14971
+10379991	YANKEE/EBK	am	2000	\	inu	eng	\	Hackett Pub. Co.	p7358	14979
+10378701	YANKEE/EBK	am	1998	b	inu	eng	\	Hackett Pub. Co.	p7358	14974
+10378705	YANKEE/EBK	am	2012	b	inu	eng	\	Hackett Pub. Co.	p7358	14975
+10378709	YANKEE/EBK	am	2003	b	inu	eng	\	Hackett Pub.	p7358	14973
+10377418	YANKEE/EBK	am	2018	\	nyu	eng	\	Guilford Press	1010	14855
+10377431	YANKEE/EBK	am	2018	b	enk	eng	\	Infinite Ideas	1010	14858
+10376323	YANKEE/EBK	am	2017	b	mdu	eng	\	Rowman & Littlefield	p3250	14796
+10376357	YANKEE/EBK	am	2017	\	mau	eng	\	Edward Elgar Publishing	p1157	14512
+10363739	YANKEE/EBK	am	2013	b	enk	eng	\	Palgrave Macmillan	p7358	14793
+10361975	YANKEE/EBK	am	2017	\	mau	eng	\	Edward Elgar Publishing	p1158	14520
+10361980	YANKEE/EBK	am	2018	b	enk	eng	\	Burleigh Dodds Science Publishing Limited	p1158	14516
+10361993	YANKEE/EBK	am	2017	\	xx\	eng	\	Burleigh Dodds Science Publishing	p1158	14514
+10361973	YANKEE/EBK	am	2014	b	aru	eng	\	The University of Arkansas Press	4310	14556
+10360170	YANKEE/EBK	am	2012	b	gw\	eng	\	De Gruyter	7040	14478
+10359108	YANKEE/EBK	am	2017	b	mdu	eng	\	Lexington Books	2021	14288
+10359117	YANKEE/EBK	am	2003	b	enk	eng	\	Hong Kong University Press ;$a[London] :$b[Eurospan] (distributor)	2021	14276
+10358004	YANKEE/EBK	am	2015	b	ne\	eng	\	Wageningen Academic Publishers	p1550	14212
+10357942	YANKEE/EBK	am	2017	b	enk	eng	\	Caister Academic Press	p1550	14237
+10357951	YANKEE/EBK	am	2016	b	xx\	eng	\	Caister Academic Press	p1550	14235
+10357958	YANKEE/EBK	am	2018	b	enk	eng	\	Routledge, Taylor & Francis Group	p1550	14232
+10357966	YANKEE/EBK	am	2015	b	ne\	eng	\	Wageningen Academic Publishers	p1550	14219
+10357972	YANKEE/EBK	am	2017	b	ne\	eng	\	Wageningen Academic Publishers	p1550	14218
+10357973	YANKEE/EBK	am	2016	b	ne\	eng	\	Wageningen Academic Publishers	p1550	14217
+10357974	YANKEE/EBK	am	2016	b	ne\	eng	\	Wageningen Academic Publishers	p1550	14216
+10357975	YANKEE/EBK	am	2016	b	ne\	eng	\	Wageningen Academic Publishers	p1550	14214
+10357976	YANKEE/EBK	am	2017	\	ne\	eng	\	Wageningen Academic Publishers	p1550	14213
+10357978	YANKEE/EBK	am	2004	b	ne\	eng	\	Wageningen Academic Publishers ;$aParis :$bINRA	p1550	14211
+10356265	YANKEE/EBK	am	2018	b	enk	eng	\	Edward Elgar Publishing	p1358	14131
+10356364	YANKEE/EBK	am	2016	b	enk	eng	\	Edward Elgar Publishing	591	14146
+10356369	YANKEE/EBK	am	2017	b	enk	eng	\	Emerald Publishing  Limited	591	14147
+10353074	YANKEE/EBK	am	2015	b	ilu	eng	\	The University of Chicago Press	p2064	13960
+10352982	YANKEE/EBK	am	2014	b	nyu	eng	\	Cambria Press	2021	13919
+10352607	YANKEE/EBK	am	2018	b	ksu	eng	\	University Press of Kansas	2021	13873
+10345452	YANKEE/EBK	am	2016	b	mdu	eng	\	Rowman & Littlefield	8110	13798
+10345459	YANKEE/EBK	am	2011	b	mdu	eng	\	Scarecrow Press	8110	13797
+10345464	YANKEE/EBK	am	2007	b	mdu	eng	\	Scarecrow Press	8110	13795
+10345481	YANKEE/EBK	am	2018	b	onc	eng	\	University of Toronto Press	p7350	13813
+10335194	YANKEE/EBK	am	2018	b	cau	eng	\	ABC-CLIO, an imprint of ABC-CLIO, LLC	2021	13713
+10329439	YANKEE/EBK	am	2008	b	mdu	eng	\	Scarecrow Press	8110	13555
+10329440	YANKEE/EBK	am	2006	b	mdu	eng	\	Scarecrow Press	8110	13554
+10329441	YANKEE/EBK	am	2013	b	mdu	eng	\	Scarecrow Press	p2064	13550
+10328878	YANKEE/EBK	am	2017	\	ne\	eng	\	Elsevier	p7291	13512
+10320476	YANKEE/EBK	am	2015	b	tnu	eng	\	Vanderbilt University Press	p4050	13066
+10320459	YANKEE/EBK	am	2018	b	enk	eng	\	Routledge	2021	13094
+10319260	YANKEE/EBK	am	2017	b	enk	eng	\	Zed Books	p7358	13018
+10316547	YANKEE/EBK	am	2016	b	nyu	eng	\	Viking	p6551	12948
+10317448	YANKEE/EBK	am	2014	b	nyu	eng	\	Penguin Books	p6551	12947
+10300133	YANKEE/EBK	am	2015	b	ne\	eng	\	Wageningen Academic Publishers	1010	12768
+10299491	YANKEE/EBK	am	2018	b	enk	eng	\	Woodhead Publishing, an imprint of Elsevier	p1176	12703
+10297313	YANKEE/EBK	am	2018	\	ilu	eng	\	Association of College and Research Libraries, a division of the American Library Association	p3250	12513
+10296722	YANKEE/EBK	am	2015	b	ncu	eng	\	McFarland & Company, Inc., Publishers	2021	12501
+10295970	YANKEE/EBK	am	2014	\	vtu	eng	\	Tuttle Publishing	8611	12471
+10294895	YANKEE/EBK	am	2018	b	nyu	eng	\	New York University Press	p3250	12419
+10295268	YANKEE/EBK	am	2010	b	dk\	eng	\	NIAS	2021	12443
+10294342	YANKEE/EBK	am	2017	b	hk\	eng	\	Hong Kong University Press	p2064	12424
+10293133	YANKEE/EBK	am	2006	b	nbu	eng	s	University of Nebraska Press	p7358	12408
+10292660	YANKEE/EBK	am	2012	b	ilu	eng	\	IVP Books	1010	12371
+10262452	YANKEE/EBK	am	2018	\	mdu	eng	\	Rowman & Littlefield	p3250	12244
+10260711	YANKEE/EBK	am	2018	b	mdu	eng	\	Rowman & Littlefield	p2065	11825
+10250026	YANKEE/EBK	am	2014	\	nyu	eng	\	Knopf	p7358	12065
+10247840	YANKEE/EBK	am	2014	b	enk	eng	\	Edward Elgar Publishing	1340	11945
+10262455	YANKEE/EBK	am	2016	b	ilu	eng	\	Neal-Schuman, an imprint of the American Library Association	p3250	12245
+10252178	YANKEE/EBK	am	2018	b	nyu	eng	\	Routledge, Taylor & Francis Group	1010	12158
+10286900	YANKEE/EBK	am	2017	b	flu	eng	\	CRC Press	1010	12274
+10246813	YANKEE/EBK	am	2018	b	enk	eng	\	Woodhead Publishing, an imprint of Elsevier	p1176	11828
+10246814	YANKEE/EBK	am	2018	b	enk	eng	\	Woodhead Publishing, an imprint of Elsevier	p1176	11827
+10246757	YANKEE/EBK	am	2018	b	cau	eng	\	Stanford University Press	1010	11886
+10245572	YANKEE/EBK	am	2017	b	gw\	eng	\	Walter de Gruyter GmbH	p3166	11803
+10242676	YANKEE/EBK	am	2016	6	enk	eng	\	Icon Books Ltd	p7358	11754
+10242681	YANKEE/EBK	am	2017	b	nyu	eng	\	New York University Press	p7358	11753
+7478081	YANKEE/EBK	am	2008	b	ctu	eng	\	Yale University Press	p4450	$zPOOF;poof.library.cornell.edu/node/4632
+10242203	YANKEE/EBK	am	2017	b	ilu	eng	\	Charles C Thomas, Publisher, Ltd.	p1177	11721
+10240712	YANKEE/EBK	am	2015	b	cou	eng	\	Westview Press	p7054	11703
+10240158	YANKEE/EBK	am	2017	b	mau	eng	\	De Gruyter	p7358	11708
+10240164	YANKEE/EBK	am	2017	b	nyu	eng	\	Oxford University Press	p7358	11707
+10239887	YANKEE/EBK	am	2014	\	xx\	eng	\	Taylor and Francis	p1159	11671
+10237075	YANKEE/EBK	am	2002	\	enk	eng	\	Routledge	p7358	11596
+10240708	YANKEE/EBK	am	2013	b	ne\	eng	\	Elsevier :$bAcademic Press	p7291	11701
+10233883	YANKEE/EBK	am	2014	b	nju	eng	\	Wiley	p7051	11568
+10233911	YANKEE/EBK	am	2017	b	flu	eng	\	CRC Press	p1161	11557
+10236711	YANKEE/EBK	am	2000	b	onc	eng	\	University of Toronto Press	1340	11659
+10232420	YANKEE/EBK	am	2006	b	flu	eng	\	Taylor & Francis	p7250	11533
+10225719	YANKEE/EBK	am	2015	b	enk	eng	\	Zed Books	1340	11359
+10213575	YANKEE/EBK	am	2015	b	cau	eng	\	University of California Press	p7358	11146
+10215365	YANKEE/EBK	am	2016	b	cau	eng	\	i-5 Publishing, LLC	1510	11322
+10213400	YANKEE/EBK	am	2007	b	mdu	eng	\	Rowman & Littlefield Publishers	1340	11129
+10208190	YANKEE/EBK	am	2018	\	enk	eng	\	Woodhead Publishing	p1176	11065
+10207969	YANKEE/EBK	am	2016	b	enk	eng	\	Hoboken, NJ, USA :$cJohn Wiley & Sons, Inc.	1010	10987
+10207585	YANKEE/EBK	am	2013	b	enk	eng	\	Cambridge University Press	1340	10980
+10207339	YANKEE/EBK	am	2015	b	nyu	eng	\	The Guilford Press	p7059	10965
+10208187	YANKEE/EBK	am	2017	\	xx\	eng	\	Sussex Academic Press	2616	11033
+10407861	COUTTSUK	am	2018	\	uik	eng	\	Michael Joseph, an imprint of Penguin Books	p8350	15432
+10407866	COUTTSUK	am	2017	\	enk	eng	\	Orenda Books	p8350	15428
+10407864	COUTTSUK	am	2016	\	enk	eng	\	Orenda Books	p8350	15430
+10407863	COUTTSUK	am	2017	\	enk	eng	\	Orenda Books	p8350	15431
+10407848	COUTTSUK	am	2018	b	is\	eng	\	Urim Publications	p2255	15435
+10407843	COUTTSUK	am	2017	b	no\	nor	\	Det Norske Samlaget	p2853	15447
+10407844	COUTTSUK	am	2015	b	no\	nor	\	Det Norske Samlaget	p8350	15445
+10407845	COUTTSUK	am	2013	b	no\	nor	\	Dreyers Forlag	p8350	15444
+10407847	COUTTSUK	am	2017	b	ctu	eng	\	Menorah Books	p2255	15437
+10407463	COUTTSUK	am	2018	\	nyu	eng	\	Minotaur Books	p8350	15427
+10407462	COUTTSUK	am	2017	\	nyu	eng	\	Minotaur Books	p8350	15429
+10406688	COUTTSUK	am	2017	\	nyu	eng	\	Minotaur Books, an imprint of St. Martin's Press	p8350	15425
+10406684	COUTTSUK	am	2018	\	nyu	eng	\	Minotaur Books	p8350	15426
+10405641	COUTTSUK	am	2018	\	enk	eng	\	Hodder & Stoughton	p8350	15402
+10405644	COUTTSUK	am	2017	\	nyu	eng	\	Minotaur Books	p8350	15400
+10405645	COUTTSUK	am	2018	\	nyu	eng	\	Minotaur Books	p8350	15396
+10405648	COUTTSUK	am	2015	\	si\	eng	\	Monsoon Books Pte Ltd	8144	15404
+10405608	COUTTSUK	am	2016	\	nyu	eng	\	Minotaur	p8350	15403
+10405610	COUTTSUK	am	2017	\	enk	eng	\	Hodder & Stoughton	p8350	15397
+10405221	COUTTSUK	am	2015	b	nyu	eng	\	The Modern Language Association of America	p3150	15392
+10405222	COUTTSUK	am	2018	b	enk	eng	\	Edward Elgar Publishing	p1359	15390
+10405224	COUTTSUK	am	2018	b	nyu	eng	\	The Modern Language Association of America	p3190	15382
+10404252	COUTTSUK	am	2018	\	nyu	eng	\	Skyhorse Publishing	p2251	15371
+10404253	COUTTSUK	am	2018	\	nyu	eng	\	Harper, an imprint of HarperCollinsPublishers	p2251	15370
+10403563	COUTTSUK	am	2017	b	mau	eng	\	Bedford/St. Martin's	p559	15366
+10403563	COUTTSUK	am	2017	b	mau	eng	\	Bedford/St. Martin's	p559	15366
+10393533	COUTTSUK	am	2017	\	nyu	eng	\	Gallery Books	p2952	15315
+10387623	COUTTSUK	am	2018	b	ne\	eng	\	Brill	p3350	15288
+10386002	COUTTSUK	am	2017	b	inu	eng	\	Xlibris, LLC	8110	15262
+10385688	COUTTSUK	am	2017	\	xx\	eng	\	Glen Haynie	8110	15266
+10385683	COUTTSUK	am	2017	b	cau	eng	\	Praeger, an imprint of ABC-CLIO, LLC	8110	15270
+10385686	COUTTSUK	am	2017	b	ncu	eng	\	McFarland & Company, Inc., Publishers	8110	15269
+10385687	COUTTSUK	am	2017	b	msu	eng	\	Veterans of Foreign Wars	8110	15267
+10385689	COUTTSUK	am	2017	\	nyu	eng	\	Morgan James Publishing	8110	15265
+10385690	COUTTSUK	am	2017	\	flu	eng	\	Mango Publishing Group, a division of Mango Media Inc.	8110	15264
+10385691	COUTTSUK	am	2017	\	flu	eng	\	Mill City Press	8110	15260
+10385692	COUTTSUK	am	2017	b	enk	eng	\	Fonthill	8110	15259
+10385693	COUTTSUK	am	2017	b	xx\	eng	\	[CreateSpace Independent Publishing Platform]	8110	15258
+10385694	COUTTSUK	am	2017	b	inu	eng	\	iUniverse	8110	15257
+10385695	COUTTSUK	tm	2017	\	txu	eng	\	Burkhart Books	8110	15256
+10385696	COUTTSUK	am	2017	b	inu	eng	\	XLIBRIS	8110	15255
+10385697	COUTTSUK	am	2017	b	xxu	eng	\	[CreateSpace Independent Publishing Platform]	8110	15254
+10385698	COUTTSUK	am	2017	\	nyu	eng	\	Page Publishing, Inc.	8110	15253
+10385699	COUTTSUK	am	2017	\	wiu	eng	\	CKBooks	8110	15252
+10385700	COUTTSUK	am	2017	\	txu	eng	\	Lucid Books	8110	15251
+10385701	COUTTSUK	am	2017	b	dcu	eng	\	United States Copyright Office	8110	15250
+10385702	COUTTSUK	am	2018	b	enk	eng	\	New York, NY :$bRoutledge	p2156	15246
+10385148	COUTTSUK	am	2017	b	ilu	eng	\	Distributed by University of Chicago Press;\4$c©2017;\1$aAmsterdam :$bAmsterdam University Press	8110	15239
+10385203	COUTTSUK	am	2018	b	io\	eng	\	Equinox Publishing	8110	15219
+10385680	COUTTSUK	am	2018	b	ilu	eng	\	ALA Editions	p3250	15249
+10385142	COUTTSUK	am	2017	\	cau	eng	\	[Charles J. Liteky and Judith Balch Liteky Trust]	8110	15186
+10385132	COUTTSUK	am	2017	\	kyu	eng	\	[manufacturer unidentified]	8110	15190
+10385135	COUTTSUK	am	2018	\	xx\	eng	\	[publisher not identified]	8110	15189
+10385139	COUTTSUK	am	2015	\	xxu	eng	\	[The author]	8110	15188
+10385146	COUTTSUK	am	2017	\	mnu	eng	\	City Limits Press	8110	15184
+10385151	COUTTSUK	am	2017	b	xxu	eng	\	[publisher not identified]	8110	15183
+10385155	COUTTSUK	am	2017	\	xx\	eng	\	[the author]	8110	15182
+10385159	COUTTSUK	am	2017	\	xxu	eng	\	[s.n.]	8110	15181
+10385136	COUTTSUK	am	2015	\	txu	eng	\	River Grove Books	8110	15215
+10385124	COUTTSUK	am	2018	\	nyu	eng	\	Skyhorse Publishing	8110	15217
+10385129	COUTTSUK	am	2017	\	txu	eng	\	River Grove Books	8110	15216
+10385143	COUTTSUK	am	2017	\	ctu	eng	\	[publisher not identified]	8110	15213
+10385147	COUTTSUK	am	2017	\	ilu	eng	\	Joshua Tree Publishing	8110	15212
+10385150	COUTTSUK	am	2017	\	scu	eng	\	CreateSpace Independent Publishing Platform	8110	15211
+10385153	COUTTSUK	am	2017	b	ilu	eng	\	G. Anton Publisher	8110	15210
+10385157	COUTTSUK	am	2017	\	xxu	eng	\	Chopper Books	8110	15208
+10385160	COUTTSUK	am	2017	\	xxu	eng	\	[publisher not identified]	8110	15207
+10385162	COUTTSUK	am	2017	\	inu	eng	\	iUniverse	8110	15206
+10385165	COUTTSUK	am	2017	\	xxu	eng	\	WJH Books	8110	15205
+10385167	COUTTSUK	am	2018	|	cau	eng	\	[CreateSpace Publishing]	8110	15204
+10385169	COUTTSUK	am	2017	\	cau	eng	\	[Lew Jennings]	8110	15203
+10385172	COUTTSUK	am	2017	\	cau	eng	\	Joseph M. Tong	8110	15202
+10385174	COUTTSUK	am	2017	\	nju	eng	\	Elephant's Bookshelf Press	8110	15199
+10385175	COUTTSUK	am	2017	b	vau	eng	\	Potomac Institute Press	8110	15198
+10385176	COUTTSUK	am	2017	\	nyu	eng	\	Merriam Press	8110	15197
+10385177	COUTTSUK	am	2017	b	cau	eng	\	Tarnaby	8110	15195
+10385178	COUTTSUK	am	2017	\	cau	eng	\	Marlea Press	8110	15194
+10385179	COUTTSUK	am	2017	\	xxu	eng	\	[publisher not identified]	8110	15193
+10385180	COUTTSUK	am	2017	b	scu	eng	\	CreateSpace Independent Publishing Platform	8110	15192
+10385181	COUTTSUK	am	2017	\	xxu	eng	\	[publisher not identified]	8110	15191
+10383702	COUTTSUK	am	2018	b	nju	eng	\	John Wiley & Sons, Inc.	591	15163
+10383349	COUTTSUK	am	2018	b	ncu	eng	\	McFarland & Company, Inc., Publishers	8110	15158
+10383346	COUTTSUK	am	2017	\	inu	eng	\	Balboa Press	8110	15160
+10383348	COUTTSUK	am	2018	b	cou	eng	\	Outskirts Press	8110	15159
+10383351	COUTTSUK	am	2017	\	inu	eng	\	AuthorHouse	8110	15157
+10383352	COUTTSUK	am	2018	b	mnu	eng	s	University of Minnesota Press	p2952	15150
+10383354	COUTTSUK	am	2018	b	mnu	eng	\	Anselm Academic	p2156	15148
+10383355	COUTTSUK	am	2019	b	sz\	eng	\	Palgrave Macmillan	p2156	15147
+10383325	COUTTSUK	am	2017	\	xx\	eng	\	Monsoon	8110	15128
+10096021	COUTTSUK	am	2018	b	cau	eng	\	Stanford University Press	p8352	9740
+10382913	COUTTSUK	am	2017	b	cau	eng	\	Bridge21	8610	15146
+10382923	COUTTSUK	am	2017	\	enk	eng	\	John Beaufoy Publishing Limited	8110	15145
+10382926	COUTTSUK	am	2016	b	gw\	eng	\	GRIN Publishing	8110	15144
+10382930	COUTTSUK	am	2017	b	dcu	eng	\	World Bank Group	8110	15142
+10382932	COUTTSUK	am	2017	\	pau	eng	\	Christian Faith Publishing, Inc.	8110	15141
+10382934	COUTTSUK	am	2017	\	xx\	eng	\	WTIU	8110	15140
+10382936	COUTTSUK	am	2017	\	inu	eng	\	NA	8110	15139
+10382938	COUTTSUK	am	2017	\	xx\	eng	\	NA	8110	15138
+10382939	COUTTSUK	am	2017	b	inu	eng	\	iUniverse	8110	15137
+10382941	COUTTSUK	am	2017	\	xx\	eng	\	Bloomsbury	8110	15136
+10382943	COUTTSUK	am	2017	b	gw\	eng	\	Kassel University Press	8110	15135
+10096021	COUTTSUK	am	2018	b	cau	eng	\	Stanford University Press	p8352	9740
+10382945	COUTTSUK	am	2017	\	xx\	eng	u	NA	8110	15134
+10382947	COUTTSUK	am	2017	b	enk	eng	\	Writersworld	8110	15132
+10382948	COUTTSUK	am	2017	b	ncu	eng	\	Information Age Publishing, Inc.	8110	15131
+10382949	COUTTSUK	am	2017	\	enk	eng	\	Onwards and Upwards Publishers	8110	15130
+10382950	COUTTSUK	am	2017	b	gw\	eng	\	Anchor Academic Publishing	8110	15129
+10382951	COUTTSUK	am	2017	\	inu	eng	\	Xlibris	8110	15124
+10382952	COUTTSUK	am	2017	\	xx\	eng	\	NA	8110	15118
+10382953	COUTTSUK	am	2017	\	nyu	eng	\	Atria Books	p2156	15112
+10382495	COUTTSUK	am	2018	b	stk	eng	\	Edinburgh University Press	8110	15049
+10382113	COUTTSUK	am	2018	b	enk	eng	\	Bloomsbury Academic	2021	15077
+10382119	COUTTSUK	am	2018	b	oru	eng	\	Sussex Academic Press	8110	15048
+10382121	COUTTSUK	am	2018	\	cau	eng	\	[manufacturer not identified];\1$a[United States?] :$b[publisher not identified]	8110	15047
+10382123	COUTTSUK	am	2018	b	gw\	eng	\	Gerlach Press	p2156	15045
+10381796	COUTTSUK	am	2018	b	tnu	eng	\	Frist Center for the Visual Arts in association with Vanderbilt University Press	p2952	15041
+10381792	COUTTSUK	am	2018	b	mau	eng	\	Polity Press	p2952	15043
+10381795	COUTTSUK	am	2018	b	enk	eng	\	Polity Press	p2952	15042
+10381798	COUTTSUK	am	2018	b	enk	eng	\	I.B. Tauris & Co. Ltd	p2156	15038
+10381799	COUTTSUK	am	2017	b	enk	eng	\	Other Criteria	p6794	15036
+10380805	COUTTSUK	am	2018	\	nyu	eng	\	Touchstone	p2156	15027
+10380035	COUTTSUK	am	2018	b	gau	eng	\	Clarity Press, Inc.	8110	15021
+10380039	COUTTSUK	am	2018	\	nsc	eng	\	Pottersfield Press	8110	15017
+10380041	COUTTSUK	am	2018	b	ncu	eng	\	McFarland & Company, Inc., Publishers	8110	15013
+10380042	COUTTSUK	am	2018	b	enk	eng	\	Hurst & Company	8141	15011
+10380043	COUTTSUK	am	2018	b	mau	eng	\	De Gruyter Mouton	8110	15004
+10380044	COUTTSUK	am	2018	b	enk	eng	\	I.B. Tauris	8110	15003
+10380045	COUTTSUK	am	2017	\	sw\	swe	\	Norstedts	2513	14996
+10376716	COUTTSUK	am	2017	\	vm\	eng	\	Metro Writers,$c[2017];\3$aRaleigh, NC :$bLulu Press	8110	14845
+10378139	COUTTSUK	am	2017	b	enk	eng	\	John Beaufoy Publishing	8110	14929
+10378144	COUTTSUK	am	2017	\	nyu	eng	\	Arthur A. Levine Books, an imprint of Scholastic Inc.	6310	14963
+9718068	COUTTSUK	am	2016	b	dcu	eng	\	Brookings Institution Press	8110	14927
+10357980	COUTTSUK	am	2018	b	enk	eng	\	Bloomsbury Publishing	6310	14958
+10378001	COUTTSUK	am	2018	\	xx\	eng	\	HATJE CANTZ	p2553	14936
+10378004	COUTTSUK	am	2017	\	txu	eng	\	Greenleaf Book Group Press	8110	14932
+10378005	COUTTSUK	am	2017	\	cou	eng	\	Tradelinks International	8110	14931
+10378009	COUTTSUK	am	2017	\	nyu	eng	\	Marshall Cavendish Editions	8110	14930
+10378011	COUTTSUK	am	2017	b	enk	eng	\	Bloomsbury Natural History, an imprint of Bloomsbury Publishing Plc	8110	14928
+10378014	COUTTSUK	am	2016	\	nyu	eng	\	William Morrow, an imprint of HarperCollins Publishers	8110	14926
+9718068	COUTTSUK	am	2016	b	dcu	eng	\	Brookings Institution Press	8110	14927
+10357980	COUTTSUK	am	2018	b	enk	eng	\	Bloomsbury Publishing	6310	14958
+10086191	COUTTSUK	am	2017	b	cou	eng	\	Fulcrum Publishing	6310	14959
+10378018	COUTTSUK	am	2017	b	oru	eng	\	Pickwick Publications	8110	14923
+10378023	COUTTSUK	am	2017	\	cau	eng	\	City Lights Books	6310	14961
+10086191	COUTTSUK	am	2017	b	cou	eng	\	Fulcrum Publishing	6310	14959
+10378019	COUTTSUK	am	2017	b	enk	eng	\	Routledge, Taylor & Francis Group	8110	14922
+10378020	COUTTSUK	am	2017	\	nyu	eng	\	Akashic Books	6310	14965
+10378021	COUTTSUK	am	2017	6	nyu	eng	\	Tu Books, an imprint of Lee & Low Books Inc.	6310	14964
+10378022	COUTTSUK	am	2018	\	nyu	eng	\	Henry Holt and Company	6310	14962
+10378024	COUTTSUK	am	2017	\	nyu	eng	\	37 Ink/Atria	6310	14960
+10378025	COUTTSUK	am	2018	\	nyu	eng	\	Edge of Sports	6310	14957
+10378026	COUTTSUK	am	2017	\	ilu	eng	\	Bolden, an Agate imprint	6310	14956
+10378027	COUTTSUK	am	2018	\	cau	eng	\	Raincloud Press	6310	14955
+10378028	COUTTSUK	am	2017	\	enk	eng	\	New Internationalist Publications Ltd ;$aAuckland Park, Johannesburg :$bJacana Media (Pty) Ltd	6310	14954
+10378029	COUTTSUK	am	2018	c	nyu	eng	\	Rizzoli Electa	6310	14953
+10378016	COUTTSUK	am	2017	b	ne\	eng	\	John Benjamins Publishing Company	8110	14924
+10377644	COUTTSUK	am	2015	b	nyu	eng	\	The Edwin Mellen Press	p2952	14913
+10377653	COUTTSUK	am	2015	\	nyu	eng	\	Metropolitan Books, Henry Holt and Company	p2251	14874
+10377654	COUTTSUK	am	2018	\	sa\	eng	\	African Perspectives Publishing	p2160	14870
+10376983	COUTTSUK	am	2015	b	enk	eng	\	Bloomsbury	592	14865
+10376986	COUTTSUK	am	2015	b	enk	eng	\	Bloomsbury Academic, an imprint of Bloomsbury Publishing Plc	592	14864
+10376988	COUTTSUK	am	2017	b	enk	eng	\	Bloomsbury Academic, an imprint of Bloomsbury Publishing, Plc	592	14863
+10376989	COUTTSUK	am	2000	b	enk	spa	\	University of Birmingham Press	592	14860
+9268185	COUTTSUK	am	2015	\	nyu	eng	\	Roc	3110	$zPOOF;poof.library.cornell.edu/node/41859
+9268185	COUTTSUK	am	2015	\	nyu	eng	\	Roc	3110	$zPOOF;poof.library.cornell.edu/node/41859
+10250305	COUTTSUK	am	2017	b	dk\	dan	\	Gyldendal	2513	12177
+10376452	COUTTSUK	am	2006	b	xna	eng	\	Allen & Unwin	6714	14813
+10376466	COUTTSUK	am	2005	b	mau	eng	\	Skinner House Books	3111	14808
+10376469	COUTTSUK	am	2008	b	cau	eng	\	Celestial Arts	p3153	14807
+10376453	COUTTSUK	am	2012	b	enk	eng	\	Bloomsbury Academic	592	14835
+10376447	COUTTSUK	am	2017	b	pau	eng	\	Eduka Solutions & Tesko Publishing	8110	14844
+10376448	COUTTSUK	am	2017	\	scu	eng	\	[CreateSpace]	8110	14839
+10376449	COUTTSUK	am	2017	b	vtu	eng	\	Tuttle Pub.	8110	14838
+10376450	COUTTSUK	am	2017	\	ncu	eng	\	Happy Valley Press	8110	14837
+10376455	COUTTSUK	am	2017	b	xxu	eng	\	[Ted Case]	8110	14836
+10376457	COUTTSUK	am	2015	b	enk	eng	\	Bloomsbury Academic, an imprint of Bloomsbury Publishing Plc	592	14834
+10376462	COUTTSUK	am	2018	b	enk	eng	\	C. Hurst & Co. (Publishers)	p2160	14832
+10376464	COUTTSUK	am	2018	b	enk	eng	\	Bloomsbury Academic, an imprint of Bloomsbury Publishing Plc	592	14831
+10376467	COUTTSUK	am	2018	b	enk	eng	\	Bloomsbury Academic	592	14830
+10376470	COUTTSUK	am	2017	b	ilu	eng	\	Curbstone Books, Northwestern University Press	8110	14828
+10376471	COUTTSUK	am	2017	b	inu	eng	\	Archway Publishing	8110	14827
+10376472	COUTTSUK	am	2015	\	sw\	swe	\	Bromberg	2513	14826
+10376473	COUTTSUK	am	2015	\	sw\	swe	\	NA	2513	14825
+10376474	COUTTSUK	am	2016	\	sw\	swe	\	Brombergs	2513	14823
+10376475	COUTTSUK	am	2018	\	nyu	eng	\	Edwin Mellen Press	p6352	14822
+10376477	COUTTSUK	am	2017	b	nyu	eng	\	Edwin Mellen Press	p6352	14820
+10376478	COUTTSUK	am	2017	b	nyu	eng	\	The Edwin Mellen Press	p6352	14818
+10376479	COUTTSUK	am	2016	b	nyu	eng	\	Edwin Mellen Press	p6352	14817
+10376432	COUTTSUK	am	2018	\	us\	eng	0	United Artists Books	p3151	14732
+10376425	COUTTSUK	am	2017	b	si\	eng	\	Marshall Cavendish Editions	8110	14748
+10363463	COUTTSUK	am	2018	\	nyu	eng	\	Futurepoem Books	p3159	14731
+10363458	COUTTSUK	am	2018	b	idu	eng	\	Ahsahta Press	3111	14735
+10363462	COUTTSUK	am	2018	\	ohu	eng	\	Dos Madres	p3159	14733
+10363511	COUTTSUK	am	2014	b	ilu	eng	\	Haymarket Books	6343	14745
+10363453	COUTTSUK	am	2015	b	mdu	eng	\	Rowman & Littlefield	6343	14739
+10363454	COUTTSUK	am	2015	b	mdu	eng	\	Rowman & Littlefield	6343	14738
+10362979	COUTTSUK	am	2017	b	th\	eng	\	Orchid Press	6343	14705
+10362933	COUTTSUK	am	2017	b	inu	eng	\	Trafford	8110	14721
+10362935	COUTTSUK	am	2017	\	wiu	eng	\	DCI Communications	8110	14720
+10362937	COUTTSUK	am	2017	\	scu	eng	\	Covenant Books, Inc.	8110	14719
+10362938	COUTTSUK	am	2018	b	nyu	eng	\	Balzer + Bray, an imprint of HarperCollins Publishers	6343	14704
+10362944	COUTTSUK	am	2017	b	nyu	eng	\	St. Martin's Press	6343	14701
+10362946	COUTTSUK	am	2015	b	xx\	eng	\	[Joseph L. Kyle]	6343	14691
+10362951	COUTTSUK	am	2018	b	nyu	eng	\	Amistad, an imprint of HarperCollins Publishers	6343	14688
+10362953	COUTTSUK	am	2016	b	miu	eng	\	Brazos Press	6343	14686
+10362926	COUTTSUK	am	2017	\	mou	eng	\	Acclaim Press	8110	14724
+10362930	COUTTSUK	am	2017	\	scu	eng	\	[CreateSpace Independent Publishing Platform]	8110	14722
+10362007	COUTTSUK	am	2018	b	ne\	eng	\	John Benjamins Publishing Company	592	14595
+10362008	COUTTSUK	am	2014	\	nyu	eng	\	Penguin Books	NA	NA
+10362022	COUTTSUK	am	2017	b	nyu	eng	\	Viking	6343	14653
+10361348	COUTTSUK	am	2018	\	ilu	eng	\	Trade distribution in the US, Consortium Book Sales and Distribution,$c[2018];\1$aChicago, Illinois :$bHaymarket Books	6343	14672
+10361352	COUTTSUK	am	2016	b	nyu	eng	\	Blue Rider Press	6343	14670
+10361356	COUTTSUK	am	2016	b	nyu	eng	\	Penguin Books	6343	14661
+10361362	COUTTSUK	am	2017	b	nyu	eng	\	Penguin Books	6343	14659
+10361363	COUTTSUK	am	2016	\	nyu	eng	\	Plume Book	6343	14656
+10361364	COUTTSUK	am	2017	b	nyu	eng	\	Penguin Books	6343	14654
+10361365	COUTTSUK	am	2017	b	nyu	eng	\	Caliber	6343	14649
+10361366	COUTTSUK	am	2017	b	nyu	eng	\	Penguin Books	6343	14646
+10361367	COUTTSUK	am	2018	b	ne\	eng	\	John Benjamins Publishing Company	592	14588
+10361368	COUTTSUK	am	2018	\	xx\	eng	\	John Benjamins Publishing Company	592	14586
+10361369	COUTTSUK	am	2018	\	xx\	eng	\	NA	592	14579
+10360685	COUTTSUK	am	2017	\	scu	eng	\	Hoàng Chi Trương	8110	14552
+10360681	COUTTSUK	am	2017	b	nyu	eng	\	Racehorse Publishing	8110	14555
+10360683	COUTTSUK	am	2017	\	dcu	eng	\	WND Books,$c[2017];\4$a©2012;\2$aNew York	8110	14554
+10360684	COUTTSUK	am	2017	\	nyu	eng	\	Nova Science Publishers	8110	14553
+10360686	COUTTSUK	am	2017	b	xxu	eng	\	Richlyn Publishing	8110	14551
+10360687	COUTTSUK	am	2017	\	pau	eng	\	Sunbury Press	8110	14550
+10360689	COUTTSUK	am	2017	\	nyu	eng	\	Nova Science Publishers	8110	14548
+10360692	COUTTSUK	am	2017	b	enk	eng	\	Routledge	8110	14547
+10360693	COUTTSUK	am	2017	\	ncu	eng	\	St. Andrews University Press	8110	14545
+10360697	COUTTSUK	am	2017	\	vtu	eng	\	Pro Lingua Associates	8110	14544
+10360698	COUTTSUK	am	2017	\	inu	eng	\	iUniverse	8110	14543
+10360699	COUTTSUK	am	2017	b	enk	eng	\	Osprey Publishing	8110	14541
+10360700	COUTTSUK	am	2017	\	cau	eng	\	Weeping Willow Books	8110	14540
+10360701	COUTTSUK	am	2017	\	xxu	eng	\	OddInt Media	8110	14539
+10360702	COUTTSUK	am	2018	b	enk	eng	\	Renaissance Books	8110	14534
+10360703	COUTTSUK	am	2017	\	nsc	eng	\	Pottersfield Press	8110	14513
+10360704	COUTTSUK	am	2017	b	enk	eng	\	Routledge, Taylor & Francis Group	8110	14506
+10360019	COUTTSUK	am	\\\\	\	\\\	\\\	\	Third World Press Foundation	NA	NA
+10360027	COUTTSUK	am	\\\\	\	\\\	\\\	\	Third World Press Foundation	NA	NA
+10359819	COUTTSUK	am	2017	\	enk	eng	\	John Beaufoy Publishing	8110	14386
+10359848	COUTTSUK	am	2017	b	enk	eng	\	Routledge	8110	14379
+10359856	COUTTSUK	am	2017	b	enk	eng	\	Routledge, Taylor & Francis Group	8110	14376
+10359859	COUTTSUK	am	2015	b	enk	eng	\	Palgrave Macmillan	2021	14369
+4033938	COUTTSUK	am	2016	b	ilu	eng	\	Third World Press	6310	14425
+10359884	COUTTSUK	am	2017	b	si\	eng	\	Palgrave Macmillan	8110	14387
+10359747	COUTTSUK	am	2017	b	enk	eng	\	Routledge, an imprint of the Taylor & Francis Group	8110	14385
+10359740	COUTTSUK	am	2017	b	pau	eng	\	IGI Global, Business Science Reference	8110	14390
+10359744	COUTTSUK	am	2017	b	dcu	eng	\	International Bank for Reconstruction and Development / The World Bank	8110	14389
+10359745	COUTTSUK	am	2017	b	miu	eng	\	Discovery House	8110	14388
+10359749	COUTTSUK	am	2017	b	enk	eng	\	Routledge/Taylor & Francis Group	8110	14383
+10359753	COUTTSUK	am	2017	b	enk	eng	\	Bloomsbury Academic, an imprint of Bloomsbury Publishing Plc	8110	14381
+10359756	COUTTSUK	am	2017	b	nyu	eng	\	Berghahn Books	8110	14380
+10359757	COUTTSUK	am	2017	b	dk\	eng	\	NIAS Press	8110	14375
+10359759	COUTTSUK	am	2018	b	nju	eng	\	Africa World Press	6342	14444
+10359760	COUTTSUK	am	2017	b	nju	eng	\	Africa World Press ;$aHalifax :$bFernwood Publishing	p6390	14443
+10359763	COUTTSUK	am	2016	b	flu	eng	\	Mind Productions & Associates, Inc.	6343	14442
+10359764	COUTTSUK	am	2016	b	nju	eng	\	The Red Sea Press	6343	14441
+10359767	COUTTSUK	am	2018	\	nju	eng	\	Africa World Press	6343	14440
+10359768	COUTTSUK	am	2018	b	nju	eng	\	The Red Sea Press	6343	14439
+10359769	COUTTSUK	am	2018	\	xx\	eng	\	RED SEA PRESS,U S	6343	14438
+10359770	COUTTSUK	am	2018	b	nju	eng	\	Africa World Press	6343	14437
+10359773	COUTTSUK	am	2018	b	nju	eng	\	Africa World Press	6343	14436
+10359774	COUTTSUK	am	2018	b	nju	eng	\	Africa World Press	6343	14435
+10359777	COUTTSUK	am	2018	b	nju	eng	\	Africa World Press	6343	14434
+10359779	COUTTSUK	am	2018	b	nju	eng	\	Africa World Press	p6390	14433
+10359781	COUTTSUK	am	2018	\	ilu	eng	\	Third World Press	6310	14432
+10359743	COUTTSUK	am	2016	b	ilu	eng	\	Third World Press Foundation	p2163	14422
+10359737	COUTTSUK	am	2018	\	ilu	eng	\	NA	6310	14431
+10359738	COUTTSUK	am	2017	b	ilu	eng	\	Third World Press	6310	14429
+10359739	COUTTSUK	am	2017	\	ilu	eng	\	Third World Press Foundation	6310	14428
+10359746	COUTTSUK	am	2015	b	ilu	eng	\	Third World Press	p2163	14398
+10359748	COUTTSUK	am	2018	\	ilu	eng	\	Third World Press Foundation	p2163	14395
+10359750	COUTTSUK	am	2017	b	cau	eng	\	University of California Press	p2160	14392
+10359752	COUTTSUK	am	2018	b	cau	eng	\	Middle Passage Press	p2160	14391
+10359534	COUTTSUK	am	2017	\	xxu	eng	\	[Jacqueline A. Kane],$c2017.;\3$a[Place of publication not identified] :$bXlibris	NA	NA
+10359736	COUTTSUK	am	2014	\	ilu	eng	\	Third World Press	p2163	14399
+10359613	COUTTSUK	am	2013	\	ie\	ice	\	Evertype	p8350	14328
+10359640	COUTTSUK	am	2018	\	mau	eng	\	Houghton Mifflin Harcourt	2161	14338
+10359694	COUTTSUK	am	2014	\	xx\	eng	\	Think Doctor Publications	NA	NA
+10359695	COUTTSUK	am	2013	\	cau	eng	\	Marway Publishing	NA	NA
+10359193	COUTTSUK	am	2014	b	pau	eng	\	Judson Press	2161	14357
+10359203	COUTTSUK	am	2018	b	enk	eng	\	Boydell & Brewer Inc.	2310	14346
+8910059	COUTTSUK	am	2015	\	cau	eng	\	Middle Passage Press	p6350	$zPOOF;poof.library.cornell.edu/node/34215
+10359194	COUTTSUK	am	2016	\	nyu	eng	\	Jeremy P. Tarcher/Penguin, an imprint of Penguin Random House LLC	2161	14358
+10359197	COUTTSUK	am	2017	\	cau	eng	\	Smiley Books, Distributed by Hay House, Inc.	2161	14353
+10359200	COUTTSUK	am	2015	b	nyu	eng	\	Palgrave Macmillan	2161	14352
+10359201	COUTTSUK	am	2015	b	xxu	eng	\	[CreatSpace Independent Publishing Platform]	2161	14351
+10359202	COUTTSUK	am	2015	\	nyu	eng	\	Amistad, An Imprint of Harper Collins Publishers	2161	14349
+10359206	COUTTSUK	am	2016	\	nyu	eng	\	Spiegel & Grau	2161	14341
+10359208	COUTTSUK	am	2018	b	nyu	eng	\	The Library of America :$bLiterary Classics of the United States, Inc.	2161	14340
+10359209	COUTTSUK	am	2016	b	xxu	eng	\	Xlibris	2161	14339
+10359210	COUTTSUK	am	2018	b	nyu	eng	\	Greenwillow Books, an imprint of HarperCollins Publishers	2161	14337
+10358677	COUTTSUK	am	2018	b	oru	eng	\	Sussex Academic Press	8110	14320
+10358073	COUTTSUK	am	2018	b	nyu	eng	\	Grove Press	521	14262
+10358074	COUTTSUK	am	2018	b	nyu	eng	\	PublicAffairs	521	14261
+10358075	COUTTSUK	am	2018	\	nyu	eng	\	Touchstone	521	14260
+10358076	COUTTSUK	am	2018	b	nyu	eng	\	NA	521	14259
+10358077	COUTTSUK	am	2018	\	nyu	eng	\	Ecco, an imprint of HarperCollinsPublishers	521	14244
+10358078	COUTTSUK	am	2018	\	nyu	eng	\	Liveright Publishing Corporation, a division of W. W. Norton & Company	521	14243
+10358079	COUTTSUK	am	2018	\	nyu	eng	\	Grand Central Publishing	521	14242
+10358070	COUTTSUK	am	2016	b	enk	eng	\	Bloomsbury Academic, An imprint of Bloomsbury Publishing Plc	p3350	14280
+10358125	COUTTSUK	am	2018	\	nyu	eng	\	Atria Books	521	14246
+10358071	COUTTSUK	am	2013	b	enk	eng	\	Bloomsbury Academic	p3350	14279
+10358072	COUTTSUK	am	2018	b	enk	eng	\	Bloomsbury Academic, an imprint of Bloomsbury Publishing Plc	p3350	14278
+10357980	COUTTSUK	am	2018	b	enk	eng	\	Bloomsbury Publishing	6310	14958
+10357980	COUTTSUK	am	2018	b	enk	eng	\	Bloomsbury Publishing	6310	14958
+10299529	COUTTSUK	am	2018	\	nyu	eng	\	Random House Large Print	521	12723
+10299529	COUTTSUK	am	2018	\	nyu	eng	\	Random House Large Print	521	12723
+10357093	COUTTSUK	am	2017	b	enk	eng	\	Oxford University Press	p7253	14184
+10356980	COUTTSUK	am	2018	b	dk\	eng	\	NIAS Press	p8190	14203
+10356983	COUTTSUK	am	2017	b	nyu	eng	\	Peter Lang	p2156	14200
+9667888	COUTTSUK	am	2017	b	pau	eng	\	Elsevier	p1553	5347
+9667888	COUTTSUK	am	2017	b	pau	eng	\	Elsevier	p1553	5347
+9667888	COUTTSUK	am	2017	b	pau	eng	\	Elsevier	p1553	5347
+9667888	COUTTSUK	am	2017	b	pau	eng	\	Elsevier	p1553	5347
+9667888	COUTTSUK	am	2017	b	pau	eng	\	Elsevier	p1553	5347
+9667888	COUTTSUK	am	2017	b	pau	eng	\	Elsevier	p1553	5347
+9667888	COUTTSUK	am	2017	b	pau	eng	\	Elsevier	p1553	5347
+9667888	COUTTSUK	am	2017	b	pau	eng	\	Elsevier	p1553	5347
+9667888	COUTTSUK	am	2017	b	pau	eng	\	Elsevier	p1553	5347
+9667888	COUTTSUK	am	2017	b	pau	eng	\	Elsevier	p1553	5347
+9599073	COUTTSUK	am	2016	b	mou	eng	\	Elsevier	1510	$zPOOF;poof.library.cornell.edu/node/48621
+9599073	COUTTSUK	am	2016	b	mou	eng	\	Elsevier	1510	$zPOOF;poof.library.cornell.edu/node/48621
+9599073	COUTTSUK	am	2016	b	mou	eng	\	Elsevier	1510	$zPOOF;poof.library.cornell.edu/node/48621
+9599073	COUTTSUK	am	2016	b	mou	eng	\	Elsevier	1510	$zPOOF;poof.library.cornell.edu/node/48621
+9599073	COUTTSUK	am	2016	b	mou	eng	\	Elsevier	1510	$zPOOF;poof.library.cornell.edu/node/48621
+9599073	COUTTSUK	am	2016	b	mou	eng	\	Elsevier	1510	$zPOOF;poof.library.cornell.edu/node/48621
+9599073	COUTTSUK	am	2016	b	mou	eng	\	Elsevier	1510	$zPOOF;poof.library.cornell.edu/node/48621
+10356188	COUTTSUK	am	2016	b	mdu	eng	\	Bernan Press	591	14148
+10355944	COUTTSUK	am	2015	\	ie\	eng	\	The Collins Press	7110	14177
+10355945	COUTTSUK	am	2016	b	enk	eng	\	Cambridge Scholars Publishing	7110	14175
+10355946	COUTTSUK	am	2016	b	nyu	eng	\	Routledge, Taylor & Francis Group	7110	14173
+10355947	COUTTSUK	am	2017	b	enk	eng	\	Routledge, Taylor & Francis Group	8140	14166
+10355948	COUTTSUK	am	2017	b	dk\	eng	\	NIAS Press	8140	14165
+10355950	COUTTSUK	am	2017	b	meu	eng	\	Borneo Research Council, Inc.	8110	14163
+10355951	COUTTSUK	am	2017	b	enk	eng	\	Edward Elgar Publishing	p1359	14132
+10355773	COUTTSUK	am	2017	b	enk	eng	\	Routledge, an imprint of the Taylor & Francis Group	8140	14098
+10355256	COUTTSUK	am	2017	\	ohu	eng	\	Telemachus Press	8140	14128
+10355258	COUTTSUK	am	2017	b	enk	eng	\	Oxford University Press	8140	14112
+10355260	COUTTSUK	am	2017	\	enk	eng	\	Portfolio Penguin	8140	14107
+10355262	COUTTSUK	am	2018	b	enk	eng	\	Hurst & Company	p2156	14090
+10354464	COUTTSUK	am	2016	b	enk	eng	\	Route	7110	14083
+10353906	COUTTSUK	am	2018	\	xx\	eng	\	WEIDENFELD & NICOLSON	p2156	13975
+10353951	COUTTSUK	am	2017	\	nyu	eng	\	Lesser Gods	7110	14044
+10353037	COUTTSUK	am	2018	b	nyu	eng	\	Edwin Mellen Press	591	13954
+10353424	COUTTSUK	am	2017	b	ncu	eng	\	McFarland & Company, Inc., Publishers	7110	13992
+10349700	COUTTSUK	am	2017	b	ii\	eng	\	Oxford University Press	2010	13877
+10349702	COUTTSUK	am	2018	b	nyu	eng	\	Cambria Press	2021	13874
+10349705	COUTTSUK	am	2018	b	nyu	eng	\	Farrar, Straus and Giroux	p2155	13870
+10345524	COUTTSUK	am	2016	b	onc	eng	\	University of Toronto Press	p2261	13820
+10343544	COUTTSUK	am	2015	b	quc	eng	\	Published for the Osgoode Society for Canadian Legal History by University of Toronto Press	p2261	13821
+10343546	COUTTSUK	am	2015	\	cau	eng	\	Choose the Sword Press	p3150	13810
+10334816	COUTTSUK	am	2017	\	oru	eng	\	Resource Publications	p2155	13737
+10335551	COUTTSUK	am	2018	b	cau	eng	\	Asian Art Museum	2021	13803
+10329807	COUTTSUK	am	2017	b	nyu	eng	\	St. Martin's Press	591	13605
+10329428	COUTTSUK	am	2017	b	cau	eng	\	SAGE Publications	591	13548
+10329428	COUTTSUK	am	2017	b	cau	eng	\	SAGE Publications	591	13548
+10329509	COUTTSUK	am	2018	b	nyu	eng	\	Peter Lang	8140	13665
+10329515	COUTTSUK	am	2018	b	nyu	eng	\	Encounter Books	p2290	13603
+10328673	COUTTSUK	am	2017	b	txu	eng	s	Texas A&M University Press	8140	13481
+10328899	COUTTSUK	am	2018	b	mdu	eng	\	Rowman & Littlefield	7110	13600
+10328903	COUTTSUK	am	2016	b	mdu	eng	\	Rowman & Littlefield	7110	13599
+10328905	COUTTSUK	am	2017	b	mdu	eng	\	Rowman & Littlefield	7110	13598
+10070827	COUTTSUK	am	2015	b	nju	eng	\	Wiley	p6550	9214
+10328456	COUTTSUK	am	2017	b	nyu	eng	\	Edwin Mellen Press	7110	13538
+10328457	COUTTSUK	am	2017	b	nyu	eng	\	Pendragon Press	7110	13537
+10328458	COUTTSUK	am	2016	b	nyu	eng	\	The Edwin Mellen Press	7110	13534
+10328459	COUTTSUK	am	2017	\	nyu	eng	\	W. W. Norton & Company	7110	13530
+10328460	COUTTSUK	am	2017	\	ncu	eng	\	McFarland & Company	7110	13529
+10328461	COUTTSUK	am	2017	\	xxu	eng	\	Hatherleigh	8140	13510
+10328462	COUTTSUK	am	2017	b	ctu	eng	\	Stackpole Books	8140	13509
+10328463	COUTTSUK	am	2017	\	cou	eng	\	Susan Kaplan	8140	13505
+10328464	COUTTSUK	am	2017	b	xxu	eng	\	Jeff Nordahl	8140	13500
+10328465	COUTTSUK	am	2017	b	deu	eng	\	[CreateSpace Independent Publishing Platform]	8140	13499
+10328466	COUTTSUK	am	2017	\	txu	eng	\	NewFawn Press	8140	13497
+10328467	COUTTSUK	am	2017	\	xxu	eng	\	[manufacturer not identified],$c2017.;\1$a[Place of publication not identified] :$bSam Axelrad	8140	13496
+10328468	COUTTSUK	am	2017	\	xxu	eng	\	[publisher unknown]	8140	13495
+10328469	COUTTSUK	am	2017	\	xxu	eng	\	CreateSpace	8140	13493
+10328470	COUTTSUK	am	2017	\	ncu	eng	\	Lulu Publishing Services	8140	13492
+10070827	COUTTSUK	am	2015	b	nju	eng	\	Wiley	p6550	9214
+10328471	COUTTSUK	am	2017	\	ncu	eng	\	CreateSpace Independent Publishing Platform	8140	13491
+10328472	COUTTSUK	am	2017	\	bcc	eng	\	FriesonPress	8140	13490
+10328473	COUTTSUK	am	2017	b	gau	eng	\	Currahee Press LLC	8140	13489
+10328474	COUTTSUK	am	2017	\	enk	eng	\	Fonthill Media Limited	8140	13488
+10328475	COUTTSUK	am	2017	b	pau	eng	\	Casemate Publishers	8140	13486
+10328476	COUTTSUK	am	2017	\	xxu	eng	\	[publisher not identified]	8140	13485
+10328477	COUTTSUK	am	2017	b	inu	eng	\	Blue River Press	8140	13484
+10328478	COUTTSUK	am	2017	b	oru	eng	\	Resource Publications	8140	13483
+10328479	COUTTSUK	am	2017	b	dcu	eng	\	Regnery History	8140	13480
+10328446	COUTTSUK	am	2018	b	cau	eng	\	Library Juice Press	p3250	13476
+10327064	COUTTSUK	am	2017	s	nyu	eng	\	Primary Research Group Inc.	7540	13366
+10323282	COUTTSUK	am	2018	b	nyu	eng	\	African Diaspora Press	7110	13331
+10324424	COUTTSUK	am	2017	b	mau	eng	\	Work Rights Press	p1351	13349
+10324427	COUTTSUK	am	2016	b	enk	eng	\	I.B. Tauris	p2155	13343
+10325848	COUTTSUK	am	2017	b	si\	eng	\	ISEAS-Yusof Ishak Institute	p8155	13263
+10324379	COUTTSUK	am	2018	\	xx\	eng	\	C HURST & CO PUB LTD	p2155	13345
+10323298	COUTTSUK	am	2017	\	enk	eng	\	Fonthill Media Limited	8110	13327
+10323301	COUTTSUK	am	2017	\	hiu	eng	\	The British Council	8110	13324
+10323303	COUTTSUK	am	2017	\	gw\	mul	\	Michael Imhof Verlag	p8155	13321
+10323305	COUTTSUK	am	2017	\	enk	eng	\	Neil Harvey	8110	13320
+10323307	COUTTSUK	am	2017	\	xx\	eng	\	Crystal Grove Books :$b[Lulu.com]	8110	13319
+10323309	COUTTSUK	am	2017	\	enk	eng	\	Century	p8155	13314
+10323313	COUTTSUK	am	2017	\	cau	eng	\	ThingsAsian Press	p8155	13310
+10323315	COUTTSUK	am	2017	b	enk	eng	\	Atlantic Publishing	p8155	13305
+10323316	COUTTSUK	am	2017	b	enk	eng	\	Geological Society	8110	13288
+10323317	COUTTSUK	am	2017	\	scu	eng	\	[CreateSpace]	p8154	13270
+10323319	COUTTSUK	am	2017	\	cau	eng	\	ThingsAsian Press	p8154	13264
+10322868	COUTTSUK	am	2017	\	wau	eng	\	AmazonCrossing	p2651	13219
+10320151	COUTTSUK	am	2018	\	xx\	eng	\	The Elephants, Ltd.	p3159	13108
+10320556	COUTTSUK	am	2018	b	cau	eng	\	AK Press	4820	13120
+10320557	COUTTSUK	am	2017	\	vau	eng	\	Just World Books	p2155	13113
+10319908	COUTTSUK	am	2018	\	nyu	eng	\	Bordighera Press	p3159	13109
+10319915	COUTTSUK	am	2015	b	enk	eng	\	C Hurst & Company	p2155	13088
+10318314	COUTTSUK	am	2017	\	cu\	eng	\	CreateSpace Independent Publishing Platform ; Cuban Beat Books	7110	13030
+10317254	COUTTSUK	am	2016	b	enk	eng	\	Square View,$c[2016];\2$aMarkfield, U.K. :$bKube Publishing Ltd	p2155	12998
+10319216	COUTTSUK	am	2017	\	wiu	eng	\	Amadeus Press	7110	13050
+10315564	COUTTSUK	am	2015	b	cau	eng	\	SAGE	1341	12838
+10315451	COUTTSUK	am	2016	b	ne\	eng	\	Brill	8612	12941
+10314555	COUTTSUK	am	2017	b	ph\	eng	\	Ateneo de Manila University Press	p8154	12818
+10314366	COUTTSUK	am	2017	b	nyu	eng	\	The Edwin Mellen Press	p8154	12826
+10315453	COUTTSUK	am	2017	b	mdu	eng	\	Lexington Books	8612	12940
+10314367	COUTTSUK	am	2017	b	wiu	eng	\	Puzzlebox Press	8110	12825
+10299526	COUTTSUK	am	2017	b	ph\	eng	f	University of the Philippines Press	p8154	12731
+10299528	COUTTSUK	am	2017	l	ph\	eng	f	National Commission for Culture and the Arts	p8154	12729
+10299067	COUTTSUK	am	1992	b	nyu	eng	\	Dover Publications	2662	12725
+10299082	COUTTSUK	am	2017	\	enk	eng	\	Neil Harvey	8110	12738
+10299083	COUTTSUK	am	2017	\	oru	eng	\	Hellgate Press	8110	12730
+10299080	COUTTSUK	am	2017	\	ja\	eng	\	Tuttle Publishing	8110	12728
+10298751	COUTTSUK	am	2017	b	si\	eng	\	Editions Didier Millet Pte Ltd	p8155	12644
+10298752	COUTTSUK	am	2017	b	si\	eng	\	National Gallery Singapore	8110	12640
+10298754	COUTTSUK	am	2017	b	si\	eng	\	ISEAS-Yusof Ishak Institute	p8155	12633
+10298846	COUTTSUK	am	2013	b	miu	eng	s	Center for Japanese Studies, The University of Michigan	8612	12625
+10298847	COUTTSUK	am	2016	\	miu	eng	s	University of Michigan Press	8612	12623
+10298848	COUTTSUK	am	2015	b	miu	eng	s	Center for Japanese Studies/The University of Michigan	8612	12622
+10298849	COUTTSUK	am	2014	b	miu	eng	s	Center for Japanese Studies, The University of Michigan	8612	12621
+10298850	COUTTSUK	am	2017	b	miu	eng	s	University of Michigan Press	8612	12620
+10298551	COUTTSUK	am	2017	\	vau	eng	\	Mascot Books	8110	12702
+10298552	COUTTSUK	am	2017	\	enk	eng	\	Monsoon	p8155	12642
+10298554	COUTTSUK	am	2017	\	enk	eng	\	Monsoon Books	p8155	12639
+10298555	COUTTSUK	am	2017	b	enk	eng	\	John Beaufoy Publishing	p8155	12634
+10298558	COUTTSUK	am	2017	b	enk	eng	\	Routledge	8110	12630
+10298560	COUTTSUK	tm	2017	\	nyu	eng	\	Thomas Dunn Books, St. Martin's Press	8110	12629
+10298563	COUTTSUK	am	2018	b	enk	eng	\	Routledge/Taylor & Francis Group	p2155	12619
+4400325	COUTTSUK	am	2001	\	miu	eng	\	Center for Japanese Studies, The University of Michigan	8612	12627
+10298028	COUTTSUK	am	2017	\	nyu	eng	\	Harper Perennial	p8155	12612
+10297912	COUTTSUK	am	2017	\	xxu	eng	\	Nhân A̓nh	p8155	12618
+10297916	COUTTSUK	am	2017	\	enk	eng	\	Heaven Lake Press	p8155	12617
+10297921	COUTTSUK	am	2017	\	oru	eng	\	Robert D. Reed Publishers	p8155	12615
+10297929	COUTTSUK	am	2017	\	xx\	eng	\	NA	8612	12596
+10297932	COUTTSUK	am	2017	b	mau	eng	\	Harvard University Asia Center	8612	12595
+4400325	COUTTSUK	am	2001	\	miu	eng	\	Center for Japanese Studies, The University of Michigan	8612	12627
+10296117	COUTTSUK	am	2018	b	enk	eng	\	Polity Press	p2553	12507
+10294780	COUTTSUK	am	1999	b	mau	eng	\	Shambhala	4210	12433
+10294780	COUTTSUK	am	1999	b	mau	eng	\	Shambhala	4210	12433
+10294389	COUTTSUK	am	2017	\	wau	eng	\	Fantagraphics Books, Inc.	p2155	12426
+10293486	COUTTSUK	am	2017	b	enk	eng	\	Kube Publishing Ltd	p2155	12418
+10293081	COUTTSUK	am	2016	b	enk	eng	\	Crowood	6710	12414
+10292403	COUTTSUK	am	2018	b	dk\	eng	\	Asian Studies Association of Australia in association with NIAS Press	8110	12386
+10292397	COUTTSUK	am	2017	\	wiu	hmn	\	Hmong Globe Publishing	8110	12400
+10292399	COUTTSUK	am	2017	\	deu	eng	\	[CreateSpace Independent Publishing Platform]	p8155	12398
+10292400	COUTTSUK	am	2017	\	cau	eng	\	PBK Press	8110	12395
+10292406	COUTTSUK	am	2017	m	sw\	eng	\	Department of Social Anthropology	8110	12382
+10292409	COUTTSUK	am	2017	b	th\	eng	\	River Books	8110	12381
+10292410	COUTTSUK	am	2017	b	nyu	eng	\	OR Books	1341	12375
+10232682	COUTTSUK	am	2017	\	nyu	eng	\	Farrar Straus Giroux	p7360	11593
+10232682	COUTTSUK	am	2017	\	nyu	eng	\	Farrar Straus Giroux	p7360	11593
+10276758	COUTTSUK	am	2017	\	nyu	eng	\	Elsewhere Editions	p7359	12336
+10276758	COUTTSUK	am	2017	\	nyu	eng	\	Elsewhere Editions	p7359	12336
+10275420	COUTTSUK	am	2017	6	ilu	eng	\	Iron Circus Comics	p7360	12349
+10276758	COUTTSUK	am	2017	\	nyu	eng	\	Elsewhere Editions	p7359	12336
+10276758	COUTTSUK	am	2017	\	nyu	eng	\	Elsewhere Editions	p7359	12336
+10232692	COUTTSUK	am	2017	\	nyu	eng	\	Alfred A. Knopf	p7360	11583
+10232692	COUTTSUK	am	2017	\	nyu	eng	\	Alfred A. Knopf	p7360	11583
+10232695	COUTTSUK	am	2017	\	mau	eng	\	Candlewick Press	p7360	11580
+10232695	COUTTSUK	am	2017	\	mau	eng	\	Candlewick Press	p7360	11580
+9982877	COUTTSUK	am	2017	b	nyu	eng	\	Godwin Books / Henry Holt and Company	p7354	7888
+10278717	COUTTSUK	am	2017	\	nyu	eng	\	Little, Brown and Company	p7354	12327
+10278717	COUTTSUK	am	2017	\	nyu	eng	\	Little, Brown and Company	p7354	12327
+10278717	COUTTSUK	am	2017	\	nyu	eng	\	Little, Brown and Company	p7354	12327
+10278717	COUTTSUK	am	2017	\	nyu	eng	\	Little, Brown and Company	p7354	12327
+10233882	COUTTSUK	am	2017	b	nyu	eng	\	Roaring Brook Press	p7360	11586
+10233882	COUTTSUK	am	2017	b	nyu	eng	\	Roaring Brook Press	p7360	11586
+10232697	COUTTSUK	am	2017	\	nyu	eng	\	Roaring Brook Press	p7360	11577
+10232697	COUTTSUK	am	2017	\	nyu	eng	\	Roaring Brook Press	p7360	11577
+9982885	COUTTSUK	am	2017	\	nyu	eng	\	Feiwel and Friends	p7360	7880
+10232696	COUTTSUK	am	2017	\	ilu	eng	\	Bolden, An Agate imprint	p7360	11579
+10232696	COUTTSUK	am	2017	\	ilu	eng	\	Bolden, An Agate imprint	p7360	11579
+10262332	COUTTSUK	am	2017	\	nyu	eng	\	Dutton Books, an imprint of Penguin Random House LLC	p7354	12326
+10262334	COUTTSUK	am	2017	b	nyu	eng	\	Farrar Straus Giroux	p7354	12325
+10262336	COUTTSUK	am	2017	\	nyu	eng	\	Holiday House	p7354	12323
+10262338	COUTTSUK	am	2017	\	mnu	eng	\	Picture Window Books, a Capstone imprint	p7354	12319
+10262340	COUTTSUK	am	2017	\	nyu	eng	\	Bloomsbury	p7354	12316
+9982877	COUTTSUK	am	2017	b	nyu	eng	\	Godwin Books / Henry Holt and Company	p7354	7888
+9982885	COUTTSUK	am	2017	\	nyu	eng	\	Feiwel and Friends	p7360	7880
+10262332	COUTTSUK	am	2017	\	nyu	eng	\	Dutton Books, an imprint of Penguin Random House LLC	p7354	12326
+10262334	COUTTSUK	am	2017	b	nyu	eng	\	Farrar Straus Giroux	p7354	12325
+10262336	COUTTSUK	am	2017	\	nyu	eng	\	Holiday House	p7354	12323
+10262338	COUTTSUK	am	2017	\	mnu	eng	\	Picture Window Books, a Capstone imprint	p7354	12319
+10262340	COUTTSUK	am	2017	\	nyu	eng	\	Bloomsbury	p7354	12316
+10283829	COUTTSUK	am	2017	\	nyu	eng	\	Atheneum	p7354	12315
+10283829	COUTTSUK	am	2017	\	nyu	eng	\	Atheneum	p7354	12315
+10283829	COUTTSUK	am	2017	\	nyu	eng	\	Atheneum	p7354	12315
+10283829	COUTTSUK	am	2017	\	nyu	eng	\	Atheneum	p7354	12315
+10262341	COUTTSUK	am	2017	\	nyu	eng	\	Greenwillow Books, an imprint of HarperCollinsPublishers	p7354	12313
+10262333	COUTTSUK	am	2017	\	nyu	eng	\	Simon Pulse	p7360	12355
+10262341	COUTTSUK	am	2017	\	nyu	eng	\	Greenwillow Books, an imprint of HarperCollinsPublishers	p7354	12313
+10262330	COUTTSUK	am	2017	\	onc	eng	\	Annick Press Ltd.	p7360	12356
+10262335	COUTTSUK	am	2017	\	nyu	eng	\	Salaam Reads	p7360	12354
+10262337	COUTTSUK	am	2017	\	nyu	eng	\	Sky Pony Press	p7360	12353
+10262339	COUTTSUK	am	2017	\	nyu	eng	\	Crown	p7360	12352
+10262342	COUTTSUK	am	2017	\	cau	eng	\	Chronicle Books	p7360	12351
+10262343	COUTTSUK	am	2017	\	nyu	eng	\	Katherine Tegen Books, an imprint of HarperCollinsPublishers	p7360	12350
+10262344	COUTTSUK	am	2017	b	mnu	eng	\	Millbrook Press	p7360	12348
+10262345	COUTTSUK	am	2017	\	nyu	eng	\	Roaring Brook Press	p7359	12347
+10262346	COUTTSUK	am	2017	\	nyu	eng	\	Little, Brown and Company	p7359	12345
+10262346	COUTTSUK	am	2017	\	nyu	eng	\	Little, Brown and Company	p7359	12345
+10262347	COUTTSUK	am	2017	b	pau	eng	\	Calkins Creek, an imprint of Hightlights	p7359	12344
+10262347	COUTTSUK	am	2017	b	pau	eng	\	Calkins Creek, an imprint of Hightlights	p7359	12344
+10262348	COUTTSUK	am	2017	\	nyu	eng	\	Viking	p7359	12343
+10262348	COUTTSUK	am	2017	\	nyu	eng	\	Viking	p7359	12343
+10262349	COUTTSUK	am	2017	\	nyu	eng	\	Viking	p7359	12342
+10262349	COUTTSUK	am	2017	\	nyu	eng	\	Viking	p7359	12342
+10262350	COUTTSUK	am	2017	\	nyu	eng	\	Nancy Paulsen Books	p7359	12341
+10262350	COUTTSUK	am	2017	\	nyu	eng	\	Nancy Paulsen Books	p7359	12341
+10262351	COUTTSUK	am	2017	\	nyu	eng	\	NorthSouth Books, Inc.	p7359	12340
+10262351	COUTTSUK	am	2017	\	nyu	eng	\	NorthSouth Books, Inc.	p7359	12340
+10262352	COUTTSUK	am	2017	\	txu	eng	\	Cinco Puntos Press	p7359	12339
+10262352	COUTTSUK	am	2017	\	txu	eng	\	Cinco Puntos Press	p7359	12339
+10262353	COUTTSUK	am	2017	\	nyu	eng	\	G. P. Putnam's Sons	p7359	12337
+10262353	COUTTSUK	am	2017	\	nyu	eng	\	G. P. Putnam's Sons	p7359	12337
+10262355	COUTTSUK	am	2017	\	mau	eng	\	Charlesbridge	p7359	12334
+10262355	COUTTSUK	am	2017	\	mau	eng	\	Charlesbridge	p7359	12334
+10262356	COUTTSUK	am	2017	\	nyu	eng	\	Delacorte Press	p7359	12333
+10262356	COUTTSUK	am	2017	\	nyu	eng	\	Delacorte Press	p7359	12333
+10262357	COUTTSUK	am	2017	\	onc	eng	\	Pajama Press Inc.	p7359	12332
+10262357	COUTTSUK	am	2017	\	onc	eng	\	Pajama Press Inc.	p7359	12332
+10262358	COUTTSUK	am	2017	\	nyu	eng	\	Alfred A Knopf	p7359	12331
+10262358	COUTTSUK	am	2017	\	nyu	eng	\	Alfred A Knopf	p7359	12331
+10261947	COUTTSUK	am	2016	b	utu	eng	\	The Church Historian's Press	p2858	12260
+10261659	COUTTSUK	am	2015	b	enk	eng	\	Cambridge University Press	p7358	12254
+10261342	COUTTSUK	am	2017	b	th\	eng	\	Silkworm Books	p8190	12227
+10261344	COUTTSUK	am	2017	b	th\	eng	\	River Books	p8190	12226
+10261351	COUTTSUK	am	2017	b	th\	eng	\	River Books	p8190	12224
+10258747	COUTTSUK	am	2015	\	nyu	eng	\	Open Letter	2513	12178
+10261079	COUTTSUK	am	2017	b	enk	eng	\	Routledge, Taylor & Francis Group	p8190	12223
+10261080	COUTTSUK	am	2017	b	dk\	eng	\	NIAS Press	p8190	12222
+10249772	COUTTSUK	am	2017	b	nyu	eng	\	Hachette Books	1341	12097
+10249105	COUTTSUK	am	2014	b	nyu	eng	\	HarperOne	p2853	12094
+10249104	COUTTSUK	am	2018	\	nyu	eng	\	St. Martin's Press	6310	12091
+10249107	COUTTSUK	am	2016	b	enk	eng	\	Hurst & Company	p8352	12058
+10249919	COUTTSUK	am	2015	\	enk	eng	\	The History Press	p2992	12126
+10249924	COUTTSUK	am	2018	b	enk	eng	\	Routledge	8612	12113
+10249926	COUTTSUK	am	2017	b	nyu	eng	\	Edwin Mellen Press	p7152	12141
+10248469	COUTTSUK	am	2015	b	gw\	eng	\	Scholar's Press	p8155	12026
+10248466	COUTTSUK	am	2015	b	gw\	eng	\	Scholar's Press	8110	12028
+10248467	COUTTSUK	am	2016	b	gw\	eng	\	Scholar's Press	p8155	12027
+10248471	COUTTSUK	am	2015	b	gw\	eng	\	Scholar's Press	8110	12004
+10246905	COUTTSUK	am	2018	b	enk	eng	\	I.B. Tauris	p2155	11916
+10246329	COUTTSUK	am	2018	b	dk\	eng	\	NIAS Press	p8155	11904
+10246332	COUTTSUK	am	2018	\	cau	eng	\	Willow Stream Publishing	8110	11902
+10246333	COUTTSUK	am	2018	b	pau	eng	\	Judson Press	8110	11901
+10244095	COUTTSUK	am	2017	b	enk	eng	\	Liverpool University Press	p2155	11805
+9295318	COUTTSUK	am	2016	b	enk	eng	\	Oxford University Press	6310	11739
+10242205	COUTTSUK	am	2017	b	xxu	eng	\	[Eilysh Haeger]	NA	NA
+10240765	COUTTSUK	am	2017	b	ilu	eng	\	Haymarket Books	p1351	11741
+10240764	COUTTSUK	am	2016	b	ilu	eng	\	Haymarket Books	1341	11742
+10239983	COUTTSUK	am	2017	b	enk	eng	\	Darf Publishers	2115	11697
+10239985	COUTTSUK	am	2015	\	enk	eng	\	Darf Publishers	2115	11696
+10239987	COUTTSUK	am	2017	\	enk	eng	\	Darf Publishers	2115	11695
+10239990	COUTTSUK	am	2017	\	enk	eng	\	Darf Publishers	2115	11694
+10239993	COUTTSUK	am	2017	\	enk	eng	\	Darf Publishers Ltd.	2115	11692
+10239994	COUTTSUK	am	2015	\	enk	eng	\	Darf Publishers	2115	11689
+10239995	COUTTSUK	am	2018	\	enk	eng	\	Darf Publishers	2115	11688
+10239996	COUTTSUK	am	2015	\	enk	eng	\	Darf Publisher	2115	11687
+10239997	COUTTSUK	am	2016	\	enk	eng	\	Darf Publishers	2115	11686
+10239998	COUTTSUK	am	2015	b	enk	eng	\	Darf Publishers	p2155	11679
+10237711	COUTTSUK	am	2015	f	xxu	eng	\	Steven Steinfeld with Yinping Huang	p6550	11665
+10237129	COUTTSUK	am	2008	\	nyu	eng	\	Eos	p7360	11628
+10232677	COUTTSUK	am	2018	\	nyu	eng	\	Penguin Books	p2650	11565
+10234288	COUTTSUK	am	2018	b	mdu	eng	\	Lexington Books	p2153	11617
+10232685	COUTTSUK	am	2017	\	mau	eng	\	Loom Press	p3159	11562
+10232067	COUTTSUK	am	2012	\	pr\	spa	\	Colección Maravilla	2310	11537
+10227522	COUTTSUK	am	2015	b	enk	eng	\	Wiley	p1359	11444
+10227238	COUTTSUK	am	2017	\	nyu	eng	\	Golias Books	3110	11446
+10227226	COUTTSUK	am	2005	b	nyu	eng	\	McGraw-Hill	2810	11470
+10226264	COUTTSUK	am	2017	b	dcu	eng	\	New Academia Publishing :$bThe Center for Contemporary Arab Studies, Georgetown University	p2153	11406
+10226269	COUTTSUK	am	2018	b	enk	eng	\	I.B. Tauris	p2153	11362
+10206492	COUTTSUK	am	2017	\	mau	eng	\	Harvard University Press	6310	10827
+10206492	COUTTSUK	am	2017	\	mau	eng	\	Harvard University Press	6310	10827
+10215481	COUTTSUK	am	2017	\	ua\	eng	\	Hoopoe, an imprint of AUC Press	p2153	11327
+10206492	COUTTSUK	am	2017	\	mau	eng	\	Harvard University Press	6310	10827
+10206492	COUTTSUK	am	2017	\	mau	eng	\	Harvard University Press	6310	10827
+10206492	COUTTSUK	am	2017	\	mau	eng	\	Harvard University Press	6310	10827
+10215445	COUTTSUK	am	2016	b	nyu	eng	\	OR Books	p8352	11347
+10215449	COUTTSUK	am	2017	b	enk	eng	\	Routledge	p2153	11333
+10215451	COUTTSUK	am	2018	b	mnu	eng	\	Lexington Books	p2153	11332
+10215452	COUTTSUK	am	2017	\	enk	eng	\	Routledge	p2153	11331
+10215126	COUTTSUK	am	2017	\	enk	eng	\	I. B. Tauris	p2153	11282
+10213594	COUTTSUK	am	2017	\	xxu	eng	\	[Publisher not identified],$c©[2017];\3$aLexington	8110	11210
+10213598	COUTTSUK	am	2012	\	sw\	swe	\	Malört	2513	11196
+10213600	COUTTSUK	am	2013	m	sw\	swe	\	Malört förlag	2513	11195
+10213602	COUTTSUK	am	2017	b	nyu	eng	\	Peter Lang	p2153	11192
+10208070	COUTTSUK	am	2017	\	onc	eng	\	BookThug	p2654	11075
+10208101	COUTTSUK	am	2018	b	ne\	eng	\	John Benjamins Publishing Company	p3350	11057
+10208074	COUTTSUK	am	2012	\	onc	eng	\	Coach House Books	p2654	11070
+10208086	COUTTSUK	am	2015	\	onc	eng	\	Coach House Books	p2654	11068
+10208147	COUTTSUK	am	2017	\	onc	eng	\	Coach House Books	p2654	11077
+10208082	COUTTSUK	am	2017	b	ne\	eng	\	John Benjamins Publishing Company	p3350	11062
+10208092	COUTTSUK	am	2017	b	ne\	eng	\	John Benjamins Publishing Company	p3350	11061
+10208094	COUTTSUK	am	2017	b	ne\	eng	\	John Benjamins Publishing Company	p3350	11060
+10208098	COUTTSUK	am	2017	b	ne\	eng	\	John Benjamins Publishing Company	p3350	11059
+10208104	COUTTSUK	am	2017	b	ne\	eng	\	John Benjamins Publishing Company	p3350	11056
+10208106	COUTTSUK	am	2017	b	ne\	eng	\	John Benjamins Publishing Company	p3350	11055
+10208107	COUTTSUK	am	2017	b	ne\	eng	\	John Benjamins Publishing Company	p3350	11054
+10208109	COUTTSUK	am	2017	b	ne\	eng	\	John Benjamins Publishing Company	p3350	11053
+10208111	COUTTSUK	am	2017	b	ne\	eng	\	John Benjamins Publishing Company	p3350	11052
+10207961	COUTTSUK	am	2017	b	si\	eng	\	ISEAS-Yusof Ishak Institute	p8190	10999
+10207963	COUTTSUK	am	2016	b	ua\	eng	\	The American University in Cairo Press	2110	10986
+10207643	COUTTSUK	am	2018	b	nyu	eng	\	Berghahn Books	8110	11002
+10207639	COUTTSUK	am	2018	\	nyu	eng	\	World Almanac Books	p2065	11014
+10207641	COUTTSUK	am	2018	b	enk	eng	\	Pluto Press	2115	11005
+10207642	COUTTSUK	am	2017	\	xx\	eng	\	Pluto Press	2110	11004
+10207651	COUTTSUK	am	2017	\	nvu	eng	\	Books and Birch, Publisher	8110	10996
+10207646	COUTTSUK	am	2017	\	enk	eng	\	Routledge	8110	11000
+10207648	COUTTSUK	am	2017	\	xx\	eng	\	Daylight Books	p8190	10998
+10207650	COUTTSUK	am	2017	b	enk	eng	\	BAR Publishing	p8155	10997
+10207259	COUTTSUK	am	2017	\	nyu	eng	\	Skyhorse Publishing	p8155	10955
+10207156	COUTTSUK	am	2017	b	enk	eng	\	Langham Monographs	8110	10958
+10207147	COUTTSUK	am	2017	\	oru	eng	\	Pickwick Publications	8110	10961
+10207151	COUTTSUK	am	2018	b	mdu	eng	\	Lexington Books	p8154	10960
+10207153	COUTTSUK	am	2017	b	vau	eng	\	American History Press	p8154	10959
+10207159	COUTTSUK	am	2017	b	inu	eng	\	AuthorHouse	8110	10957
+10207161	COUTTSUK	am	2017	\	inu	eng	\	iUniverse	p8155	10951
+10207164	COUTTSUK	am	2017	b	enk	eng	\	Osprey Publishing	p8155	10950
+10207166	COUTTSUK	am	2017	b	enk	eng	\	Osprey Publishing	p8155	10949
+10207167	COUTTSUK	am	2017	b	enk	eng	\	Routledge	p8155	10947
+10207168	COUTTSUK	am	2017	\	nyu	eng	\	Orbis Books	p8154	10946
+10207169	COUTTSUK	am	2017	b	ohu	eng	\	Ohio University Press	p8155	10945
+10227104	BNABKS	am	2017	\	vau	eng	\	Bloomberg BNA	p1359	11418
+10249921	LHHARTMAN	am	2010	b	ilu	eng	\	Collectors Club of Chicago	p2992	12130

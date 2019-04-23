@@ -1,0 +1,99 @@
+mysql> SELECT institution,count(*) FROM LOG WHERE STR_TO_DATE(`date`,'%Y-%m-%d') BETWEEN '2017-07-01' and '2018-06-30' group by institution;
++-------------+----------+
+| institution | count(*) |
++-------------+----------+
+| COLUMPOOF   |     4566 |
+| CRNLITSO    |     5087 |
+| CRNLPOOF    |     6806 |
++-------------+----------+
+3 rows in set, 65535 warnings (0.21 sec)
+
+
+select vendor,count(*) from LOG where institution = 'crnlitso' group by vendor;
+
+mysql> select vendor,count(*) from LOG WHERE STR_TO_DATE(`date`,'%Y-%m-%d') BETWEEN '2017-07-01' and '2018-06-30' and institution = 'crnlitso' group by vendor;
++------------+----------+
+| vendor     | count(*) |
++------------+----------+
+| -error-    |       66 |
+| AMAZON     |      208 |
+| ASSIGN     |      689 |
+| aux/e      |      222 |
+| bach       |        2 |
+| Barlovento |        1 |
+| BOOKSMEX   |        2 |
+| BOUCHAL    |        1 |
+| Casalini/e |      166 |
+| CouttsUK   |     3223 |
+| DEREX      |        2 |
+| DKA        |       16 |
+| ERASMUS    |       59 |
+| Harrass/e  |      149 |
+| inslivre   |        7 |
+| ISIS/LTD   |        1 |
+| jerusalem  |        3 |
+| KINOKUNIYA |        5 |
+| linardi    |        1 |
+| Longleaf   |        4 |
+| MIDWEST    |      169 |
+| nibo       |        1 |
+| OLGA       |        1 |
+| panmun     |        7 |
+| QingYin    |       12 |
+| REGULA     |        1 |
+| SERBICA    |        3 |
+| SOFIABKS   |        1 |
+| solidar    |        1 |
+| STATELIB   |        5 |
+| vanschk    |        5 |
+| VIRIO      |        4 |
+| WOLINSKI   |        5 |
+| Yankee/e   |       45 |
++------------+----------+
+
+
+mysql> select vendor,count(*) from LOG WHERE STR_TO_DATE(`date`,'%Y-%m-%d') BETWEEN '2017-07-01' and '2018-06-30' and institution = 'crnlpoof' group by vendor;
++-----------------+----------+
+| vendor          | count(*) |
++-----------------+----------+
+| -error-         |      202 |
+| AMAZON          |     1282 |
+| ASSIGN          |     1335 |
+| aux/e           |      649 |
+| bach            |        4 |
+| Barlovento      |        1 |
+| BOOKSMEX        |        5 |
+| BOUCHAL         |        1 |
+| Cambeiro        |        2 |
+| Casalini/e      |      368 |
+| CouttsUK        |     1243 |
+| darmhjar        |        1 |
+| DKA             |      134 |
+| ERASMUS         |      194 |
+| FRONT           |        2 |
+| Harrass/e       |      465 |
+| ISIS/LTD        |       45 |
+| jerusalem       |       13 |
+| KINOKUNIYA      |      228 |
+| leila           |        1 |
+| linardi         |        1 |
+| Longleaf        |        2 |
+| MIDWEST         |      276 |
+| nataraj         |        4 |
+| nibo            |       17 |
+| panmun          |        1 |
+| QingYin         |      118 |
+| REGULA          |        4 |
+| select          |       80 |
+| SERBICA         |        1 |
+| SOFIABKS        |        1 |
+| solidar         |        9 |
+| SoundRecordings |        2 |
+| STATELIB        |        6 |
+| VIRIO           |       50 |
+| WOLINSKI        |        1 |
+| Yankee/e        |       58 |
++-----------------+----------+
+37 rows in set, 65535 warnings (0.44 sec)
+
+

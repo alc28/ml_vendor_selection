@@ -1,0 +1,78 @@
+---
+title: "model2"
+author: "Adam Chandler"
+date: "September 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+# Load tidyverse and caret
+library(caret)
+library(tidyverse)
+library(janitor)
+library(stringr)
+library(forcats)
+library(yardstick)
+```
+
+
+```{r}
+# load and prep file
+
+df_raw <- read_delim("data/experiment3/ready4ml.txt", 
+    "\t", escape_double = FALSE, trim_ws = TRUE)
+
+df <- df_raw %>%
+  clean_names %>%
+  mutate(vendor_code = str_to_lower(vendor_code)) %>%
+  mutate_if(is.character,as.factor) %>%
+  mutate(vendor_code = fct_lump(vendor_code, prop = .0005),
+         language = fct_lump(language, prop = .0005),
+         date = fct_lump(date, n = 4),
+         place = fct_lump(place, prop = .0005),
+         fund = fct_explicit_na(fund, na_level = "Missing"),
+         fund = fct_lump(fund, prop = .0005))
+
+
+```
+
+
+
+
+```{r}
+# Split dataset into training and test sets
+set.seed(1234)
+in_train <- createDataPartition(df$vendor_code, p = .80, list = FALSE)
+training <- df[in_train, ]
+testing <- df[-in_train, ]
+
+
+```
+
+
+```{r}
+
+# model sandbox
+
+model_dataset <- training
+model_sandbox <- train(vendor_code ~ location + rush + language + place + fund, data = model_dataset, 
+                       method = "ranger"
+               )
+
+model_sandbox
+results_sandbox <- testing %>%
+    mutate(random_forest = predict(model_sandbox, testing))
+metrics(results_sandbox, truth = vendor_code, estimate = random_forest)
+
+results_sandbox %>%
+  count(vendor_code, random_forest)
+
+
+```
+
+

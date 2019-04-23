@@ -1,0 +1,175 @@
+---
+title: 'Analysis of Matrix Assignments, November 2017: POOF and Ally'
+author: "Adam Chandler"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r echo=FALSE}
+
+# Prep
+
+# 1. Open POOF_analysis.mdb
+
+# 2. Update date for query = Purchase_Order_Created_by_Date_with_Bib_vendor_1a_Get_Candidates
+
+# 3. Save report to /input/dataformonth and rename as Purchase_Orders_Created_by_Date_with_Bib_vendor.txt (Save as tab delimited without quotes.)
+
+# 4. Change the title and month variables in matrixassignments_enhanced.Rmd
+
+
+```
+
+
+
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+
+# libraries
+
+library(tidyverse)
+library(readr)
+
+
+month <- "201711"
+
+# Get input data using Access query in POOF_analysis.mdb
+# Query name: Purchase_Order_Created_by_Date_with_Bib_vendor_1a_Get_Candidates
+# Save tab delimited table as assign/input/dataformonth/Purchase_Orders_Created_by_Date_with_Bib_vendor.txt
+
+
+
+
+# functions
+
+testmatrixmatch <- function (tmv,tav) {
+  if (tmv == tav) {
+    return(TRUE)
+  } 
+  else {
+    return(FALSE)
+  }
+}
+
+# load dataset
+
+assign <- read.delim("assign/input/dataformonth/201701_matrixorders.txt", stringsAsFactors=FALSE)
+
+#assign <- read_delim("assign/input/dataformonth/201711_matrixorders.txt", 
+    "\t", escape_double = FALSE, trim_ws = TRUE)
+
+# refine dataset
+
+assign <- assign %>% mutate(matrixvendor = tolower(Get980v), actualvendor = tolower(VENDOR_CODE), matrixmatch = "NA")
+assign$recordsource <- NA
+assign$evalmatrixmatch <- NA
+
+for (i in 1:nrow(assign)) {
+  if (assign$matrixvendor[i] != "") {
+    assign$matrixmatch[i] <- testmatrixmatch(assign$matrixvendor[i], assign$actualvendor[i])
+  }
+  if (substr(assign$Get980z[i], 1, 4) == "POOF") {
+    assign$recordsource[i] <- "POOF"
+  } 
+  if ( assign$Get980z[i] == "" && nchar(assign$Get980h[i]) > 0 ) {
+    assign$recordsource[i] <- "WCS"
+  }   
+}
+
+assign$matrixmatch[assign$matrixvendor == "[amazon/pdb]" & assign$actualvendor == "amazon/pdb"] <- "TRUE"
+assign$matrixmatch[assign$matrixvendor == "[coutts/pdb]" & assign$actualvendor == "coutts/pdb"] <- "TRUE"
+assign$matrixmatch[assign$matrixvendor == "ambas/fo" & assign$actualvendor == "ambas"] <- "TRUE"
+assign$matrixmatch[assign$matrixvendor != "assign" & assign$matrixvendor != "" & assign$matrixmatch != "TRUE"] <- "FALSE"
+assign$matrixmatch[assign$matrixvendor == "assign"] <- "ASSIGN"
+assign$evalmatrixmatch[assign$matrixmatch == "TRUE"] <- 1
+assign$evalmatrixmatch[assign$matrixmatch == "FALSE"] <- 0
+
+
+# filter to transactions that went through matrix
+
+throughmatrix <- assign %>% filter(matrixmatch != "NA")
+throughmatrix$Expr1 <- NULL  
+throughmatrix$VENDOR_CODE <- NULL
+
+
+# count by recordsource
+
+grp_recordsource <- throughmatrix %>% group_by(recordsource) %>% summarize(n = n() )
+
+
+
+#  Matrix vendor accuracy
+
+t <- throughmatrix %>% group_by(matrixvendor, matrixmatch) %>% select(matrixvendor, matrixmatch) %>% summarize(count = n())
+
+d <- dcast(t, matrixvendor ~ matrixmatch, value.var="count")
+
+colnames(d) <- c("matrixvendor", "assign", "matrixvendorfalse","matrixvendortrue")
+
+d$matrixvendorfalse[is.na(d$matrixvendorfalse)] <- 0
+d$matrixvendortrue[is.na(d$matrixvendortrue)] <- 0
+
+allmatrixvendorsummary <- d %>% mutate(total = matrixvendorfalse + matrixvendortrue) %>% mutate(percenttrue = round(matrixvendortrue / total,2)) %>% arrange(desc(percenttrue))
+
+
+
+
+outputfile <- paste("assign/output/", month, "_allmatrixvendorsummary.csv", sep="")
+write.csv(allmatrixvendorsummary, file = outputfile, row.names = FALSE)
+
+
+# analyze vendors compared to actual assignments
+
+allmetrics <- throughmatrix %>% group_by(matrixvendor, actualvendor, matrixmatch) %>% arrange(desc(matrixvendor)) %>% summarize(count = n())
+
+outputfile <- paste("assign/output/", month, "_allmetrics.csv", sep="")
+write.csv(allmetrics, file = outputfile, row.names = FALSE)
+
+
+#Opidmetrics where matrixmatch == FALSE
+opidmetrics <- throughmatrix %>% filter(CREATE_OPID != "SYSTEM" & matrixmatch == "FALSE")  %>% group_by(CREATE_OPID, matrixvendor, actualvendor) %>% summarize(count = n())
+
+
+# Opidmetrics with bibids where matrixmatch == FALSE
+opidmetricswbibid <- throughmatrix %>% filter(CREATE_OPID != "SYSTEM" & matrixmatch == "FALSE")  %>% group_by(CREATE_OPID, matrixvendor, actualvendor, BIB_ID) %>% summarize(count = n())
+
+
+```
+
+## Matrix vendor accuracy
+```{r,results='asis', echo=FALSE}
+knitr::kable(allmatrixvendorsummary)
+
+
+thisperiodpercenttrue <- round(sum(allmatrixvendorsummary$matrixvendortrue) / sum(allmatrixvendorsummary$total),2) 
+
+
+```
+
+
+`r paste("* num matrixvendortrue: ",sum(allmatrixvendorsummary$matrixvendortrue)) `
+`r paste("* num total: ",sum(allmatrixvendorsummary$total)) `
+`r paste("* percent true: ",thisperiodpercenttrue) `
+
+
+## Matrix vendor assignments compared to actual assignments
+```{r,results='asis', echo=FALSE}
+knitr::kable(allmetrics)
+```
+
+
+## Opidmetrics where matrixmatch == FALSE
+```{r,results='asis', echo=FALSE}
+knitr::kable(opidmetrics)
+```
+
+## Opidmetrics with bibids where matrixmatch == FALSE
+```{r,results='asis', echo=FALSE}
+knitr::kable(opidmetricswbibid)
+```
+
+
+
